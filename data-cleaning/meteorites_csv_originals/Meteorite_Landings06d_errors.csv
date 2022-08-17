@@ -1,0 +1,58 @@
+name,id,nametype,recclass,mass (g),fall,year,lat,lng,GeoLocation
+MacAlpine Hills 02511,14821,Valid,L5,1.88,Found,2002,,,
+MacAlpine Hills 02513,14822,Valid,H5,2.65,Found,2002,,,
+MacAlpine Hills 02514,14823,Valid,L5,4.49,Found,2002,,,
+MacAlpine Hills 02515,14824,Valid,H5,11.01,Found,2002,,,
+MacAlpine Hills 02516,14825,Valid,H5,2.67,Found,2002,,,
+MacAlpine Hills 02517,14826,Valid,L4,3.61,Found,2002,,,
+MacAlpine Hills 02518,14827,Valid,H5,17.68,Found,2002,,,
+MacAlpine Hills 02519,14828,Valid,H4,9.62,Found,2002,,,
+MacAlpine Hills 02520,14829,Valid,H6,9.46,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02522,14830,Valid,Eucrite-unbr,5.7,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02523,14831,Valid,LL5,3.54,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02524,14832,Valid,H6,2.38,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02525,14833,Valid,H6,0.24,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02526,14834,Valid,LL6,0.22,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02527,14835,Valid,Eucrite-br,3.7,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02528,14836,Valid,CV3,5.61,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02529,14837,Valid,H6,3.02,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02530,14838,Valid,L5,4.3,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02532,14839,Valid,H6,0.2,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02533,14840,Valid,L5,0.6,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02534,14841,Valid,L5,1.1,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02535,14842,Valid,CM2,14.4,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02536,14843,Valid,L5,1.2,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02538,14844,Valid,L5,54.5,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02539,14845,Valid,LL6,96.6,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02540,14846,Valid,LL6,97.97,Found,2002,,,
+MacAlpine Hills 02541,14847,Valid,H5,75.6,Found,2002,,,
+MacAlpine Hills 02542,14848,Valid,H5,158.07,Found,2002,,,
+MacAlpine Hills 02543,14849,Valid,LL5,137.95,Found,2002,,,
+MacAlpine Hills 02550,14856,Valid,H6,7.6,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02551,14857,Valid,LL5,6.7,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02552,14858,Valid,CM2,0.3,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02554,14859,Valid,H6,0.2,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02555,14860,Valid,H5,1.7,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02556,14861,Valid,E3,1.41,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02557,14862,Valid,H6,1.5,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02559,14863,Valid,L5,0.9,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)"
+MacAlpine Hills 02560,14864,Valid,H5,3.95,Found,2002,,,
+MacAlpine Hills 02561,14865,Valid,H5,5.76,Found,2002,,,
+MacAlpine Hills 02563,14866,Valid,H5,20.42,Found,2002,,,
+MacAlpine Hills 02564,14867,Valid,H5,0.4,Found,2002,,,
+MacAlpine Hills 02565,14868,Valid,H5,0.69,Found,2002,,,
+MacAlpine Hills 02566,14869,Valid,H5,11.18,Found,2002,,,
+MacAlpine Hills 02567,14870,Valid,L4,8.04,Found,2002,,,
+MacAlpine Hills 02568,14871,Valid,L5,14.4,Found,2002,,,
+MacAlpine Hills 02569,14872,Valid,H5,92.13,Found,2002,,,
+MacAlpine Hills 02570,14873,Valid,L4,14.13,Found,2002,,,
+MacAlpine Hills 02571,14874,Valid,H5,9.99,Found,2002,,,
+MacAlpine Hills 02572,14875,Valid,H5,9.55,Found,2002,,,
+MacAlpine Hills 02573,14876,Valid,L4,5.89,Found,2002,,,
+MacAlpine Hills 02574,14877,Valid,L5,10.5,Found,2002,,,
+MacAlpine Hills 02575,14878,Valid,L5,2.79,Found,2002,,,
+MacAlpine Hills 02576,14879,Valid,L5,12.92,Found,2002,,,
+MacAlpine Hills 02577,14880,Valid,H5,4.56,Found,2002,,,
+MacAlpine Hills 02579,14881,Valid,H5,18.76,Found,2002,,,
+MacAlpine Hills 02580,14882,Valid,H5,19.42,Found,2002,,,
+MacAlpine Hills 02581,14883,Valid,L5,0.43,Found,2002,,,

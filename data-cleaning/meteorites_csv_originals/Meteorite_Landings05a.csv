@@ -1,0 +1,2500 @@
+name,id,nametype,recclass,mass (g),fall,year,lat,lng,GeoLocation
+Hammadah al Hamra 220,11703,Valid,H4,4153,Found,1997,28.932,12.62533,"(28.932, 12.62533)"
+Hammadah al Hamra 221,11704,Valid,H4-5,1227,Found,1997,29.22083,11.54067,"(29.22083, 11.54067)"
+Hammadah al Hamra 222,11705,Valid,L6,3393,Found,1997,29.187,11.60167,"(29.187, 11.60167)"
+Hammadah al Hamra 223,11706,Valid,L6,2833,Found,1997,29.18633,11.60567,"(29.18633, 11.60567)"
+Hammadah al Hamra 224,11707,Valid,L6,820,Found,1997,29.31867,12.01017,"(29.31867, 12.01017)"
+Hammadah al Hamra 225,11708,Valid,H4-5,2469,Found,1997,28.95933,12.334,"(28.95933, 12.334)"
+Hammadah al Hamra 226,11709,Valid,H6,476,Found,1997,28.6595,12.41317,"(28.6595, 12.41317)"
+Hammadah al Hamra 227,11710,Valid,H4-5,1920,Found,1997,28.66,12.64833,"(28.66, 12.64833)"
+Hammadah al Hamra 228,11711,Valid,H5,404,Found,1997,28.51133,13.20417,"(28.51133, 13.20417)"
+Hammadah al Hamra 229,11712,Valid,L6,666,Found,1997,29.17617,11.63383,"(29.17617, 11.63383)"
+Hammadah al Hamra 230,11713,Valid,H5,809,Found,1997,29.14233,11.88317,"(29.14233, 11.88317)"
+Hammadah al Hamra 231,11714,Valid,L5,209,Found,1997,29.13617,11.92567,"(29.13617, 11.92567)"
+Hammadah al Hamra 232,11715,Valid,L6,572,Found,1997,29.10883,12.012,"(29.10883, 12.012)"
+Hammadah al Hamra 233,11716,Valid,H5,123,Found,1997,29.087,12.07783,"(29.087, 12.07783)"
+Hammadah al Hamra 234,11717,Valid,L6,133,Found,1997,29.076,11.97533,"(29.076, 11.97533)"
+Hammadah al Hamra 235,11718,Valid,H5,537,Found,1997,29.01717,12.08667,"(29.01717, 12.08667)"
+Hammadah al Hamra 236,11719,Valid,L4,8261,Found,1997,28.52633,13.06517,"(28.52633, 13.06517)"
+Hammadah al Hamra 237,11720,Valid,CBb,3173,Found,1997,28.60933,13.04917,"(28.60933, 13.04917)"
+Hammadah al Hamra 238,11721,Valid,L6,266,Found,1997,28.93083,13.126,"(28.93083, 13.126)"
+Hammadah al Hamra 239,11722,Valid,H5,393,Found,1997,28.47817,13.14417,"(28.47817, 13.14417)"
+Hammadah al Hamra 240,11723,Valid,L4,1624,Found,1997,29.44983,11.36117,"(29.44983, 11.36117)"
+Hammadah al Hamra 241,11724,Valid,L6,1579,Found,1997,29.44367,11.35383,"(29.44367, 11.35383)"
+Hammadah al Hamra 242,11725,Valid,L5,1440,Found,1997,29.04117,12.88567,"(29.04117, 12.88567)"
+Hammadah al Hamra 243,11726,Valid,L6,268.08,Found,1997,28.4375,12.97517,"(28.4375, 12.97517)"
+Hammadah al Hamra 244,11727,Valid,L5-6,636.69,Found,1997,28.8515,13.40367,"(28.8515, 13.40367)"
+Hammadah al Hamra 245,11728,Valid,L5-6,435.8,Found,1997,28.8545,12.20417,"(28.8545, 12.20417)"
+Hammadah al Hamra 246,11729,Valid,LL6,796.69,Found,1997,28.421,12.88683,"(28.421, 12.88683)"
+Hammadah al Hamra 247,11730,Valid,LL6,288.46,Found,1997,28.8525,13.4835,"(28.8525, 13.4835)"
+Hammadah al Hamra 248,11731,Valid,H3.9,2345,Found,1997,28.643,12.77533,"(28.643, 12.77533)"
+Hammadah al Hamra 249,11732,Valid,H5,218.43,Found,1997,28.80867,12.90017,"(28.80867, 12.90017)"
+Hammadah al Hamra 250,11733,Valid,H5,2650,Found,1997,28.82867,12.92833,"(28.82867, 12.92833)"
+Hammadah al Hamra 251,11734,Valid,L5,870,Found,1997,28.95967,12.87117,"(28.95967, 12.87117)"
+Hammadah al Hamra 252,11735,Valid,L5-6,195.56,Found,1997,29.01517,12.66783,"(29.01517, 12.66783)"
+Hammadah al Hamra 253,11736,Valid,L6,66.6,Found,1997,29.14517,12.0425,"(29.14517, 12.0425)"
+Hammadah al Hamra 254,11737,Valid,L5-6,649.6,Found,1997,29.1025,11.95433,"(29.1025, 11.95433)"
+Hualapai Wash 021,11919,Valid,H4,20.5,Found,1997,35.8895,-114.192,"(35.8895, -114.192)"
+Jabal Akakus,12064,Valid,LL6,215,Found,1997,25,10.83333,"(25.0, 10.83333)"
+Kimba,12310,Valid,H4,1492,Found,1997,-33.21667,136.41667,"(-33.21667, 136.41667)"
+King Tut,12315,Valid,L5,19.51,Found,1997,35.92333,-114.10167,"(35.92333, -114.10167)"
+Lewis Cliff 97200,14613,Valid,LL6,61.7,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97201,14614,Valid,H5,148.2,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97202,14615,Valid,L3.4,117.6,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97203,14616,Valid,LL6,267.1,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97204,14617,Valid,L6,277.7,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97205,14618,Valid,L6,235,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97206,14619,Valid,LL6,182.4,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97207,14620,Valid,L6,524.4,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97208,14621,Valid,L6,660.7,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97209,14622,Valid,L5,340.6,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97210,14623,Valid,L6,288.5,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97211,14624,Valid,L6,122,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97212,14625,Valid,L6,171.9,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97213,14626,Valid,LL5,82.1,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97214,14627,Valid,L6,35,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97215,14628,Valid,H6,24.3,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97216,14629,Valid,L3.7,23,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97217,14630,Valid,L5,25.5,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97218,14631,Valid,H5,28.5,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97219,14632,Valid,H5,79.6,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97220,14633,Valid,H5,5.8,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97221,14634,Valid,L3,48,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97222,14635,Valid,H6,28.9,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97223,14636,Valid,H6,22.7,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97224,14637,Valid,H5,4.8,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97225,14638,Valid,Ureilite,2.1,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97226,14639,Valid,H5,5.7,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Lewis Cliff 97227,14640,Valid,H5,8.8,Found,1997,-84.26667,161.5,"(-84.26667, 161.5)"
+Little Minnie Creek,14663,Valid,L4,357,Found,1997,-24.13833,115.87167,"(-24.13833, 115.87167)"
+Murzuq Idhån,16883,Valid,H4,35,Found,1997,23.8,12.31667,"(23.8, 12.31667)"
+Northwest Africa 2957,33407,Valid,"Pallasite, PMG",362,Found,1997,,,
+Onello,18020,Valid,"Iron, ungrouped",164,Found,1997,63.16667,137.66667,"(63.16667, 137.66667)"
+Österplana 011,44811,Relict,Relict OC,,Found,1997,58.58333,13.43333,"(58.58333, 13.43333)"
+Österplana 017,44817,Relict,Relict OC,,Found,1997,58.58333,13.43333,"(58.58333, 13.43333)"
+Österplana 019,44819,Relict,Relict OC,,Found,1997,58.58333,13.43333,"(58.58333, 13.43333)"
+Österplana 020,44820,Relict,Relict OC,,Found,1997,58.58333,13.43333,"(58.58333, 13.43333)"
+Österplana 021,44821,Relict,Relict OC,,Found,1997,58.58333,13.43333,"(58.58333, 13.43333)"
+Poolowanna,18867,Valid,H5,875,Found,1997,-29.83167,136.85867,"(-29.83167, 136.85867)"
+Primm,18889,Valid,H5,3383,Found,1997,35.66667,-115.36667,"(35.66667, -115.36667)"
+Queen Alexandra Range 97001,20408,Valid,Howardite,2358.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97002,20409,Valid,Howardite,1384.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97003,20410,Valid,CM2,1384.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97004,20411,Valid,Eucrite-br,13.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97005,20412,Valid,CM2,13.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97006,20413,Valid,H5,4057.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97007,20414,Valid,L5,508,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97008,20415,Valid,L3.05,452.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97009,20416,Valid,H6,377.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97010,20417,Valid,L6,430.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97011,20418,Valid,LL6,402.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97012,20419,Valid,LL6,1272.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97013,20420,Valid,LL5,706,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97014,20421,Valid,Eucrite-unbr,142.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97015,20422,Valid,LL5,101.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97016,20423,Valid,LL5,488.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97017,20424,Valid,LL5,305.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97018,20425,Valid,L6,2883.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97019,20426,Valid,LL5,236.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97020,20427,Valid,LL5,163.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97021,20428,Valid,LL5,205.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97022,20429,Valid,H5,206.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97023,20430,Valid,LL6,394.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97024,20431,Valid,LL5,348.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97025,20432,Valid,LL5,143.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97026,20433,Valid,LL5,340.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97027,20434,Valid,H4,375.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97028,20435,Valid,LL5,910.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97029,20436,Valid,L6,824.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97030,20437,Valid,H3.4,413.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97031,20438,Valid,L5,349.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97032,20439,Valid,L6,434.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97033,20440,Valid,L6,367.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97034,20441,Valid,L4,677.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97035,20442,Valid,L6,244.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97036,20443,Valid,L6,182.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97037,20444,Valid,L6,213.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97038,20445,Valid,H6,266.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97039,20446,Valid,H5,322.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97040,20447,Valid,LL5,314.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97041,20448,Valid,LL5,272.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97042,20449,Valid,LL5,214.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97043,20450,Valid,LL5,153.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97044,20451,Valid,L6,122.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97045,20452,Valid,LL5,122.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97046,20453,Valid,L6,130.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97047,20454,Valid,H5,183.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97048,20455,Valid,L5,128.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97049,20456,Valid,L6,143.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97050,20457,Valid,L6,191.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97051,20458,Valid,LL5,141.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97052,20459,Valid,LL5,139.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97053,20460,Valid,Eucrite-unbr,75.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97054,20461,Valid,L6,179.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97055,20462,Valid,LL5,32.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97056,20463,Valid,LL5,36.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97057,20464,Valid,L6,191.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97058,20465,Valid,LL5,143,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97059,20466,Valid,LL5,99.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97060,20467,Valid,LL5,60.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97061,20468,Valid,LL5,27.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97062,20469,Valid,LL5,93.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97063,20470,Valid,LL5,32,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97064,20471,Valid,LL5,19.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97065,20472,Valid,LL5,57.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97066,20473,Valid,LL5,34.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97067,20474,Valid,LL5,17.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97068,20475,Valid,LL5,66.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97069,20476,Valid,LL5,94.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97070,20477,Valid,LL5,123.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97071,20478,Valid,LL5,25,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97072,20479,Valid,LL5,37.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97073,20480,Valid,L5,14.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97074,20481,Valid,LL5,33.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97075,20482,Valid,LL5,91.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97076,20483,Valid,LL5,5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97077,20484,Valid,CM2,20,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97078,20485,Valid,L6,82.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97079,20486,Valid,LL5,59.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97080,20487,Valid,LL6,73.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97081,20488,Valid,LL5,39,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97082,20489,Valid,LL5,14.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97083,20490,Valid,LL5,37.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97084,20491,Valid,LL5,62.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97085,20492,Valid,LL5,83.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97086,20493,Valid,LL5,108.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97087,20494,Valid,LL5,37.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97088,20495,Valid,LL4,63.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97089,20496,Valid,LL5,29.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97090,20497,Valid,LL5,86.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97091,20498,Valid,LL5,22.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97092,20499,Valid,LL5,20.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97093,20500,Valid,LL5,8.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97094,20501,Valid,LL5,7.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97095,20502,Valid,LL5,19.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97096,20503,Valid,LL5,11,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97097,20504,Valid,LL5,30.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97098,20505,Valid,LL5,3.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97099,20506,Valid,LL5,25.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97100,20507,Valid,LL5,16.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971000,20508,Valid,LL5,16.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971001,20509,Valid,LL5,22.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971002,20510,Valid,H6,4.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971003,20511,Valid,LL5,52.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971004,20512,Valid,LL5,7.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971005,20513,Valid,H6,15.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971006,20514,Valid,H6,21,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971007,20515,Valid,LL5,7.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971008,20516,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971009,20517,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97101,20518,Valid,H6,70.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971010,20519,Valid,H5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971011,20520,Valid,LL5,34.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971012,20521,Valid,H6,22.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971013,20522,Valid,LL5,6.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971014,20523,Valid,LL5,6.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971015,20524,Valid,LL5,0.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971016,20525,Valid,LL5,1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971018,20526,Valid,LL5,0.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971019,20527,Valid,LL5,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97102,20528,Valid,LL5,20.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971020,20529,Valid,LL5,21.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971021,20530,Valid,LL5,56.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971022,20531,Valid,LL5,37.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971023,20532,Valid,H3.5,11.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971024,20533,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971025,20534,Valid,LL5,26.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971026,20535,Valid,H6,64,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971027,20536,Valid,L6,69.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971028,20537,Valid,LL5,58.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971029,20538,Valid,LL5,41.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97103,20539,Valid,LL5,19,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971030,20540,Valid,LL5,4.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971031,20541,Valid,LL5,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971032,20542,Valid,LL5,2.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971033,20543,Valid,LL5,8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971034,20544,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971035,20545,Valid,LL5,8.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971036,20546,Valid,LL5,37.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971037,20547,Valid,LL5,27.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971038,20548,Valid,H6,6.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971039,20549,Valid,LL5,8.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97104,20550,Valid,LL5,17.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971040,20551,Valid,LL5,17.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971041,20552,Valid,H6,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971042,20553,Valid,H6,2.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971043,20554,Valid,LL5,76,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971044,20555,Valid,LL5,68.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971045,20556,Valid,LL5,479.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971046,20557,Valid,LL6,17.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971047,20558,Valid,H6,99.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971048,20559,Valid,LL5,313.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971049,20560,Valid,L6,3.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97105,20561,Valid,LL5,8.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971050,20562,Valid,H6,16.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 971051,20563,Valid,H6,98.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97106,20564,Valid,LL5,18,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97107,20565,Valid,LL5,15.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97108,20566,Valid,LL5,5.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97109,20567,Valid,LL5,2.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97110,20568,Valid,H5,55.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97111,20569,Valid,LL5,12.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97112,20570,Valid,H5,8.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97113,20571,Valid,L4,28.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97114,20572,Valid,LL5,3.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97115,20573,Valid,L6,18.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97116,20574,Valid,LL5,20.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97117,20575,Valid,LL5,12,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97118,20576,Valid,LL5,13.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97119,20577,Valid,LL5,8.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97120,20578,Valid,LL5,25.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97121,20579,Valid,LL5,24.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97122,20580,Valid,LL5,3.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97123,20581,Valid,LL5,22.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97124,20582,Valid,LL5,14.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97125,20583,Valid,LL5,3.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97126,20584,Valid,LL5,51,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97127,20585,Valid,LL5,27.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97128,20586,Valid,LL5,34.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97129,20587,Valid,LL5,27.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97130,20588,Valid,LL5,12.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97131,20589,Valid,LL5,2.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97132,20590,Valid,LL5,1.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97133,20591,Valid,LL6,18.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97134,20592,Valid,LL5,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97135,20593,Valid,LL5,10,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97136,20594,Valid,LL5,7.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97137,20595,Valid,LL5,16.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97138,20596,Valid,LL5,13.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97139,20597,Valid,LL5,20.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97140,20598,Valid,LL5,24.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97141,20599,Valid,LL5,20.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97142,20600,Valid,LL5,14.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97143,20601,Valid,LL5,32.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97144,20602,Valid,LL5,31.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97145,20603,Valid,LL5,5.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97146,20604,Valid,LL5,5.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97147,20605,Valid,LL5,18.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97148,20606,Valid,LL5,29.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97149,20607,Valid,LL5,29.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97150,20608,Valid,LL5,0.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97151,20609,Valid,LL5,1.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97152,20610,Valid,LL5,1.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97153,20611,Valid,LL5,7.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97154,20612,Valid,LL5,9.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97155,20613,Valid,LL5,27.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97156,20614,Valid,LL5,6.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97157,20615,Valid,LL5,4.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97158,20616,Valid,LL5,45.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97159,20617,Valid,LL5,45.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97160,20618,Valid,LL5,32.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97161,20619,Valid,LL5,1.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97162,20620,Valid,LL5,4.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97163,20621,Valid,LL5,8.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97164,20622,Valid,LL5,11.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97165,20623,Valid,LL5,7.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97166,20624,Valid,LL5,5.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97167,20625,Valid,LL5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97168,20626,Valid,H3.6,24.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97169,20627,Valid,H5,15.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97170,20628,Valid,LL5,11.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97171,20629,Valid,LL5,43.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97172,20630,Valid,LL5,44.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97173,20631,Valid,LL5,70.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97174,20632,Valid,LL5,58.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97175,20633,Valid,LL5,29.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97176,20634,Valid,LL5,2.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97177,20635,Valid,LL5,41.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97178,20636,Valid,LL5,53.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97179,20637,Valid,LL5,13.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97180,20638,Valid,LL5,232.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97181,20639,Valid,LL5,89.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97182,20640,Valid,LL5,109.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97183,20641,Valid,LL5,83.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97184,20642,Valid,LL5,134.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97185,20643,Valid,LL5,37.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97186,20644,Valid,CV3,72.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97187,20645,Valid,LL5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97188,20646,Valid,LL5,5.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97189,20647,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97190,20648,Valid,LL5,59.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97191,20649,Valid,LL5,7.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97192,20650,Valid,LL5,3.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97193,20651,Valid,LL5,36.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97194,20652,Valid,H5,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97195,20653,Valid,LL5,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97196,20654,Valid,LL5,4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97197,20655,Valid,H5,20.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97198,20656,Valid,LL5,1.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97199,20657,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97200,20658,Valid,LL5,20.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97201,20659,Valid,LL5,20.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97202,20660,Valid,LL5,30.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97203,20661,Valid,LL5,17.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97204,20662,Valid,LL5,14.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97205,20663,Valid,LL5,14.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97206,20664,Valid,LL5,17,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97207,20665,Valid,LL5,38,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97208,20666,Valid,H5,38.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97209,20667,Valid,LL5,17.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97210,20668,Valid,LL5,85,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97211,20669,Valid,H5,53.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97212,20670,Valid,LL5,4.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97213,20671,Valid,LL5,57.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97214,20672,Valid,LL5,8.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97215,20673,Valid,H5,10.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97216,20674,Valid,LL5,9.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97217,20675,Valid,LL5,9.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97218,20676,Valid,L5,18.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97219,20677,Valid,LL5,8.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97220,20678,Valid,LL5,4.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97221,20679,Valid,LL5,10,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97222,20680,Valid,LL5,8.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97223,20681,Valid,LL5,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97224,20682,Valid,H6,11,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97225,20683,Valid,LL5,14.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97226,20684,Valid,H5,34.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97227,20685,Valid,LL5,9.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97228,20686,Valid,LL5,1.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97229,20687,Valid,LL5,5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97230,20688,Valid,LL5,11.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97231,20689,Valid,LL5,47.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97232,20690,Valid,H5,86.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97233,20691,Valid,LL5,39.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97234,20692,Valid,LL5,3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97235,20693,Valid,LL5,17.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97236,20694,Valid,LL5,9.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97237,20695,Valid,LL5,1.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97238,20696,Valid,LL5,32.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97239,20697,Valid,LL5,1.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97240,20698,Valid,LL5,12,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97241,20699,Valid,LL5,2.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97242,20700,Valid,H5,26.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97243,20701,Valid,LL5,46.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97244,20702,Valid,LL5,9.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97245,20703,Valid,LL5,7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97246,20704,Valid,LL5,7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97247,20705,Valid,LL5,50.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97248,20706,Valid,LL5,26,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97249,20707,Valid,LL5,43.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97250,20708,Valid,LL5,8.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97251,20709,Valid,LL5,8.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97252,20710,Valid,LL5,8.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97253,20711,Valid,LL5,31.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97254,20712,Valid,LL5,3.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97255,20713,Valid,LL5,3.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97256,20714,Valid,LL5,0.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97360,20818,Valid,L6,139.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97257,20715,Valid,LL5,6.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97258,20716,Valid,LL5,2.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97259,20717,Valid,LL5,2.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97260,20718,Valid,LL5,23.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97261,20719,Valid,LL5,47.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97262,20720,Valid,LL5,31.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97263,20721,Valid,LL5,23.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97264,20722,Valid,LL5,37.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97265,20723,Valid,LL5,15.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97266,20724,Valid,LL5,28.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97267,20725,Valid,LL5,19.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97268,20726,Valid,LL5,36.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97269,20727,Valid,LL5,21.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97270,20728,Valid,H5,4.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97271,20729,Valid,LL5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97272,20730,Valid,LL5,13.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97273,20731,Valid,LL5,2.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97274,20732,Valid,LL5,15.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97275,20733,Valid,LL5,61,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97276,20734,Valid,LL5,9.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97277,20735,Valid,LL5,22,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97278,20736,Valid,LL5,32.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97279,20737,Valid,LL5,27.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97280,20738,Valid,LL5,10.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97281,20739,Valid,LL5,23.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97282,20740,Valid,LL5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97283,20741,Valid,LL5,37.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97284,20742,Valid,LL5,23.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97285,20743,Valid,H6,20.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97286,20744,Valid,LL5,58.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97287,20745,Valid,LL5,23,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97288,20746,Valid,L6,100.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97289,20747,Valid,Aubrite-an,51.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97290,20748,Valid,L6,129.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97291,20749,Valid,LL5,14.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97292,20750,Valid,H5,104,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97293,20751,Valid,LL6,3.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97294,20752,Valid,H5,14.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97295,20753,Valid,H6,2.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97296,20754,Valid,LL5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97297,20755,Valid,LL5,2.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97298,20756,Valid,LL5,4.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97299,20757,Valid,H5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97300,20758,Valid,LL5,24.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97301,20759,Valid,LL5,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97302,20760,Valid,LL5,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97303,20761,Valid,LL5,18.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97304,20762,Valid,LL5,18.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97305,20763,Valid,LL5,29.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97306,20764,Valid,LL5,3.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97307,20765,Valid,LL5,13.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97308,20766,Valid,LL5,5.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97309,20767,Valid,LL5,5.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97310,20768,Valid,LL5,7.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97311,20769,Valid,LL5,25.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97312,20770,Valid,LL5,4.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97313,20771,Valid,LL5,20.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97314,20772,Valid,LL5,2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97315,20773,Valid,LL5,7.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97316,20774,Valid,LL6,23.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97317,20775,Valid,H5,7.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97318,20776,Valid,LL5,7.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97319,20777,Valid,L6,2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97320,20778,Valid,H5,12.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97321,20779,Valid,LL5,96.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97322,20780,Valid,LL5,96.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97323,20781,Valid,LL5,20.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97324,20782,Valid,LL5,46.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97325,20783,Valid,LL5,43.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97326,20784,Valid,LL5,12.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97327,20785,Valid,LL5,5.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97328,20786,Valid,L6,6.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97329,20787,Valid,LL5,70.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97330,20788,Valid,LL5,27.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97331,20789,Valid,L5,36.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97332,20790,Valid,LL5,36.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97333,20791,Valid,LL5,11.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97334,20792,Valid,LL5,43.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97335,20793,Valid,LL5,9.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97336,20794,Valid,LL5,1.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97337,20795,Valid,L6,16.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97338,20796,Valid,L6,23,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97339,20797,Valid,LL5,7.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97340,20798,Valid,LL5,9.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97341,20799,Valid,LL5,21.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97342,20800,Valid,H5,177,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97343,20801,Valid,H5,76.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97344,20802,Valid,LL5,31.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97345,20803,Valid,LL5,40.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97346,20804,Valid,L6,130.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97347,20805,Valid,L6,98,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97348,20806,Valid,Aubrite-an,50.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97349,20807,Valid,LL5,24.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97350,20808,Valid,L6,71.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97351,20809,Valid,LL5,47.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97352,20810,Valid,LL5,9.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97353,20811,Valid,LL5,25,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97354,20812,Valid,LL5,20.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97355,20813,Valid,LL5,15,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97356,20814,Valid,H6,11.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97357,20815,Valid,H5,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97358,20816,Valid,L6,8.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97359,20817,Valid,LL5,8.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97361,20819,Valid,LL5,14.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97362,20820,Valid,L6,16.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97363,20821,Valid,LL5,73.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97364,20822,Valid,LL5,28.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97365,20823,Valid,LL5,12.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97366,20824,Valid,LL5,85.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97367,20825,Valid,LL5,8.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97368,20826,Valid,LL5,13.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97369,20827,Valid,LL5,3.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97370,20828,Valid,LL5,1.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97371,20829,Valid,L6,1.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97372,20830,Valid,LL5,1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97373,20831,Valid,LL5,5.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97375,20832,Valid,LL5,4.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97376,20833,Valid,LL5,4.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97377,20834,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97378,20835,Valid,L6,1.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97379,20836,Valid,LL5,2.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97380,20837,Valid,LL5,31.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97381,20838,Valid,L6,2.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97382,20839,Valid,LL5,2.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97383,20840,Valid,H5,3.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97384,20841,Valid,LL5,28.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97385,20842,Valid,LL5,12.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97386,20843,Valid,LL5,21.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97387,20844,Valid,LL5,54.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97388,20845,Valid,LL5,3.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97389,20846,Valid,LL5,6.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97390,20847,Valid,LL5,64.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97391,20848,Valid,LL5,21.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97392,20849,Valid,LL5,25.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97393,20850,Valid,LL5,7.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97394,20851,Valid,LL5,38.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97395,20852,Valid,LL5,54.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97396,20853,Valid,LL5,16.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97397,20854,Valid,LL5,75.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97398,20855,Valid,LL5,41.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97399,20856,Valid,LL5,31.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97400,20857,Valid,LL5,34.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97401,20858,Valid,LL5,42.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97402,20859,Valid,LL5,43,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97403,20860,Valid,LL5,116.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97404,20861,Valid,LL5,20,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97405,20862,Valid,LL5,20.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97406,20863,Valid,LL5,16,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97407,20864,Valid,LL5,18,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97408,20865,Valid,LL5,29.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97409,20866,Valid,LL5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97410,20867,Valid,LL5,25.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97411,20868,Valid,LL5,5.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97412,20869,Valid,LL5,5.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97413,20870,Valid,LL5,3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97415,20871,Valid,LL5,12.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97416,20872,Valid,CO3,12.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97417,20873,Valid,LL5,8.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97418,20874,Valid,LL5,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97419,20875,Valid,LL5,1.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97420,20876,Valid,LL5,23.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97421,20877,Valid,LL5,29,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97422,20878,Valid,LL5,10.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97423,20879,Valid,LL5,15.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97424,20880,Valid,LL5,7.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97425,20881,Valid,LL5,37.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97426,20882,Valid,LL5,36.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97427,20883,Valid,LL5,28.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97428,20884,Valid,LL5,42.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97429,20885,Valid,LL5,39.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97430,20886,Valid,Eucrite-br,69.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97431,20887,Valid,LL5,101.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97432,20888,Valid,H5,128.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97433,20889,Valid,LL5,106.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97434,20890,Valid,LL5,37.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97435,20891,Valid,LL5,14.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97436,20892,Valid,LL5,1.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97437,20893,Valid,LL5,3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97438,20894,Valid,LL5,2.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97439,20895,Valid,LL5,5.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97440,20896,Valid,L6,87.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97441,20897,Valid,LL5,60.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97442,20898,Valid,LL5,42.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97443,20899,Valid,LL5,32.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97444,20900,Valid,LL5,76,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97445,20901,Valid,LL5,35.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97446,20902,Valid,LL5,20.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97447,20903,Valid,LL5,22.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97448,20904,Valid,LL5,17.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97449,20905,Valid,LL5,10.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97450,20906,Valid,LL5,11.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97451,20907,Valid,LL5,24.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97452,20908,Valid,LL5,7.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97453,20909,Valid,LL5,8.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97454,20910,Valid,LL5,9.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97455,20911,Valid,LL5,13.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97456,20912,Valid,H6,3.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97457,20913,Valid,LL5,1.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97458,20914,Valid,LL5,1.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97459,20915,Valid,LL5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97460,20916,Valid,LL5,6.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97461,20917,Valid,LL5,16.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97462,20918,Valid,EL6,12.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97463,20919,Valid,LL5,3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97464,20920,Valid,LL5,2.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97465,20921,Valid,LL5,13.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97466,20922,Valid,LL5,30.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97467,20923,Valid,LL5,7.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97468,20924,Valid,LL5,8.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97469,20925,Valid,LL5,23.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97470,20926,Valid,LL5,52.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97471,20927,Valid,LL5,27.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97472,20928,Valid,LL5,17.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97473,20929,Valid,L6,4.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97474,20930,Valid,LL5,7.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97475,20931,Valid,LL5,7.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97476,20932,Valid,LL5,33.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97477,20933,Valid,H6,74.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97478,20934,Valid,H6,83.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97479,20935,Valid,LL5,83.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97480,20936,Valid,LL5,10.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97481,20937,Valid,LL5,9.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97482,20938,Valid,LL5,27.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97483,20939,Valid,LL5,27.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97484,20940,Valid,LL5,0.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97485,20941,Valid,LL5,1.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97486,20942,Valid,LL5,4.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97487,20943,Valid,LL5,22.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97488,20944,Valid,LL5,2.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97489,20945,Valid,LL5,1.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97490,20946,Valid,LL5,101.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97491,20947,Valid,LL5,101.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97492,20948,Valid,LL5,8.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97493,20949,Valid,LL5,8.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97494,20950,Valid,LL5,3.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97495,20951,Valid,LL5,34.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97496,20952,Valid,LL5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97497,20953,Valid,LL5,1.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97498,20954,Valid,LL5,1.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97499,20955,Valid,LL5,1.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97500,20956,Valid,LL5,2.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97501,20957,Valid,LL5,48.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97502,20958,Valid,LL5,1.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97503,20959,Valid,LL5,4.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97504,20960,Valid,LL5,15.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97505,20961,Valid,LL5,1.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97506,20962,Valid,LL5,2.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97507,20963,Valid,LL5,5.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97508,20964,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97509,20965,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97510,20966,Valid,LL5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97511,20967,Valid,LL5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97512,20968,Valid,LL5,0.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97513,20969,Valid,LL5,4.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97514,20970,Valid,LL5,42.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97515,20971,Valid,LL5,29,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97516,20972,Valid,LL5,1.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97517,20973,Valid,LL5,1.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97518,20974,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97519,20975,Valid,LL5,6.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97520,20976,Valid,LL5,2.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97521,20977,Valid,LL5,41.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97522,20978,Valid,LL5,38.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97523,20979,Valid,LL5,26.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97524,20980,Valid,LL5,80.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97525,20981,Valid,LL5,130,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97526,20982,Valid,LL5,33.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97527,20983,Valid,LL5,25.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97528,20984,Valid,LL5,15.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97529,20985,Valid,LL5,22.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97530,20986,Valid,LL5,2.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97531,20987,Valid,LL5,2.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97532,20988,Valid,LL5,5.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97533,20989,Valid,H6,9.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97534,20990,Valid,LL5,2.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97535,20991,Valid,LL5,2.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97536,20992,Valid,LL5,1.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97537,20993,Valid,LL5,16.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97538,20994,Valid,L6,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97539,20995,Valid,LL5,1.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97540,20996,Valid,LL5,2.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97541,20997,Valid,LL5,3.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97542,20998,Valid,LL5,12.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97543,20999,Valid,LL5,1.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97544,21000,Valid,LL5,9.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97545,21001,Valid,H6,3.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97546,21002,Valid,LL5,3.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97547,21003,Valid,LL5,3.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97548,21004,Valid,LL5,2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97549,21005,Valid,LL5,8.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97550,21006,Valid,H6,50.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97551,21007,Valid,LL5,29.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97552,21008,Valid,LL5,28.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97553,21009,Valid,LL5,78.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97554,21010,Valid,LL5,37.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97555,21011,Valid,L6,96.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97556,21012,Valid,LL5,78.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97557,21013,Valid,LL5,26.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97558,21014,Valid,L6,39,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97559,21015,Valid,LL5,92.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97560,21016,Valid,LL5,7.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97561,21017,Valid,H5,21.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97562,21018,Valid,LL5,10.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97563,21019,Valid,LL5,3.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97564,21020,Valid,LL5,4.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97565,21021,Valid,LL5,22.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97566,21022,Valid,LL5,5.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97567,21023,Valid,LL5,3.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97568,21024,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97569,21025,Valid,H6,16,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97570,21026,Valid,H6,33.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97571,21027,Valid,LL5,33.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97572,21028,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97573,21029,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97574,21030,Valid,LL5,56.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97575,21031,Valid,LL5,173.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97576,21032,Valid,H6,18.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97577,21033,Valid,LL5,19,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97578,21034,Valid,LL5,31.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97579,21035,Valid,LL5,8.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97580,21036,Valid,LL5,72,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97581,21037,Valid,LL5,16.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97582,21038,Valid,LL5,9.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97583,21039,Valid,LL5,6.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97584,21040,Valid,LL6,1.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97585,21041,Valid,H6,14.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97586,21042,Valid,LL5,14.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97587,21043,Valid,LL5,0.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97588,21044,Valid,LL5,4.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97589,21045,Valid,LL5,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97590,21046,Valid,LL5,49.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97591,21047,Valid,LL5,127.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97592,21048,Valid,LL5,26.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97593,21049,Valid,LL5,48.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97594,21050,Valid,LL5,29.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97595,21051,Valid,H5,20.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97596,21052,Valid,LL5,17.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97597,21053,Valid,LL5,18.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97598,21054,Valid,LL5,24,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97599,21055,Valid,H6,41.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97600,21056,Valid,LL5,7.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97601,21057,Valid,LL5,2.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97602,21058,Valid,LL5,8.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97603,21059,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97604,21060,Valid,LL5,9.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97605,21061,Valid,LL6,5.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97606,21062,Valid,LL5,37.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97607,21063,Valid,LL5,30.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97608,21064,Valid,LL5,27.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97609,21065,Valid,LL5,9.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97610,21066,Valid,LL5,31.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97611,21067,Valid,LL5,71.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97612,21068,Valid,LL5,116.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97613,21069,Valid,L5,15.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97614,21070,Valid,L6,22.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97615,21071,Valid,LL5,38,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97616,21072,Valid,LL5,23.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97617,21073,Valid,LL5,2.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97618,21074,Valid,LL5,4.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97619,21075,Valid,LL5,9.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97620,21076,Valid,LL5,21.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97621,21077,Valid,CM2,2.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97622,21078,Valid,LL5,2.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97623,21079,Valid,LL5,14.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97624,21080,Valid,LL5,11.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97625,21081,Valid,H6,5.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97626,21082,Valid,L6,1.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97627,21083,Valid,L4,2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97628,21084,Valid,LL5,2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97629,21085,Valid,LL5,6.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97630,21086,Valid,H5,6.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97631,21087,Valid,LL5,2.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97632,21088,Valid,Eucrite-br,2.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97633,21089,Valid,L6,6.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97634,21090,Valid,LL5,1.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97635,21091,Valid,LL5,3.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97636,21092,Valid,LL5,7.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97637,21093,Valid,L6,10.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97638,21094,Valid,H6,14.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97639,21095,Valid,LL5,1.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97640,21096,Valid,LL5,14,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97641,21097,Valid,L6,15.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97642,21098,Valid,LL5,56.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97643,21099,Valid,LL5,9.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97644,21100,Valid,LL5,2.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97645,21101,Valid,L6,1.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97646,21102,Valid,LL5,3.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97647,21103,Valid,L6,5.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97648,21104,Valid,LL5,5.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97649,21105,Valid,LL5,10.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97650,21106,Valid,LL5,5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97651,21107,Valid,LL6,29,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97652,21108,Valid,LL5,19.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97653,21109,Valid,LL5,19.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97654,21110,Valid,LL5,13.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97655,21111,Valid,LL5,6.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97656,21112,Valid,LL5,6.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97657,21113,Valid,CM2,3.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97658,21114,Valid,LL5,13.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97659,21115,Valid,LL5,12.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97660,21116,Valid,LL6,13.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97661,21117,Valid,H6,16.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97662,21118,Valid,LL5,18.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97663,21119,Valid,L6,16.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97664,21120,Valid,H6,28.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97665,21121,Valid,LL5,50.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97666,21122,Valid,LL5,1.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97667,21123,Valid,LL5,1.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97668,21124,Valid,LL5,7.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97669,21125,Valid,LL5,41.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97670,21126,Valid,H4,56.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97671,21127,Valid,LL5,34.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97672,21128,Valid,LL5,3.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97673,21129,Valid,H6,36.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97674,21130,Valid,L6,36.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97675,21131,Valid,LL5,1.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97676,21132,Valid,CM2,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97677,21133,Valid,LL5,3.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97678,21134,Valid,LL5,20.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97679,21135,Valid,LL5,23.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97680,21136,Valid,H6,69.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97681,21137,Valid,L4,34.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97682,21138,Valid,L6,19.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97683,21139,Valid,LL5,21.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97684,21140,Valid,LL5,26.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97685,21141,Valid,LL5,8.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97686,21142,Valid,LL5,1.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97687,21143,Valid,LL5,1.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97688,21144,Valid,LL5,35.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97689,21145,Valid,L6,5.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97690,21146,Valid,LL5,55,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97691,21147,Valid,LL5,24.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97692,21148,Valid,LL5,20.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97693,21149,Valid,LL5,6.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97694,21150,Valid,LL5,14.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97695,21151,Valid,H6,9.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97696,21152,Valid,L6,14,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97697,21153,Valid,LL5,8.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97698,21154,Valid,LL5,3.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97699,21155,Valid,LL5,7.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97700,21156,Valid,LL5,11.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97701,21157,Valid,LL5,5.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97702,21158,Valid,LL5,2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97703,21159,Valid,LL5,3.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97704,21160,Valid,LL5,3.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97705,21161,Valid,LL5,6.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97706,21162,Valid,LL5,6.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97707,21163,Valid,LL5,6.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97708,21164,Valid,LL5,2.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97709,21165,Valid,LL5,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97710,21166,Valid,LL5,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97711,21167,Valid,LL5,4.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97712,21168,Valid,LL5,1.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97713,21169,Valid,LL5,6.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97714,21170,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97715,21171,Valid,LL5,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97716,21172,Valid,LL5,26.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97717,21173,Valid,LL5,3.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97718,21174,Valid,H6,7.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97719,21175,Valid,LL5,7.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97720,21176,Valid,L6,17.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97721,21177,Valid,LL5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97722,21178,Valid,LL5,12.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97723,21179,Valid,LL5,23.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97724,21180,Valid,LL5,4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97725,21181,Valid,LL5,7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97726,21182,Valid,LL5,25.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97727,21183,Valid,LL5,4.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97728,21184,Valid,LL5,1.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97729,21185,Valid,LL6,15.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97730,21186,Valid,LL5,55.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97731,21187,Valid,LL5,18.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97732,21188,Valid,LL5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97733,21189,Valid,LL5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97734,21190,Valid,L6,0.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97735,21191,Valid,LL5,25.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97736,21192,Valid,LL5,48.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97737,21193,Valid,LL5,81,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97738,21194,Valid,LL5,43.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97739,21195,Valid,H6,2.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97740,21196,Valid,LL5,2.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97741,21197,Valid,LL5,5.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97742,21198,Valid,L6,22.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97743,21199,Valid,L6,15.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97744,21200,Valid,LL5,13.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97745,21201,Valid,L6,45.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97746,21202,Valid,H6,4.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97747,21203,Valid,L6,28.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97748,21204,Valid,L6,1.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97749,21205,Valid,H5,20.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97750,21206,Valid,LL5,3.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97751,21207,Valid,LL5,26.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97752,21208,Valid,LL5,77.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97753,21209,Valid,LL5,150.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97754,21210,Valid,LL5,21.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97755,21211,Valid,H6,8.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97756,21212,Valid,LL5,5.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97757,21213,Valid,LL5,12.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97758,21214,Valid,LL5,23.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97759,21215,Valid,LL5,25.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97760,21216,Valid,H6,6.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97761,21217,Valid,L6,6.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97762,21218,Valid,L6,69.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97763,21219,Valid,L6,34.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97764,21220,Valid,LL5,31.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97766,21221,Valid,LL5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97767,21222,Valid,LL5,1.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97768,21223,Valid,LL5,1.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97769,21224,Valid,L6,7.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97770,21225,Valid,LL5,11.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97771,21226,Valid,LL5,12.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97841,21295,Valid,LL5,117,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97772,21227,Valid,LL5,62.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97773,21228,Valid,LL5,21.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97774,21229,Valid,LL5,3.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97775,21230,Valid,LL5,5.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97776,21231,Valid,LL5,3.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97777,21232,Valid,LL5,4.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97778,21233,Valid,LL5,7.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97779,21234,Valid,LL5,7.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97780,21235,Valid,H6,4.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97781,21236,Valid,LL5,1.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97782,21237,Valid,LL5,1.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97783,21238,Valid,LL5,12.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97784,21239,Valid,L6,12.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97785,21240,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97786,21241,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97787,21242,Valid,LL5,4.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97788,21243,Valid,LL5,4.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97789,21244,Valid,LL5,0.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97790,21245,Valid,LL5,5.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97791,21246,Valid,LL5,6.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97792,21247,Valid,LL5,12,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97793,21248,Valid,LL5,12.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97794,21249,Valid,LL5,24.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97795,21250,Valid,LL5,30.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97796,21251,Valid,LL5,10.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97797,21252,Valid,LL5,42.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97798,21253,Valid,LL5,22.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97799,21254,Valid,LL5,9.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97800,21255,Valid,H6,126.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97801,21256,Valid,LL5,35.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97802,21257,Valid,LL5,52,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97803,21258,Valid,LL5,79.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97804,21259,Valid,H6,100.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97805,21260,Valid,LL5,74.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97806,21261,Valid,LL5,58.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97807,21262,Valid,LL5,110.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97808,21263,Valid,LL5,38.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97809,21264,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97810,21265,Valid,LL5,52.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97811,21266,Valid,LL5,167.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97812,21267,Valid,LL5,70.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97813,21268,Valid,LL5,11.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97815,21269,Valid,LL5,4.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97816,21270,Valid,LL5,16.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97817,21271,Valid,LL5,10.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97818,21272,Valid,LL5,12.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97819,21273,Valid,LL5,10.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97820,21274,Valid,LL5,10.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97821,21275,Valid,H6,7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97822,21276,Valid,LL5,7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97823,21277,Valid,LL5,16.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97824,21278,Valid,LL5,3.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97825,21279,Valid,LL5,3.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97826,21280,Valid,LL5,1.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97827,21281,Valid,LL5,4.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97828,21282,Valid,LL5,12.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97829,21283,Valid,LL5,19.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97830,21284,Valid,LL5,19.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97831,21285,Valid,LL5,3.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97832,21286,Valid,L5,1.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97833,21287,Valid,LL5,1.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97834,21288,Valid,L5,2.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97835,21289,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97836,21290,Valid,LL5,7.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97837,21291,Valid,LL5,7.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97838,21292,Valid,LL5,0.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97839,21293,Valid,LL5,37.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97840,21294,Valid,LL5,182.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97842,21296,Valid,H5,68,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97843,21297,Valid,LL5,31.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97844,21298,Valid,LL5,65,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97845,21299,Valid,H6,26.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97846,21300,Valid,H6,16.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97847,21301,Valid,LL5,14.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97848,21302,Valid,LL5,13.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97849,21303,Valid,H6,115.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97850,21304,Valid,LL5,82.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97851,21305,Valid,L5,46.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97852,21306,Valid,LL5,121.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97853,21307,Valid,LL5,38.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97854,21308,Valid,H6,8.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97855,21309,Valid,LL5,44.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97856,21310,Valid,LL5,15.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97857,21311,Valid,LL6,8.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97858,21312,Valid,LL5,13.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97859,21313,Valid,LL5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97860,21314,Valid,LL5,27.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97861,21315,Valid,LL5,3.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97862,21316,Valid,L6,19.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97863,21317,Valid,LL5,20.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97864,21318,Valid,LL5,20.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97865,21319,Valid,H6,4.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97866,21320,Valid,LL5,3.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97867,21321,Valid,LL6,18.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97868,21322,Valid,LL5,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97869,21323,Valid,LL5,2.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97870,21324,Valid,H6,98.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97871,21325,Valid,LL5,40,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97872,21326,Valid,LL5,99.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97873,21327,Valid,LL5,22.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97874,21328,Valid,LL5,47.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97875,21329,Valid,LL5,26.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97876,21330,Valid,H6,21.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97877,21331,Valid,LL5,13,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97878,21332,Valid,LL5,31.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97879,21333,Valid,H5,27.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97880,21334,Valid,LL5,5.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97881,21335,Valid,LL5,5.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97882,21336,Valid,H6,4.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97883,21337,Valid,L5,4.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97884,21338,Valid,LL5,0.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97885,21339,Valid,LL5,2.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97886,21340,Valid,LL6,3.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97887,21341,Valid,LL5,2.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97888,21342,Valid,LL5,14.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97889,21343,Valid,L5,14.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97890,21344,Valid,LL5,3.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97891,21345,Valid,LL5,2.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97892,21346,Valid,L6,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97893,21347,Valid,LL5,3.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97894,21348,Valid,LL5,18.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97895,21349,Valid,LL5,18.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97896,21350,Valid,LL5,2.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97897,21351,Valid,LL5,3.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97898,21352,Valid,LL5,2.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97899,21353,Valid,LL5,9.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97900,21354,Valid,LL5,15.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97901,21355,Valid,H6,10.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97902,21356,Valid,LL5,31.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97903,21357,Valid,LL5,31.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97904,21358,Valid,H6,37.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97905,21359,Valid,L5,15.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97906,21360,Valid,LL5,12,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97907,21361,Valid,LL5,5.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97908,21362,Valid,LL5,1.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97909,21363,Valid,LL5,4.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97910,21364,Valid,LL5,29.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97911,21365,Valid,L6,28.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97912,21366,Valid,LL5,49.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97913,21367,Valid,LL5,21,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97914,21368,Valid,LL5,15.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97915,21369,Valid,L6,11.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97916,21370,Valid,LL5,18,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97917,21371,Valid,L5,128.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97918,21372,Valid,LL5,22.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97919,21373,Valid,LL5,36.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97920,21374,Valid,LL5,15.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97921,21375,Valid,LL5,6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97922,21376,Valid,LL5,2.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97923,21377,Valid,LL5,13.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97924,21378,Valid,H6,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97925,21379,Valid,LL5,5.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97926,21380,Valid,LL5,6.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97927,21381,Valid,LL5,8.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97928,21382,Valid,LL5,1.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97929,21383,Valid,LL5,14.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97930,21384,Valid,LL5,3.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97931,21385,Valid,LL5,3.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97932,21386,Valid,LL5,9.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97933,21387,Valid,LL5,6.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97934,21388,Valid,L5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97935,21389,Valid,LL5,3.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97936,21390,Valid,LL5,2.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97937,21391,Valid,LL5,11,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97938,21392,Valid,LL5,18.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97939,21393,Valid,LL5,5.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97940,21394,Valid,L5,58.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97941,21395,Valid,LL5,43.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97942,21396,Valid,LL6,52.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97943,21397,Valid,LL5,21,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97944,21398,Valid,LL5,14.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97980,21434,Valid,H6,89.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97945,21399,Valid,LL5,51.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97946,21400,Valid,LL5,6.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97947,21401,Valid,L5,51.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97948,21402,Valid,H5,3.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97949,21403,Valid,LL5,5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97950,21404,Valid,LL6,7.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97951,21405,Valid,LL5,2.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97952,21406,Valid,LL5,42,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97953,21407,Valid,LL5,1.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97954,21408,Valid,LL5,12.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97955,21409,Valid,LL5,8.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97956,21410,Valid,H5,8.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97957,21411,Valid,H5,3.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97958,21412,Valid,CM2,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97959,21413,Valid,LL5,34.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97960,21414,Valid,LL5,17.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97961,21415,Valid,LL5,72.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97962,21416,Valid,LL5,10,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97963,21417,Valid,L5,21.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97964,21418,Valid,LL5,5.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97965,21419,Valid,H5,2.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97966,21420,Valid,L5,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97967,21421,Valid,LL5,4.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97968,21422,Valid,LL5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97969,21423,Valid,LL5,4.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97970,21424,Valid,H6,15.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97971,21425,Valid,LL5,81.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97972,21426,Valid,LL5,8.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97973,21427,Valid,L5,39.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97974,21428,Valid,LL5,35.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97975,21429,Valid,LL5,49.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97976,21430,Valid,LL5,68.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97977,21431,Valid,L6,43.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97978,21432,Valid,LL5,8.4,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97979,21433,Valid,LL5,20.5,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97981,21435,Valid,LL5,6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97982,21436,Valid,LL5,8.9,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97983,21437,Valid,LL5,48.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97984,21438,Valid,H6,20.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97985,21439,Valid,LL5,16.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97986,21440,Valid,LL5,31.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97987,21441,Valid,LL5,34.7,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97988,21442,Valid,LL6,9.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97989,21443,Valid,L5,1.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97990,21444,Valid,CM2,67.3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97991,21445,Valid,Diogenite,6.8,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97992,21446,Valid,LL5,21.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97993,21447,Valid,LL5,14.2,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97994,21448,Valid,LL6,9.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97995,21449,Valid,LL5,23.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97996,21450,Valid,LL5,9.6,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97997,21451,Valid,LL5,3.1,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97998,21452,Valid,LL5,3,Found,1997,-84,168,"(-84.0, 168.0)"
+Queen Alexandra Range 97999,21453,Valid,LL5,3,Found,1997,-84,168,"(-84.0, 168.0)"
+Ragged Top,22370,Valid,H4,122.7,Found,1997,32.44667,-111.34667,"(32.44667, -111.34667)"
+Sahara 97044,22850,Valid,L6,2100,Found,1997,,,
+Sahara 97045,22851,Valid,H4/5,125,Found,1997,,,
+Sahara 97001,22814,Valid,L6,25450,Found,1997,,,
+Sahara 97002,22815,Valid,L5,2540,Found,1997,,,
+Sahara 97003,22816,Valid,L6,1251,Found,1997,,,
+Sahara 97004,22817,Valid,H6,409,Found,1997,,,
+Sahara 97005,22818,Valid,L4/5,252,Found,1997,,,
+Sahara 97006,22819,Valid,L/LL5/6,192,Found,1997,,,
+Sahara 97007,22820,Valid,H4/5,252,Found,1997,,,
+Sahara 97008,22821,Valid,H5,61,Found,1997,,,
+Sahara 97009,22822,Valid,Chondrite-ung,96,Found,1997,,,
+Sahara 97011,22823,Valid,L/LL5/6,236,Found,1997,,,
+Sahara 97012,22824,Valid,L/LL6,1430,Found,1997,,,
+Sahara 97013,22825,Valid,LL6,304,Found,1997,,,
+Sahara 97014,22826,Valid,H5,433,Found,1997,,,
+Sahara 97015,22827,Valid,H4/5,51,Found,1997,,,
+Sahara 97016,22828,Valid,H6,396,Found,1997,,,
+Sahara 97017,22829,Valid,L3/4,199,Found,1997,,,
+Sahara 97018,22830,Valid,H5/6,420,Found,1997,,,
+Sahara 97019,22831,Valid,H5,783,Found,1997,,,
+Sahara 97021,22832,Valid,L/LL5/6,895,Found,1997,,,
+Sahara 97023,22833,Valid,H4,28,Found,1997,,,
+Sahara 97024,22834,Valid,H4,320,Found,1997,,,
+Sahara 97025,22835,Valid,L4/5,99,Found,1997,,,
+Sahara 97026,22836,Valid,H4,39,Found,1997,,,
+Sahara 97027,22837,Valid,H3/4,374,Found,1997,,,
+Sahara 97028,22838,Valid,H4,289,Found,1997,,,
+Sahara 97029,22839,Valid,L5/6,311,Found,1997,,,
+Sahara 97030,22840,Valid,LL5/6,538,Found,1997,,,
+Sahara 97032,22841,Valid,L5,324,Found,1997,,,
+Sahara 97033,22842,Valid,H5,485,Found,1997,,,
+Sahara 97034,22843,Valid,H4,212,Found,1997,,,
+Sahara 97035,22844,Valid,H5,9750,Found,1997,,,
+Sahara 97036,22845,Valid,H4,9905,Found,1997,,,
+Sahara 97037,22846,Valid,LL7,149,Found,1997,,,
+Sahara 97039,22847,Valid,Chondrite-ung,65,Found,1997,,,
+Sahara 97040,22848,Valid,L4,185,Found,1997,,,
+Sahara 97042,22849,Valid,Chondrite-ung,83.4,Found,1997,,,
+Sahara 97047,22852,Valid,H6,146,Found,1997,,,
+Sahara 97048,22853,Valid,H4,256,Found,1997,,,
+Sahara 97049,22854,Valid,LL6,2060,Found,1997,,,
+Sahara 97050,22855,Valid,L5,48.3,Found,1997,,,
+Sahara 97051,22856,Valid,L5,38.3,Found,1997,,,
+Sahara 97053,22857,Valid,H5,62.4,Found,1997,,,
+Sahara 97054,22858,Valid,H4,810,Found,1997,,,
+Sahara 97055,22859,Valid,H6,675,Found,1997,,,
+Sahara 97057,22860,Valid,L6,196,Found,1997,,,
+Sahara 97058,22861,Valid,H3/4,450,Found,1997,,,
+Sahara 97059,22862,Valid,LL6,900,Found,1997,,,
+Sahara 97060,22863,Valid,L/LL5/6,92,Found,1997,,,
+Sahara 97061,22864,Valid,H4,36.6,Found,1997,,,
+Sahara 97062,22865,Valid,L5/6,805,Found,1997,,,
+Sahara 97063,22866,Valid,L6,784,Found,1997,,,
+Sahara 97064,22867,Valid,LL6,161.3,Found,1997,,,
+Sahara 97065,22868,Valid,H6,60,Found,1997,,,
+Sahara 97066,22869,Valid,H6,119,Found,1997,,,
+Sahara 97067,22870,Valid,L4,101.1,Found,1997,,,
+Sahara 97068,22871,Valid,L6,99,Found,1997,,,
+Sahara 97069,22872,Valid,H4,224,Found,1997,,,
+Sahara 97070,22873,Valid,H5,1250,Found,1997,,,
+Sahara 97071,22874,Valid,LL5/6,195,Found,1997,,,
+Sahara 97072,22875,Valid,EH3,1270,Found,1997,,,
+Sahara 97073,22876,Valid,L6,335,Found,1997,,,
+Sahara 97074,22877,Valid,L6,650,Found,1997,,,
+Sahara 97075,22878,Valid,H5,38,Found,1997,,,
+Sahara 97076,22879,Valid,L6,50,Found,1997,,,
+Sahara 97077,22880,Valid,L6,73,Found,1997,,,
+Sahara 97078,22881,Valid,L5/6,98,Found,1997,,,
+Sahara 97079,22882,Valid,EH3,928,Found,1997,,,
+Sahara 97080,22883,Valid,L5/6,200,Found,1997,,,
+Sahara 97081,22884,Valid,EH3,440,Found,1997,,,
+Sahara 97082,22885,Valid,LL5,257,Found,1997,,,
+Sahara 97083,22886,Valid,H6,83,Found,1997,,,
+Sahara 97084,22887,Valid,H4/5,38,Found,1997,,,
+Sahara 97085,22888,Valid,L5,187,Found,1997,,,
+Sahara 97086,22889,Valid,EH3,330,Found,1997,,,
+Sahara 97087,22890,Valid,H5,11210,Found,1997,,,
+Sahara 97088,22891,Valid,EH3,500,Found,1997,,,
+Sahara 97089,22892,Valid,EH3,339,Found,1997,,,
+Sahara 97090,22893,Valid,EH3,2510,Found,1997,,,
+Sahara 97091,22894,Valid,EH3,6140,Found,1997,,,
+Sahara 97092,22895,Valid,EH3,337,Found,1997,,,
+Sahara 97093,22896,Valid,EH3,1359,Found,1997,,,
+Sahara 97095,22897,Valid,H5,7304,Found,1997,,,
+Sahara 97096,22898,Valid,EH3,2516,Found,1997,,,
+Sahara 97097,22899,Valid,LL6,12300,Found,1997,,,
+Sahara 97098,22900,Valid,EH3,100,Found,1997,,,
+Sahara 97099,22901,Valid,LL6,525,Found,1997,,,
+Sahara 97101,22902,Valid,EH3,98,Found,1997,,,
+Sahara 97103,22903,Valid,EH3,248,Found,1997,,,
+Sahara 97104,22904,Valid,LL6,207,Found,1997,,,
+Sahara 97105,22905,Valid,EH3,469,Found,1997,,,
+Sahara 97106,22906,Valid,EH3,90,Found,1997,,,
+Sahara 97107,22907,Valid,EH3,67,Found,1997,,,
+Sahara 97108,22908,Valid,EH3,60,Found,1997,,,
+Sahara 97109,22909,Valid,L4,347,Found,1997,,,
+Sahara 97111,22910,Valid,H4,345,Found,1997,,,
+Sahara 97113,22911,Valid,EH3,618,Found,1997,,,
+Sahara 97114,22912,Valid,EH3,118,Found,1997,,,
+Sahara 97115,22913,Valid,EH3,61,Found,1997,,,
+Sahara 97116,22914,Valid,EH3,105,Found,1997,,,
+Sahara 97117,22915,Valid,EH3,305,Found,1997,,,
+Sahara 97118,22916,Valid,EH3,283,Found,1997,,,
+Sahara 97120,22917,Valid,EH3,100,Found,1997,,,
+Sahara 97121,22918,Valid,EH3,154,Found,1997,,,
+Sahara 97122,22919,Valid,EH3,176,Found,1997,,,
+Sahara 97123,22920,Valid,EH3,190,Found,1997,,,
+Sahara 97124,22921,Valid,EH3,20,Found,1997,,,
+Sahara 97125,22922,Valid,EH3,70,Found,1997,,,
+Sahara 97126,22923,Valid,EH3,50,Found,1997,,,
+Sahara 97127,22924,Valid,EH3,344,Found,1997,,,
+Sahara 97128,22925,Valid,L5,630,Found,1997,,,
+Sahara 97129,22926,Valid,EH3,119,Found,1997,,,
+Sahara 97130,22927,Valid,EH3,160,Found,1997,,,
+Sahara 97131,22928,Valid,EH3,40,Found,1997,,,
+Sahara 97132,22929,Valid,EH3,50,Found,1997,,,
+Sahara 97133,22930,Valid,L6,643,Found,1997,,,
+Sahara 97134,22931,Valid,L6,288,Found,1997,,,
+Sahara 97135,22932,Valid,LL5/6,120,Found,1997,,,
+Sahara 97136,22933,Valid,LL5/6,44,Found,1997,,,
+Sahara 97137,22934,Valid,L/LL4,475,Found,1997,,,
+Sahara 97138,22935,Valid,LL4,98,Found,1997,,,
+Sahara 97139,22936,Valid,L5,515,Found,1997,,,
+Sahara 97140,22937,Valid,L6,60.8,Found,1997,,,
+Sahara 97141,22938,Valid,L5/6,624,Found,1997,,,
+Sahara 97142,22939,Valid,LL6,502,Found,1997,,,
+Sahara 97143,22940,Valid,L4/5,312,Found,1997,,,
+Sahara 97145,22941,Valid,EH3,252,Found,1997,,,
+Sahara 97146,22942,Valid,EH3,419,Found,1997,,,
+Sahara 97147,22943,Valid,EH3,209,Found,1997,,,
+Sahara 97148,22944,Valid,EH3,51,Found,1997,,,
+Sahara 97150,22945,Valid,EH3,321,Found,1997,,,
+Sahara 97151,22946,Valid,EH3,256,Found,1997,,,
+Sahara 97152,22947,Valid,LL5/6,209,Found,1997,,,
+Sahara 97153,22948,Valid,L4,3790,Found,1997,,,
+Sahara 97154,22949,Valid,LL6,280,Found,1997,,,
+Sahara 97156,22950,Valid,L5,445,Found,1997,,,
+Sahara 97157,22951,Valid,L5,902,Found,1997,,,
+Sahara 97158,22952,Valid,EH3,1050,Found,1997,,,
+Sahara 97159,22953,Valid,EH3,300,Found,1997,,,
+Sahara 97160,22954,Valid,L5,50,Found,1997,,,
+Sahara 97161,22955,Valid,EH3,140,Found,1997,,,
+Sahara 97162,22956,Valid,EH3,301,Found,1997,,,
+Sahara 97163,22957,Valid,H5,116,Found,1997,,,
+Sahara 97164,22958,Valid,EH3,391,Found,1997,,,
+Sahara 97165,22959,Valid,L5,80,Found,1997,,,
+Sahara 97166,22960,Valid,EH3,47,Found,1997,,,
+Sahara 97167,22961,Valid,EH3,93,Found,1997,,,
+Sahara 97168,22962,Valid,EH3,61,Found,1997,,,
+Sahara 97169,22963,Valid,EH3,20,Found,1997,,,
+Sahara 97170,22964,Valid,L5,503,Found,1997,,,
+Sahara 97171,22965,Valid,L5,120,Found,1997,,,
+Sahara 97172,22966,Valid,L5,1159,Found,1997,,,
+Sahara 97174,22967,Valid,H5,80,Found,1997,,,
+Sahara 97175,22968,Valid,L5,2138,Found,1997,,,
+Sahara 97176,22969,Valid,H5,1165,Found,1997,,,
+Sahara 97177,22970,Valid,L5/6,481,Found,1997,,,
+Sahara 97178,22971,Valid,L6,255,Found,1997,,,
+Sahara 97179,22972,Valid,H5-6,1080,Found,1997,,,
+Sahara 97180,22973,Valid,L4,230,Found,1997,,,
+Sahara 97181,22974,Valid,L5/6,2230,Found,1997,,,
+Sahara 97182,22975,Valid,L5,1240,Found,1997,,,
+Sahara 97183,22976,Valid,H5,160,Found,1997,,,
+Sahara 97184,22977,Valid,L5,582,Found,1997,,,
+Sahara 97185,22978,Valid,H4/5,66,Found,1997,,,
+Sahara 97186,22979,Valid,L5,458,Found,1997,,,
+Sahara 97187,22980,Valid,L5,975,Found,1997,,,
+Sahara 97188,22981,Valid,L4,145,Found,1997,,,
+Sahara 97189,22982,Valid,H5,45,Found,1997,,,
+Sahara 97190,22983,Valid,L5,50,Found,1997,,,
+Sahara 97191,22984,Valid,H5,77,Found,1997,,,
+Sahara 97192,22985,Valid,L5,46,Found,1997,,,
+Sahara 97193,22986,Valid,L3.9,522,Found,1997,,,
+Sahara 97194,22987,Valid,L4,292,Found,1997,,,
+Sahara 97195,22988,Valid,H6,680,Found,1997,,,
+Sahara 97196,22989,Valid,H5,725,Found,1997,,,
+Sahara 97197,22990,Valid,L5/6,347,Found,1997,,,
+Sahara 97198,22991,Valid,L5,309,Found,1997,,,
+Sahara 97199,22992,Valid,L6,496,Found,1997,,,
+Sahara 97200,22993,Valid,L5/6,230,Found,1997,,,
+Sahara 97201,22994,Valid,L4,683,Found,1997,,,
+Sahara 97208,22995,Valid,LL6,152,Found,1997,,,
+Sahara 97210,22996,Valid,L/LL3.2,3200,Found,1997,,,
+Sahara 97211,22997,Valid,LL4-6,4140,Found,1997,,,
+Sarir Qattusah 003,23182,Valid,L6,428,Found,1997,26.42767,15.84833,"(26.42767, 15.84833)"
+Souslovo,23673,Valid,L4,19300,Found,1997,55.4295,55.78727,"(55.4295, 55.78727)"
+Tiffa 001,23991,Valid,H5,26900,Found,1997,19.949,11.933,"(19.949, 11.933)"
+Tiffa 002,23992,Valid,H4/5,4705,Found,1997,19.696,11.52683,"(19.696, 11.52683)"
+Tiffa 003,23993,Valid,L6,329.2,Found,1997,20.00983,11.86567,"(20.00983, 11.86567)"
+Tiffa 004,23994,Valid,H5,1362,Found,1997,19.955,11.87517,"(19.955, 11.87517)"
+Tiffa 005,23995,Valid,H5,327,Found,1997,19.91933,11.88183,"(19.91933, 11.88183)"
+Tiffa 006,23996,Valid,H5,560.1,Found,1997,19.91117,11.87517,"(19.91117, 11.87517)"
+Tindouf,24005,Valid,H6,1550,Found,1997,27.75,-8.13333,"(27.75, -8.13333)"
+Towada,24039,Valid,H6,53.5,Found,1997,40.55,141.23333,"(40.55, 141.23333)"
+White Elephant,24252,Valid,L4,10.4,Found,1997,35.89,-114.20333,"(35.89, -114.20333)"
+Chadong,5313,Valid,L6,3700,Fell,1998,28.53333,109.31667,"(28.53333, 109.31667)"
+Dashoguz,6604,Valid,H5,7000,Fell,1998,41.98444,59.685,"(41.98444, 59.685)"
+Elbert,7822,Valid,LL6,680.5,Fell,1998,39.24667,-104.58817,"(39.24667, -104.58817)"
+Kitchener,12326,Valid,L6,202.6,Fell,1998,43.38333,-80.38333,"(43.38333, -80.38333)"
+Kunya-Urgench,12379,Valid,H5,1100000,Fell,1998,42.25,59.2,"(42.25, 59.2)"
+Monahans (1998),16719,Valid,H5,2587,Fell,1998,31.60833,-102.85833,"(31.60833, -102.85833)"
+Ourique,18052,Valid,H4,20000,Fell,1998,37.60833,-8.28,"(37.60833, -8.28)"
+Portales Valley,18874,Valid,H6,71400,Fell,1998,34.175,-103.295,"(34.175, -103.295)"
+Zag,30384,Valid,H3-6,175000,Fell,1998,27.33333,-9.33333,"(27.33333, -9.33333)"
+Alkali,474,Valid,H6,30.47,Found,1998,37.86667,-117.4,"(37.86667, -117.4)"
+Bechar 001,4988,Valid,L6,39000,Found,1998,30.83333,-3.33333,"(30.83333, -3.33333)"
+Bechar 002,4989,Valid,H6,12000,Found,1998,30.83333,-3.33333,"(30.83333, -3.33333)"
+Beni Semguine,5019,Valid,H5-an,18,Found,1998,30.16667,-5.66667,"(30.16667, -5.66667)"
+Bi'r Tazit,48983,Valid,CK6,46,Found,1998,25.57117,12.37117,"(25.57117, 12.37117)"
+Blackwood Creek,5069,Valid,H6,67,Found,1998,40.5,-101.08333,"(40.5, -101.08333)"
+Bonnie Claire 001,5105,Valid,H5,23.03,Found,1998,37.21667,-117.08333,"(37.21667, -117.08333)"
+Bonnie Claire 002,5106,Valid,H5,80.8,Found,1998,37.21667,-117.08333,"(37.21667, -117.08333)"
+Bruceville,5155,Valid,L6,83000,Found,1998,38.295,-121.405,"(38.295, -121.405)"
+Cordes,44707,Valid,H4,54.5,Found,1998,34.30333,-112.16617,"(34.30333, -112.16617)"
+Coyote Dry Lake 002,30453,Valid,H5-6,106.7,Found,1998,35.04753,-116.73092,"(35.04753, -116.73092)"
+Coyote Dry Lake 003,30454,Valid,H5,255.72,Found,1998,35.08808,-116.75398,"(35.08808, -116.75398)"
+Coyote Mountains,5459,Valid,H5,23.04,Found,1998,31.91667,-111.5,"(31.91667, -111.5)"
+Dar al Gani 1030,5645,Valid,CK4/5,10.09,Found,1998,27.22167,16.25,"(27.22167, 16.25)"
+Dar al Gani 1031,5646,Valid,EL4,20.15,Found,1998,27.14683,16.05017,"(27.14683, 16.05017)"
+Dar al Gani 1041,32785,Valid,CO3,169,Found,1998,27.08333,16.055,"(27.08333, 16.055)"
+Dar al Gani 1057,53767,Valid,LL5,114,Found,1998,27.28,16.14783,"(27.28, 16.14783)"
+Dar al Gani 1058,54650,Valid,Lunar (feldsp. breccia),1815,Found,1998,27.375,16.184,"(27.375, 16.184)"
+Dar al Gani 396,5944,Valid,L6,388,Found,1998,27.8185,15.92733,"(27.8185, 15.92733)"
+Dar al Gani 397,5945,Valid,L6,1008,Found,1998,27.81833,15.91533,"(27.81833, 15.91533)"
+Dar al Gani 398,5946,Valid,H6,502,Found,1998,27.8365,15.8245,"(27.8365, 15.8245)"
+Dar al Gani 399,5947,Valid,L5,11455,Found,1998,27.86667,15.94283,"(27.86667, 15.94283)"
+Dar al Gani 400,5948,Valid,Lunar (anorth),1425,Found,1998,27.3695,16.19883,"(27.3695, 16.19883)"
+Dar al Gani 401,5949,Valid,L6,405,Found,1998,27.84217,15.89667,"(27.84217, 15.89667)"
+Dar al Gani 402,5950,Valid,L6,1861,Found,1998,27.814,15.9115,"(27.814, 15.9115)"
+Dar al Gani 403,5951,Valid,L6,665,Found,1998,27.76383,15.91083,"(27.76383, 15.91083)"
+Dar al Gani 404,5952,Valid,L6,585,Found,1998,27.83767,15.91333,"(27.83767, 15.91333)"
+Dar al Gani 405,5953,Valid,H3.5,193,Found,1998,27.93133,15.8675,"(27.93133, 15.8675)"
+Dar al Gani 406,5954,Valid,"Iron, IAB complex",5100,Found,1998,28.14033,15.82383,"(28.14033, 15.82383)"
+Dar al Gani 407,5955,Valid,H6,157,Found,1998,27.40917,16.268,"(27.40917, 16.268)"
+Dar al Gani 408,5956,Valid,L4,69,Found,1998,27.42083,16.29333,"(27.42083, 16.29333)"
+Dar al Gani 409,5957,Valid,L6,584,Found,1998,27.82383,15.8785,"(27.82383, 15.8785)"
+Dar al Gani 410,5958,Valid,H5,605,Found,1998,27.3725,16.24017,"(27.3725, 16.24017)"
+Dar al Gani 411,5959,Valid,Eucrite-pmict,400,Found,1998,27.37517,16.18417,"(27.37517, 16.18417)"
+Dar al Gani 412,5960,Valid,CK5,946,Found,1998,27.347,16.08833,"(27.347, 16.08833)"
+Dar al Gani 413,5961,Valid,"Iron, IIAB",156,Found,1998,27.48733,16.32517,"(27.48733, 16.32517)"
+Dar al Gani 414,5962,Valid,L6,956,Found,1998,27.51617,16.28333,"(27.51617, 16.28333)"
+Dar al Gani 415,5963,Valid,H5/6,103,Found,1998,27.3785,16.1855,"(27.3785, 16.1855)"
+Dar al Gani 416,5964,Valid,H4,347,Found,1998,27.4665,15.914,"(27.4665, 15.914)"
+Dar al Gani 417,5965,Valid,R3-4,171,Found,1998,27.50233,15.9125,"(27.50233, 15.9125)"
+Dar al Gani 418,5966,Valid,H5/6,65,Found,1998,27.59917,16.00233,"(27.59917, 16.00233)"
+Dar al Gani 419,5967,Valid,H4,490,Found,1998,27.59467,15.9365,"(27.59467, 15.9365)"
+Dar al Gani 420,5968,Valid,L6,150,Found,1998,27.86433,15.87333,"(27.86433, 15.87333)"
+Dar al Gani 421,5969,Valid,L6,105,Found,1998,27.8745,15.87217,"(27.8745, 15.87217)"
+Dar al Gani 422,5970,Valid,L6,702,Found,1998,27.86383,15.87017,"(27.86383, 15.87017)"
+Dar al Gani 423,5971,Valid,L6,174,Found,1998,27.74017,15.93683,"(27.74017, 15.93683)"
+Dar al Gani 424,5972,Valid,H5,144,Found,1998,27.479,16.03917,"(27.479, 16.03917)"
+Dar al Gani 425,5973,Valid,H4,115,Found,1998,27.45467,16.08733,"(27.45467, 16.08733)"
+Dar al Gani 426,5974,Valid,H4/5,206,Found,1998,27.37933,16.45817,"(27.37933, 16.45817)"
+Dar al Gani 427,5975,Valid,L6,942,Found,1998,27.35817,16.43233,"(27.35817, 16.43233)"
+Dar al Gani 428,5976,Valid,L6,47,Found,1998,27.29367,16.41433,"(27.29367, 16.41433)"
+Dar al Gani 429,5977,Valid,C3-ung,253,Found,1998,27.28133,16.41733,"(27.28133, 16.41733)"
+Dar al Gani 430,5978,Valid,C3-ung,572,Found,1998,27.27933,16.41167,"(27.27933, 16.41167)"
+Dar al Gani 431,5979,Valid,CK3-an,353,Found,1998,27.31283,16.232,"(27.31283, 16.232)"
+Dar al Gani 432,5980,Valid,H4,1555,Found,1998,27.4475,15.985,"(27.4475, 15.985)"
+Dar al Gani 433,5981,Valid,L6,255,Found,1998,27.32367,16.27683,"(27.32367, 16.27683)"
+Dar al Gani 434,5982,Valid,LL6,181,Found,1998,27.24083,16.408,"(27.24083, 16.408)"
+Dar al Gani 435,5983,Valid,H4-6,192,Found,1998,27.22183,16.2455,"(27.22183, 16.2455)"
+Dar al Gani 436,5984,Valid,H4,260,Found,1998,26.85483,15.97533,"(26.85483, 15.97533)"
+Dar al Gani 437,5985,Valid,L6,239,Found,1998,26.69617,16.3275,"(26.69617, 16.3275)"
+Dar al Gani 438,5986,Valid,H5/6,349,Found,1998,27.90017,15.90117,"(27.90017, 15.90117)"
+Dar al Gani 439,5987,Valid,L6,867,Found,1998,27.829,15.928,"(27.829, 15.928)"
+Dar al Gani 440,5988,Valid,L6,1561,Found,1998,27.48333,16.263,"(27.48333, 16.263)"
+Dar al Gani 441,5989,Valid,L6,90,Found,1998,27.48183,16.28733,"(27.48183, 16.28733)"
+Dar al Gani 442,5990,Valid,H3.6,188,Found,1998,27.48083,16.31833,"(27.48083, 16.31833)"
+Dar al Gani 443,5991,Valid,Eucrite-pmict,255,Found,1998,27.452,16.021,"(27.452, 16.021)"
+Dar al Gani 444,5992,Valid,LL4-5,164,Found,1998,27.38833,16.15733,"(27.38833, 16.15733)"
+Dar al Gani 445,5993,Valid,H4,53,Found,1998,27.39783,16.16317,"(27.39783, 16.16317)"
+Dar al Gani 446,5994,Valid,L5/6,481,Found,1998,27.48017,16.27133,"(27.48017, 16.27133)"
+Dar al Gani 447,5995,Valid,H4/5,526,Found,1998,27.46067,16.17083,"(27.46067, 16.17083)"
+Dar al Gani 448,5996,Valid,L4/5,392,Found,1998,27.4335,16.0845,"(27.4335, 16.0845)"
+Dar al Gani 449,5997,Valid,LL6,184,Found,1998,27.42683,16.05367,"(27.42683, 16.05367)"
+Dar al Gani 451,5999,Valid,H4,75,Found,1998,27.5825,15.98333,"(27.5825, 15.98333)"
+Dar al Gani 452,6000,Valid,H5,445,Found,1998,27.64617,15.91483,"(27.64617, 15.91483)"
+Dar al Gani 453,6001,Valid,L6,1896,Found,1998,27.804,15.935,"(27.804, 15.935)"
+Dar al Gani 454,6002,Valid,H3.9,161,Found,1998,27.7875,15.855,"(27.7875, 15.855)"
+Dar al Gani 455,6003,Valid,L6,2670,Found,1998,27.80517,15.92667,"(27.80517, 15.92667)"
+Dar al Gani 456,6004,Valid,L6,838,Found,1998,27.79783,15.94167,"(27.79783, 15.94167)"
+Dar al Gani 457,6005,Valid,L6,855,Found,1998,27.80733,15.93767,"(27.80733, 15.93767)"
+Dar al Gani 458,6006,Valid,L6,364,Found,1998,27.81,15.933,"(27.81, 15.933)"
+Dar al Gani 459,6007,Valid,L6,1082,Found,1998,27.81433,15.9145,"(27.81433, 15.9145)"
+Dar al Gani 460,6008,Valid,L6,2310,Found,1998,27.80383,15.921,"(27.80383, 15.921)"
+Dar al Gani 461,6009,Valid,L6,1228,Found,1998,28.019,15.86333,"(28.019, 15.86333)"
+Dar al Gani 462,6010,Valid,L6,740,Found,1998,28.01517,15.86367,"(28.01517, 15.86367)"
+Dar al Gani 463,6011,Valid,L6,1916,Found,1998,27.01167,15.86483,"(27.01167, 15.86483)"
+Dar al Gani 464,6012,Valid,L6,254,Found,1998,28.01967,15.89017,"(28.01967, 15.89017)"
+Dar al Gani 465,6013,Valid,L6,777,Found,1998,28.01483,15.86267,"(28.01483, 15.86267)"
+Dar al Gani 466,6014,Valid,L6,1296,Found,1998,28.01,15.845,"(28.01, 15.845)"
+Dar al Gani 467,6015,Valid,L6,1731,Found,1998,28.00883,15.84283,"(28.00883, 15.84283)"
+Dar al Gani 468,6016,Valid,H5,375,Found,1998,28.0215,15.8425,"(28.0215, 15.8425)"
+Dar al Gani 469,6017,Valid,H4,319,Found,1998,27.8315,15.87433,"(27.8315, 15.87433)"
+Dar al Gani 470,6018,Valid,L6,4152,Found,1998,27.78533,15.95233,"(27.78533, 15.95233)"
+Dar al Gani 471,6019,Valid,H5-6,276,Found,1998,27.78717,15.95117,"(27.78717, 15.95117)"
+Dar al Gani 472,6020,Valid,LL6,482,Found,1998,27.79133,15.96517,"(27.79133, 15.96517)"
+Dar al Gani 473,6021,Valid,H6,333,Found,1998,27.77983,16.06267,"(27.77983, 16.06267)"
+Dar al Gani 474,6022,Valid,L6,68,Found,1998,27.7865,16.09717,"(27.7865, 16.09717)"
+Dar al Gani 475,6023,Valid,H3.4,269,Found,1998,27.61067,16.21867,"(27.61067, 16.21867)"
+Dar al Gani 476,6024,Valid,Martian (shergottite),2015,Found,1998,27.35267,16.20067,"(27.35267, 16.20067)"
+Dar al Gani 477,6025,Valid,L6,16128,Found,1998,27.74767,16.003,"(27.74767, 16.003)"
+Dar al Gani 478,6026,Valid,L6,7367,Found,1998,27.75467,15.98183,"(27.75467, 15.98183)"
+Dar al Gani 479,6027,Valid,L5,81,Found,1998,27.35583,16.20317,"(27.35583, 16.20317)"
+Dar al Gani 480,6028,Valid,Eucrite,181,Found,1998,27.3685,16.1735,"(27.3685, 16.1735)"
+Dar al Gani 481,6029,Valid,L6,258,Found,1998,27.36883,16.2855,"(27.36883, 16.2855)"
+Dar al Gani 482,6030,Valid,LL4-5,73,Found,1998,27.36867,16.26383,"(27.36867, 16.26383)"
+Dar al Gani 571,6118,Valid,L6,307,Found,1998,27.42717,16.33383,"(27.42717, 16.33383)"
+Dar al Gani 572,6119,Valid,H5,285,Found,1998,27.3445,16.3025,"(27.3445, 16.3025)"
+Dar al Gani 573,6120,Valid,L4,661.9,Found,1998,27.39883,16.1595,"(27.39883, 16.1595)"
+Dar al Gani 574,6121,Valid,CR2,32.5,Found,1998,27.43217,16.25233,"(27.43217, 16.25233)"
+Dar al Gani 575,6122,Valid,H5,3200,Found,1998,27.217,16.38917,"(27.217, 16.38917)"
+Dar al Gani 576,6123,Valid,H4/5,231.5,Found,1998,27.2315,16.32617,"(27.2315, 16.32617)"
+Dar al Gani 577,6124,Valid,H6,97,Found,1998,27.25267,16.26983,"(27.25267, 16.26983)"
+Dar al Gani 578,6125,Valid,H6,58.1,Found,1998,27.27133,16.4135,"(27.27133, 16.4135)"
+Dar al Gani 579,6126,Valid,H5,116.5,Found,1998,27.05267,16.43133,"(27.05267, 16.43133)"
+Dar al Gani 580,6127,Valid,L5,90,Found,1998,27.07583,16.32683,"(27.07583, 16.32683)"
+Dar al Gani 581,6128,Valid,H5,48.5,Found,1998,27.09933,16.15533,"(27.09933, 16.15533)"
+Dar al Gani 582,6129,Valid,H6,51,Found,1998,27.117,16.121,"(27.117, 16.121)"
+Dar al Gani 583,6130,Valid,L6,89.6,Found,1998,27.12383,16.11233,"(27.12383, 16.11233)"
+Dar al Gani 584,6131,Valid,L6,136.85,Found,1998,27.1515,16.08267,"(27.1515, 16.08267)"
+Dar al Gani 585,6132,Valid,LL6,422.6,Found,1998,27.1555,16.07767,"(27.1555, 16.07767)"
+Dar al Gani 586,6133,Valid,H5,138.6,Found,1998,27.0865,16.17317,"(27.0865, 16.17317)"
+Dar al Gani 587,6134,Valid,L6,1105,Found,1998,27.1515,16.083,"(27.1515, 16.083)"
+Dar al Gani 588,6135,Valid,H5,15,Found,1998,27.1015,16.13783,"(27.1015, 16.13783)"
+Dar al Gani 589,6136,Valid,H6,42.5,Found,1998,27.13117,16.11317,"(27.13117, 16.11317)"
+Dar al Gani 590,6137,Valid,H5,62,Found,1998,27.42533,16.08783,"(27.42533, 16.08783)"
+Dar al Gani 591,6138,Valid,H/L6,90,Found,1998,27.65533,15.99233,"(27.65533, 15.99233)"
+Dar al Gani 592,6139,Valid,L5,182.7,Found,1998,27.63367,16.0285,"(27.63367, 16.0285)"
+Dar al Gani 593,6140,Valid,L6,1040,Found,1998,27.63917,15.881,"(27.63917, 15.881)"
+Dar al Gani 594,6141,Valid,H5,404.8,Found,1998,27.5895,16.11667,"(27.5895, 16.11667)"
+Dar al Gani 595,6142,Valid,H5,14931,Found,1998,27.63917,15.90133,"(27.63917, 15.90133)"
+Dar al Gani 596,6143,Valid,LL5,189,Found,1998,27.21367,16.2815,"(27.21367, 16.2815)"
+Dar al Gani 597,6144,Valid,H5,672,Found,1998,26.83583,16.6265,"(26.83583, 16.6265)"
+Dar al Gani 598,6145,Valid,H5,103,Found,1998,26.92817,16.476,"(26.92817, 16.476)"
+Dar al Gani 599,6146,Valid,LL6,781,Found,1998,26.916,16.67317,"(26.916, 16.67317)"
+Dar al Gani 600,6147,Valid,H5,1190,Found,1998,26.91633,16.67483,"(26.91633, 16.67483)"
+Dar al Gani 601,6148,Valid,CO3,131,Found,1998,27.06967,16.07083,"(27.06967, 16.07083)"
+Dar al Gani 602,6149,Valid,L6,1055,Found,1998,26.99317,16.13933,"(26.99317, 16.13933)"
+Dar al Gani 603,6150,Valid,H5,304,Found,1998,26.87967,16.67317,"(26.87967, 16.67317)"
+Dar al Gani 604,6151,Valid,H4,180,Found,1998,26.979,16.31083,"(26.979, 16.31083)"
+Dar al Gani 605,6152,Valid,LL5,161,Found,1998,27.028,16.28283,"(27.028, 16.28283)"
+Dar al Gani 606,6153,Valid,H5,1362,Found,1998,26.879,16.69783,"(26.879, 16.69783)"
+Dar al Gani 607,6154,Valid,L6,161,Found,1998,27.31283,15.9935,"(27.31283, 15.9935)"
+Dar al Gani 608,6155,Valid,L6,1870,Found,1998,26.97033,16.36083,"(26.97033, 16.36083)"
+Dar al Gani 609,6156,Valid,Eucrite-mmict,696,Found,1998,26.8855,16.58017,"(26.8855, 16.58017)"
+Dar al Gani 610,6157,Valid,H4,44000,Found,1998,26.85,16.73333,"(26.85, 16.73333)"
+Dar al Gani 611,6158,Valid,L6,434,Found,1998,27.28383,16.17133,"(27.28383, 16.17133)"
+Dar al Gani 612,6159,Valid,H5,1492,Found,1998,27.26917,16.364,"(27.26917, 16.364)"
+Dar al Gani 613,6160,Valid,LL4,566,Found,1998,27.039,16.26117,"(27.039, 16.26117)"
+Dar al Gani 614,6161,Valid,H6,53,Found,1998,27.12733,16.02233,"(27.12733, 16.02233)"
+Dar al Gani 615,6162,Valid,H6,295,Found,1998,27.396,16.11483,"(27.396, 16.11483)"
+Dar al Gani 616,6163,Valid,L6,150,Found,1998,27.16267,16.296,"(27.16267, 16.296)"
+Dar al Gani 617,6164,Valid,H6,126,Found,1998,27.16267,16.296,"(27.16267, 16.296)"
+Dar al Gani 618,6165,Valid,L6,44,Found,1998,27.02917,16.22933,"(27.02917, 16.22933)"
+Dar al Gani 619,6166,Valid,L6,1050,Found,1998,27.47883,16.30367,"(27.47883, 16.30367)"
+Dar al Gani 620,6167,Valid,L6,335,Found,1998,27.48417,16.30533,"(27.48417, 16.30533)"
+Dar al Gani 621,6168,Valid,L4,76,Found,1998,27.50467,16.32167,"(27.50467, 16.32167)"
+Dar al Gani 622,6169,Valid,H5,46,Found,1998,27.352,16.2475,"(27.352, 16.2475)"
+Dar al Gani 623,6170,Valid,L6,135,Found,1998,27.23633,16.35383,"(27.23633, 16.35383)"
+Dar al Gani 624,6171,Valid,L6,1750,Found,1998,27.3705,16.18833,"(27.3705, 16.18833)"
+Dar al Gani 625,6172,Valid,L6,502,Found,1998,27.35517,16.2035,"(27.35517, 16.2035)"
+Dar al Gani 626,6173,Valid,H4,233,Found,1998,27.35167,16.23567,"(27.35167, 16.23567)"
+Dar al Gani 627,6174,Valid,H5,72,Found,1998,27.30417,16.32217,"(27.30417, 16.32217)"
+Dar al Gani 628,6175,Valid,CO3,60,Found,1998,27.2735,16.33833,"(27.2735, 16.33833)"
+Dar al Gani 629,6176,Valid,H5,65,Found,1998,27.23533,16.338,"(27.23533, 16.338)"
+Dar al Gani 630,6177,Valid,H4,159,Found,1998,27.0555,16.05067,"(27.0555, 16.05067)"
+Dar al Gani 631,6178,Valid,H4,41,Found,1998,27.15233,16.33733,"(27.15233, 16.33733)"
+Dar al Gani 632,6179,Valid,LL3.3,340,Found,1998,26.90767,16.70167,"(26.90767, 16.70167)"
+Dar al Gani 633,6180,Valid,LL5,210,Found,1998,26.919,16.6775,"(26.919, 16.6775)"
+Dar al Gani 634,6181,Valid,L6,160,Found,1998,27.37083,15.99133,"(27.37083, 15.99133)"
+Dar al Gani 635,6182,Valid,H5,1390,Found,1998,26.90483,16.679,"(26.90483, 16.679)"
+Dar al Gani 636,6183,Valid,L5,2975,Found,1998,26.881,16.54917,"(26.881, 16.54917)"
+Dar al Gani 637,6184,Valid,L6,1149,Found,1998,26.88217,16.65167,"(26.88217, 16.65167)"
+Dar al Gani 638,6185,Valid,H4,8170,Found,1998,26.95,16.15,"(26.95, 16.15)"
+Dar al Gani 639,6186,Valid,LL5,237,Found,1998,26.94017,16.419,"(26.94017, 16.419)"
+Dar al Gani 640,6187,Valid,H5,34,Found,1998,26.99317,16.13933,"(26.99317, 16.13933)"
+Dar al Gani 641,6188,Valid,H5,1030,Found,1998,26.96417,16.46917,"(26.96417, 16.46917)"
+Dar al Gani 642,6189,Valid,L6,265,Found,1998,26.88533,16.579,"(26.88533, 16.579)"
+Dar al Gani 643,6190,Valid,L6,152,Found,1998,26.98,16.405,"(26.98, 16.405)"
+Dar al Gani 644,6191,Valid,L6,223,Found,1998,27.15733,16.41983,"(27.15733, 16.41983)"
+Dar al Gani 645,6192,Valid,H5,160,Found,1998,26.98167,16.45833,"(26.98167, 16.45833)"
+Dar al Gani 646,6193,Valid,H5,171,Found,1998,26.90833,16.66933,"(26.90833, 16.66933)"
+Dar al Gani 737,6284,Valid,L3,1053,Found,1998,27.1895,16.0645,"(27.1895, 16.0645)"
+Dar al Gani 738,6285,Valid,H6,257,Found,1998,27.10883,16.05983,"(27.10883, 16.05983)"
+Dar al Gani 739,6286,Valid,H5,390,Found,1998,27.19667,16.0885,"(27.19667, 16.0885)"
+Dar al Gani 740,6287,Valid,H5,320,Found,1998,27.15433,16.03317,"(27.15433, 16.03317)"
+Dar al Gani 741,6288,Valid,H4,20500,Found,1998,27.08167,16.28333,"(27.08167, 16.28333)"
+Dar al Gani 742,6289,Valid,H5,2222,Found,1998,27.13333,16.05,"(27.13333, 16.05)"
+Dar al Gani 743,6290,Valid,H6,980,Found,1998,27.12067,16.084,"(27.12067, 16.084)"
+Dar al Gani 744,6291,Valid,LL6,390,Found,1998,27.12833,16.05083,"(27.12833, 16.05083)"
+Dar al Gani 745,6292,Valid,LL6,866,Found,1998,27.305,16.20167,"(27.305, 16.20167)"
+Dar al Gani 746,6293,Valid,H5,2300,Found,1998,27.15217,16.10317,"(27.15217, 16.10317)"
+Dar al Gani 748,6295,Valid,H5,265,Found,1998,27.27867,16.2165,"(27.27867, 16.2165)"
+Dar al Gani 841,6388,Valid,L4,405,Found,1998,27.02667,16.26417,"(27.02667, 16.26417)"
+Dar al Gani 842,6389,Valid,L6,347,Found,1998,26.8965,16.57833,"(26.8965, 16.57833)"
+Dar al Gani 843,6390,Valid,H5,105,Found,1998,27.035,16.1615,"(27.035, 16.1615)"
+Dar al Gani 849,6396,Valid,L5,933,Found,1998,26.88333,16.68817,"(26.88333, 16.68817)"
+Dar al Gani 850,6397,Valid,L5,55,Found,1998,27.34033,16.28567,"(27.34033, 16.28567)"
+Dar al Gani 855,6402,Valid,L5,406,Found,1998,26.88967,16.5715,"(26.88967, 16.5715)"
+Dar al Gani 856,6403,Valid,H6,148,Found,1998,27.057,16.09583,"(27.057, 16.09583)"
+Dar al Gani 859,6406,Valid,L6,2517,Found,1998,26.98067,16.34633,"(26.98067, 16.34633)"
+Dar al Gani 861,6408,Valid,H5,495,Found,1998,26.8715,16.63417,"(26.8715, 16.63417)"
+Dar al Gani 869,6416,Valid,H4/5,836,Found,1998,27.09317,16.04933,"(27.09317, 16.04933)"
+Dar al Gani 871,6418,Valid,L6,166,Found,1998,27.01267,16.27783,"(27.01267, 16.27783)"
+Dar al Gani 875,6422,Valid,H5,585,Found,1998,26.9195,16.68,"(26.9195, 16.68)"
+Dar al Gani 876,6423,Valid,Martian (shergottite),6.2,Found,1998,27.5,16.5,"(27.5, 16.5)"
+Dar al Gani 899,6446,Valid,L4,263,Found,1998,27.83267,15.9105,"(27.83267, 15.9105)"
+Dar al Gani 900,6447,Valid,LL6,8,Found,1998,27.08333,16.05,"(27.08333, 16.05)"
+Dar al Gani 901,6448,Valid,H4,9000,Found,1998,27.88083,16.9135,"(27.88083, 16.9135)"
+Dar al Gani 952,6492,Valid,L6,56,Found,1998,27.33117,16.2035,"(27.33117, 16.2035)"
+Dar al Gani 954,6494,Valid,H6,65,Found,1998,27.11767,16.0265,"(27.11767, 16.0265)"
+Dar al Gani 957,6497,Valid,L4,369,Found,1998,26.8955,16.58317,"(26.8955, 16.58317)"
+Dar al Gani 961,6501,Valid,L5,481,Found,1998,26.8825,16.662,"(26.8825, 16.662)"
+Dar al Gani 962,6502,Valid,Achondrite-ung,130,Found,1998,27.198,16.4085,"(27.198, 16.4085)"
+Dar al Gani 965,6505,Valid,LL5,216,Found,1998,26.9415,16.42117,"(26.9415, 16.42117)"
+Dar al Gani 966,6506,Valid,L4,204,Found,1998,26.89633,16.5795,"(26.89633, 16.5795)"
+Dar al Gani 967,6507,Valid,L5,468,Found,1998,26.88917,16.55067,"(26.88917, 16.55067)"
+Dar al Gani 969,6509,Valid,L/LL6,3145,Found,1998,26.98017,16.34967,"(26.98017, 16.34967)"
+Dar al Gani 970,6510,Valid,L5,251,Found,1998,26.89967,16.57817,"(26.89967, 16.57817)"
+Dhofar 1000,6800,Valid,H4,527.35,Found,1998,18.48778,54.18085,"(18.48778, 54.18085)"
+Dhofar 1001,6801,Valid,L6,606.97,Found,1998,18.55577,54.00077,"(18.55577, 54.00077)"
+Dos Cabezas,7721,Valid,L5,755,Found,1998,32.295,-109.67,"(32.295, -109.67)"
+El Atchane 016,54595,Valid,H5,156,Found,1998,29.36667,4.75,"(29.36667, 4.75)"
+El Blida 001,7791,Valid,H5,301.2,Found,1998,29.91667,-5.41667,"(29.91667, -5.41667)"
+El Blida 002,7792,Valid,H6,286,Found,1998,29.91667,-5.41667,"(29.91667, -5.41667)"
+El Pozo,7814,Valid,L5,460,Found,1998,26.93333,-105.4,"(26.93333, -105.4)"
+Fortuna,10169,Valid,Winonaite,312,Found,1998,-35.13333,-65.36667,"(-35.13333, -65.36667)"
+Foum Zguid,10171,Valid,"Iron, IIAB",6000,Found,1998,30.06667,-6.9,"(30.06667, -6.9)"
+Gardner Ridge 98400,10858,Valid,L6,77.8,Found,1998,-86.93333,-148.55,"(-86.93333, -148.55)"
+Gardner Ridge 98401,10859,Valid,H4,5.3,Found,1998,-86.93333,-148.55,"(-86.93333, -148.55)"
+Glenrothes,10934,Valid,H5,13,Found,1998,56.25,-3.16667,"(56.25, -3.16667)"
+Graves Nunataks 98001,10993,Valid,H5,7296.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98002,10994,Valid,H5,735.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98003,10995,Valid,L5,426.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98004,10996,Valid,H5,721.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98005,10997,Valid,CM2,202.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98006,10998,Valid,Eucrite-br,163.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98007,10999,Valid,H5,82.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98008,11000,Valid,H5,120.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98009,11001,Valid,H5,116.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98010,11002,Valid,H5,140.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98011,11003,Valid,L5,104.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98012,11004,Valid,H5,530,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98013,11005,Valid,H4,697.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98014,11006,Valid,H5,1130.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98015,11007,Valid,H5,1201.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98016,11008,Valid,H5,512.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98017,11009,Valid,H5,341.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98018,11010,Valid,H5,315.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98019,11011,Valid,Eucrite-br,95.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98020,11012,Valid,L5,200.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98021,11013,Valid,H5,81.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98022,11014,Valid,H5,62.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98023,11015,Valid,H3.8,136.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98024,11016,Valid,H3.8,59.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98025,11017,Valid,CR2,14.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98026,11018,Valid,Eucrite-br,68.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98027,11019,Valid,H6,14.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98028,11020,Valid,Acapulcoite,22.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98029,11021,Valid,L5,8.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98030,11022,Valid,Howardite,32.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98031,11023,Valid,H4,2309.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98032,11024,Valid,Ureilite,1699.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98033,11025,Valid,Eucrite-br,123.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98034,11026,Valid,H6,416.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98035,11027,Valid,L5,248.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98036,11028,Valid,L6,182.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98037,11029,Valid,Eucrite-br,107.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98038,11030,Valid,H6,118.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98039,11031,Valid,Eucrite-br,72.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98040,11032,Valid,H5,542.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98041,11033,Valid,L6,1081.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98042,11034,Valid,Eucrite-br,92.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98043,11035,Valid,Eucrite-br,102.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98044,11036,Valid,Eucrite-br,27.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98045,11037,Valid,H4,260.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98046,11038,Valid,L6,657.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98047,11039,Valid,H5,594.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98048,11040,Valid,H6,702.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98049,11041,Valid,L6,2341.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98050,11042,Valid,H3.8,337.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98051,11043,Valid,H5,171.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98052,11044,Valid,Eucrite-br,63.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98053,11045,Valid,H6,145.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98054,11046,Valid,Eucrite-br,103.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98055,11047,Valid,Eucrite-br,140.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98056,11048,Valid,H6,177.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98057,11049,Valid,L6,65.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98058,11050,Valid,L5,105.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98059,11051,Valid,H5,67.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98060,11052,Valid,H6,54,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98061,11053,Valid,L6,121.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98062,11054,Valid,H5,51.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98063,11055,Valid,H6,41.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98064,11056,Valid,H6,42.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98065,11057,Valid,H6,53.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98066,11058,Valid,L6,18.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98067,11059,Valid,Eucrite-br,53.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98068,11060,Valid,L6,51.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98069,11061,Valid,H6,42.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98070,11062,Valid,H6,16.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98071,11063,Valid,H6,64.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98072,11064,Valid,H6,29.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98073,11065,Valid,H6,6.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98074,11066,Valid,CM2,51.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98075,11067,Valid,H5,20.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98076,11068,Valid,H6,29.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98077,11069,Valid,L6,24.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98078,11070,Valid,L6,7.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98079,11071,Valid,H6,3.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98080,11072,Valid,H5,91.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98081,11073,Valid,H6,87.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98082,11074,Valid,H6,13.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98083,11075,Valid,H6,23,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98084,11076,Valid,L6,42.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98085,11077,Valid,L6,43.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98086,11078,Valid,L6,32.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98087,11079,Valid,H3.8,22.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98088,11080,Valid,Eucrite-br,64.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98089,11081,Valid,H4,60.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98090,11082,Valid,H5,42.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98091,11083,Valid,H5,20.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98092,11084,Valid,H5,20.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98093,11085,Valid,H5,40.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98094,11086,Valid,L6,7.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98095,11087,Valid,L6,31.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98096,11088,Valid,H6,45.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98097,11089,Valid,Eucrite-br,12.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98098,11090,Valid,Eucrite-unbr,779.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98099,11091,Valid,H5,26.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98100,11092,Valid,H6,17.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98101,11093,Valid,L6,38.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98102,11094,Valid,CK4,7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98103,11095,Valid,Eucrite-br,41.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98104,11096,Valid,L6,15.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98105,11097,Valid,H6,13.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98106,11098,Valid,L6,47.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98107,11099,Valid,L6,35,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98108,11100,Valid,Diogenite,12.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98109,11101,Valid,L5,7.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98110,11102,Valid,H6,70.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98111,11103,Valid,H6,80,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98112,11104,Valid,H6,86,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98113,11105,Valid,Eucrite-br,63.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98114,11106,Valid,Eucrite-br,58.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98115,11107,Valid,L6,44.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98116,11108,Valid,L6,66.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98117,11109,Valid,H5,89.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98118,11110,Valid,L6,78.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98119,11111,Valid,L6,45.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98120,11112,Valid,L6,42.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98121,11113,Valid,H5,48,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98122,11114,Valid,H6,12.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98123,11115,Valid,L6,14.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98124,11116,Valid,H5,5.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98125,11117,Valid,H5,17.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98126,11118,Valid,H5,26.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98127,11119,Valid,H5,17.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98128,11120,Valid,H5,19.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98130,11121,Valid,L4,45.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98131,11122,Valid,Eucrite-br,26.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98132,11123,Valid,H6,14.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98133,11124,Valid,H6,18.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98134,11125,Valid,H5,22.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98135,11126,Valid,H6,25.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98136,11127,Valid,H5,2.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98137,11128,Valid,H6,16.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98138,11129,Valid,H5,9.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98139,11130,Valid,H6,63.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98141,11131,Valid,H6,41.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98142,11132,Valid,L6,9.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98143,11133,Valid,L6,11,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98144,11134,Valid,H6,13.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98145,11135,Valid,H6,16.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98146,11136,Valid,H5,3.6,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98147,11137,Valid,L6,9.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98148,11138,Valid,H5,6.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98149,11139,Valid,H6,79.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98150,11140,Valid,H6,36.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98151,11141,Valid,H6,52.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98152,11142,Valid,H4,69.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98153,11143,Valid,H4,35.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98154,11144,Valid,H5,21.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98155,11145,Valid,H5,33.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98156,11146,Valid,H5,29.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98157,11147,Valid,Eucrite-br,39.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98158,11148,Valid,Eucrite-br,66.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98159,11149,Valid,Eucrite-br,33.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98160,11150,Valid,H6,7.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98161,11151,Valid,H6,7.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98162,11152,Valid,L6,0.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98163,11153,Valid,H6,15.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98164,11154,Valid,L6,15.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98165,11155,Valid,H6,11.3,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98166,11156,Valid,H5,10.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98167,11157,Valid,H5,4.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98168,11158,Valid,Howardite,7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98169,11159,Valid,LL5,22.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98170,11160,Valid,H5,21,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98171,11161,Valid,L3.8,8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98172,11162,Valid,H6,13.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98173,11163,Valid,L5,30,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98174,11164,Valid,L6,8.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98175,11165,Valid,L6,27.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98176,11166,Valid,H6,15.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98177,11167,Valid,H6,10,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98178,11168,Valid,L6,7.2,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98179,11169,Valid,H6,18.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98180,11170,Valid,H5,13.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98181,11171,Valid,L4,2.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98182,11172,Valid,H6,63.5,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98183,11173,Valid,L6,145.4,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98184,11174,Valid,L6,119.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98185,11175,Valid,H6,70,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Graves Nunataks 98186,11176,Valid,H6,29000,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)"
+Gruñidora,11427,Valid,H4,130,Found,1998,24.16667,-102,"(24.16667, -102.0)"
+Hammadah al Hamra 255,11738,Valid,L6,194.5,Found,1998,28.94967,13.08067,"(28.94967, 13.08067)"
+Hammadah al Hamra 256,11739,Valid,LL6,264.8,Found,1998,28.94967,13.08317,"(28.94967, 13.08317)"
+Hammadah al Hamra 257,11740,Valid,L6,45.8,Found,1998,28.8045,12.81833,"(28.8045, 12.81833)"
+Hammadah al Hamra 258,11741,Valid,L5/6,1210,Found,1998,28.8585,11.43217,"(28.8585, 11.43217)"
+Hammadah al Hamra 259,11742,Valid,H5,5055,Found,1998,28.75,11.56667,"(28.75, 11.56667)"
+Hope Creek,11906,Valid,LL6,9830,Found,1998,65.38333,-146.26667,"(65.38333, -146.26667)"
+Jiddat al Harasis 092,12151,Valid,H4-5,204.55,Found,1998,19.20567,56.73055,"(19.20567, 56.73055)"
+Jiddat al Harasis 102,12161,Valid,H5,1007.33,Found,1998,19.51185,56.98178,"(19.51185, 56.98178)"
+Klein Glacier 98300,12331,Valid,EH3,33.6,Found,1998,-86.93333,-144.3,"(-86.93333, -144.3)"
+Lahmada,12414,Valid,H6,7360,Found,1998,27.16667,-9.5,"(27.16667, -9.5)"
+Lahmada 011,12424,Valid,H5,1520,Found,1998,27.23033,-9.7505,"(27.23033, -9.7505)"
+Lahmada 012,12425,Valid,H5,2510,Found,1998,27.23333,-9.7585,"(27.23333, -9.7585)"
+Lahmada 013,12426,Valid,H6,1373,Found,1998,27.2335,-9.75817,"(27.2335, -9.75817)"
+Lahmada 014,12427,Valid,H5,312,Found,1998,27.23633,-9.74133,"(27.23633, -9.74133)"
+Lahmada 015,12428,Valid,H6,1455,Found,1998,27.2335,-9.75767,"(27.2335, -9.75767)"
+Lahmada 016,12429,Valid,H5,998,Found,1998,27.23,-9.75667,"(27.23, -9.75667)"
+Lahmada 017,12430,Valid,H5,85,Found,1998,27.2265,-9.74117,"(27.2265, -9.74117)"
+Lahmada 018,12431,Valid,H5,226,Found,1998,27.285,-9.59017,"(27.285, -9.59017)"
+Lucerne Valley 014,14738,Valid,L5,3.4,Found,1998,34.50133,-116.96467,"(34.50133, -116.96467)"
+Lucerne Valley 015,14739,Valid,LL6,12.5,Found,1998,34.5095,-116.95583,"(34.5095, -116.95583)"
+Lucerne Valley 016,14740,Valid,L5,4.1,Found,1998,34.5125,-116.95083,"(34.5125, -116.95083)"
+Mount Leake,45812,Valid,L5,3667,Found,1998,-25.87667,119.07333,"(-25.87667, 119.07333)"
+Northwest Africa 052,17062,Valid,L5,1088,Found,1998,31.11667,-5.18333,"(31.11667, -5.18333)"
+Northwest Africa 1174,17132,Valid,H5,884,Found,1998,,,
+Northwest Africa 1558,17317,Valid,CK5/6,385,Found,1998,,,
+Northwest Africa 1564,17323,Valid,L5,500,Found,1998,,,
+Northwest Africa 1617,17373,Valid,Acapulcoite,21,Found,1998,,,
+Northwest Africa 2439,33050,Valid,H5,660,Found,1998,,,
+Northwest Africa 2441,33052,Valid,L3-6,156,Found,1998,,,
+Northwest Africa 2442,33053,Valid,H5,192,Found,1998,,,
+Northwest Africa 2445,33055,Valid,H3-5,42,Found,1998,,,
+Northwest Africa 3342,33666,Valid,H/L4,1250,Found,1998,,,
+Northwest Africa 3343,33667,Valid,L4,760,Found,1998,,,
+Northwest Africa 4000,34272,Valid,L4,1465,Found,1998,,,
+Northwest Africa 4001,34273,Valid,L4,1113,Found,1998,,,
+Northwest Africa 4003,34275,Valid,H5,357,Found,1998,,,
+Northwest Africa 4050,34322,Valid,H3-4,58,Found,1998,,,
+Northwest Africa 4562,44975,Valid,L4,440,Found,1998,,,
+Northwest Africa 4563,44976,Valid,H4,89,Found,1998,,,
+Northwest Africa 4909,47089,Valid,H5,966,Found,1998,,,
+Northwest Africa 5429,49146,Valid,L3-6,4205,Found,1998,0,0,"(0.0, 0.0)"
+Northwest Africa 727,17809,Valid,L4,364,Found,1998,30.33333,-5.75,"(30.33333, -5.75)"
+Northwest Africa 728,17810,Valid,L4,454,Found,1998,30.33333,-5.75,"(30.33333, -5.75)"
+Northwest Africa 729,17811,Valid,L5,319,Found,1998,30.33333,-5.75,"(30.33333, -5.75)"
+Northwest Africa 730,17812,Valid,L4,150,Found,1998,30.33333,-5.75,"(30.33333, -5.75)"
+Österplana 029,44829,Relict,Relict OC,,Found,1998,58.58333,13.43333,"(58.58333, 13.43333)"
+Österplana 031,44831,Relict,Relict OC,,Found,1998,58.58333,13.43333,"(58.58333, 13.43333)"
+Österplana 034,44834,Relict,Relict OC,,Found,1998,58.58333,13.43333,"(58.58333, 13.43333)"
+Österplana 037,44837,Relict,Relict OC,,Found,1998,58.58333,13.43333,"(58.58333, 13.43333)"
+Overland Park,18056,Valid,H4,1374,Found,1998,38.96667,-94.66667,"(38.96667, -94.66667)"
+Roach,22616,Valid,LL6,10.56,Found,1998,35.63333,-115.36667,"(35.63333, -115.36667)"
+Roosevelt County 103,22758,Valid,L6,10,Found,1998,33.73883,-103.65,"(33.73883, -103.65)"
+Roosevelt County 104,22759,Valid,L5,51.7,Found,1998,33.72217,-103.67333,"(33.72217, -103.67333)"
+Roosevelt County 105,22760,Valid,H5,30,Found,1998,34.18833,-103.94167,"(34.18833, -103.94167)"
+Safsaf,22795,Valid,L6,11870,Found,1998,30.26667,-4.66667,"(30.26667, -4.66667)"
+Sahara 98007,22998,Valid,L5,655,Found,1998,,,
+Sahara 98034,22999,Valid,H5,10345,Found,1998,,,
+Sahara 98035,23000,Valid,L/LL3,640,Found,1998,,,
+Sahara 98044,23001,Valid,CV3,3145,Found,1998,,,
+Sahara 98058,23002,Valid,H5,681,Found,1998,,,
+Sahara 98067,23003,Valid,CO3,81.2,Found,1998,,,
+Sahara 98088,23004,Valid,Mesosiderite,2580,Found,1998,,,
+Sahara 98100,23005,Valid,H,65,Found,1998,,,
+Sahara 98110,23006,Valid,Eucrite,31,Found,1998,,,
+Sahara 98111,23007,Valid,Diogenite,29,Found,1998,,,
+Sahara 98120,23008,Valid,L6,138,Found,1998,,,
+Sahara 98154,23009,Valid,H5,817,Found,1998,,,
+Sahara 98175,23010,Valid,LL3.5,1335,Found,1998,,,
+Sahara 98222,23011,Valid,L6,192,Found,1998,,,
+Sahara 98248,23012,Valid,R4,38.6,Found,1998,,,
+Sahara 98276,23013,Valid,L6,93,Found,1998,,,
+Sahara 98312,23014,Valid,L5-6,23,Found,1998,,,
+Sahara 98316,23015,Valid,L/LL3,111,Found,1998,,,
+Sahara 98323,23016,Valid,L3.7,355,Found,1998,,,
+Sahara 98380,23019,Valid,LL4-6,17,Found,1998,,,
+Sahara 98404,23020,Valid,CO3,46,Found,1998,,,
+Sahara 98429,23021,Valid,L6,137,Found,1998,,,
+Sahara 98430,23022,Valid,H4-6,45,Found,1998,,,
+Sahara 98433,23023,Valid,H5,12,Found,1998,,,
+Sahara 98448,23024,Valid,Mesosiderite,785,Found,1998,,,
+Sahara 98465,23025,Valid,L4,226,Found,1998,,,
+Sahara 98473,23026,Valid,L6,68,Found,1998,,,
+Sahara 98492,23027,Valid,Mesosiderite,138,Found,1998,,,
+Sahara 98501,23028,Valid,Ureilite,123,Found,1998,,,
+Sahara 98505,23029,Valid,Ureilite,152,Found,1998,,,
+Sahara 98532,23030,Valid,L4,258,Found,1998,,,
+Sahara 98557,23031,Valid,LL6,8,Found,1998,,,
+Sahara 98573,23032,Valid,L3.8,175,Found,1998,,,
+Sahara 98639,23033,Valid,H4,300,Found,1998,,,
+Sahara 98645,23034,Valid,H3,51,Found,1998,,,
+Sahara 98660,23035,Valid,L3-6,141,Found,1998,,,
+Sahara 98683,23036,Valid,L3,361,Found,1998,,,
+Sahara 98691,23037,Valid,L3,16,Found,1998,,,
+Sahara 98748,23038,Valid,H3-6,439,Found,1998,,,
+Sahara 98782,23039,Valid,L3,47,Found,1998,,,
+Sahara 98804,23040,Valid,H4,62,Found,1998,,,
+Sayh al Uhaymir 204,23377,Valid,H5,139.96,Found,1998,21.0835,57.25275,"(21.0835, 57.25275)"
+Scott Glacier 98200,23463,Valid,L4,311.5,Found,1998,-87.03333,-148,"(-87.03333, -148.0)"
+Scott Glacier 98201,23464,Valid,L6,199,Found,1998,-87.03333,-148,"(-87.03333, -148.0)"
+Scott Glacier 98202,23465,Valid,L6,84.3,Found,1998,-87.03333,-148,"(-87.03333, -148.0)"
+Yamato 980102,36728,Valid,L5,24.518,Found,1998,,,
+Shalim 005,23518,Valid,H5,344.66,Found,1998,18.21432,55.71322,"(18.21432, 55.71322)"
+Shalim 006,23519,Valid,H6,374.42,Found,1998,18.44728,55.92163,"(18.44728, 55.92163)"
+Shalim 007,23520,Valid,H6,323.85,Found,1998,18.52632,55.93298,"(18.52632, 55.93298)"
+Shişr 022,23557,Valid,L5,255.25,Found,1998,18.1672,53.84555,"(18.1672, 53.84555)"
+Shişr 023,23558,Valid,L5,841,Found,1998,18.55287,53.98743,"(18.55287, 53.98743)"
+Shişr 024,23559,Valid,L5,900.84,Found,1998,18.55473,53.99687,"(18.55473, 53.99687)"
+Shişr 025,23560,Valid,L6,7293.48,Found,1998,18.1074,53.8319,"(18.1074, 53.8319)"
+Shişr 026,23561,Valid,H4,396.56,Found,1998,18.12303,53.75478,"(18.12303, 53.75478)"
+Shişr 027,23562,Valid,H6,61.39,Found,1998,18.1413,53.91205,"(18.1413, 53.91205)"
+Shişr 028,23563,Valid,LL6,818.11,Found,1998,18.14277,53.80753,"(18.14277, 53.80753)"
+Shişr 029,23564,Valid,H5,204.71,Found,1998,18.1501,53.80047,"(18.1501, 53.80047)"
+Shişr 030,23565,Valid,H5,176.28,Found,1998,18.1536,53.77487,"(18.1536, 53.77487)"
+Yamato 980104,36730,Valid,L6,120.99,Found,1998,,,
+Yamato 980106,36732,Valid,H4,5.72,Found,1998,,,
+Temple Bar,23895,Valid,CR,106,Found,1998,35.91667,-114.43333,"(35.91667, -114.43333)"
+Yamato 980107,36733,Valid,L6,65.23,Found,1998,,,
+Yamato 980108,36734,Valid,H4,41.85,Found,1998,,,
+Yamato 980110,36736,Valid,Ureilite,63.05,Found,1998,,,
+Yamato 980112,36738,Valid,L6,12.377,Found,1998,,,
+Wildcat Peak,24266,Valid,H5,202,Found,1998,32.56533,-111.7255,"(32.56533, -111.7255)"
+Yamato 980113,36739,Valid,Eucrite,37.336,Found,1998,,,
+Yamato 980114,36740,Valid,L6,32.339,Found,1998,,,
+Yamato 980115,36741,Valid,CI1,771.69,Found,1998,,,
+Yamato 980116,36742,Valid,H5,5.034,Found,1998,,,
+Yamato 980119,36745,Valid,EL6,13.233,Found,1998,,,
+Yamato 980120,36746,Valid,L6,306.15,Found,1998,,,
+Yamato 980123,36749,Valid,H4,66.79,Found,1998,,,
+Yamato 980127,36753,Valid,H3,188.99,Found,1998,,,
+Yamato 980129,36755,Valid,H3,173.89,Found,1998,,,
+Yamato 980130,36756,Valid,L6,19.566,Found,1998,,,
+Yamato 980003,36629,Valid,L6,307.13,Found,1998,,,
+Yamato 980005,36631,Valid,L,23.779,Found,1998,,,
+Yamato 980006,36632,Valid,L3,7.4,Found,1998,,,
+Yamato 980010,36636,Valid,CV3,10.223,Found,1998,,,
+Yamato 980011,36637,Valid,CV3,9.217,Found,1998,,,
+Yamato 980015,36641,Valid,H4,46.822,Found,1998,,,
+Yamato 980016,36642,Valid,H3,6.704,Found,1998,,,
+Yamato 980020,36646,Valid,L6,42.804,Found,1998,,,
+Yamato 980021,36647,Valid,L6,38.42,Found,1998,,,
+Yamato 980022,36648,Valid,H6,14.937,Found,1998,,,
+Yamato 980025,36651,Valid,L6,69.24,Found,1998,,,
+Yamato 980026,36652,Valid,L6,1054,Found,1998,,,
+Yamato 980027,36653,Valid,LL4,26.12,Found,1998,,,
+Yamato 980028,36654,Valid,L6,42.089,Found,1998,,,
+Yamato 980029,36655,Valid,H4,30.222,Found,1998,,,
+Yamato 980036,36662,Valid,CM2,5.454,Found,1998,,,
+Yamato 980041,36667,Valid,H4,6.443,Found,1998,,,
+Yamato 980042,36668,Valid,H4,12.214,Found,1998,,,
+Yamato 980044,36670,Valid,L5,16.091,Found,1998,,,
+Yamato 980048,36674,Valid,L4,164.09,Found,1998,,,
+Yamato 980049,36675,Valid,H3,288.06,Found,1998,,,
+Yamato 980050,36676,Valid,CM2,20.842,Found,1998,,,
+Yamato 980051,36677,Valid,CM2,38.483,Found,1998,,,
+Yamato 980052,36678,Valid,H3,426.95,Found,1998,,,
+Yamato 980053,36679,Valid,H3,260.31,Found,1998,,,
+Yamato 980054,36680,Valid,H3,58.072,Found,1998,,,
+Yamato 980055,36681,Valid,H3,67.33,Found,1998,,,
+Yamato 980056,36682,Valid,H3,16.952,Found,1998,,,
+Yamato 980057,36683,Valid,H3,15.272,Found,1998,,,
+Yamato 980059,36685,Valid,L4,17.42,Found,1998,,,
+Yamato 980061,36687,Valid,H4,9.088,Found,1998,,,
+Yamato 980062,36688,Valid,L6,15.426,Found,1998,,,
+Yamato 980063,36689,Valid,H4,9.906,Found,1998,,,
+Yamato 980064,36690,Valid,L6,15.548,Found,1998,,,
+Yamato 980066,36692,Valid,Eucrite,55.873,Found,1998,,,
+Yamato 980068,36694,Valid,Eucrite,34.396,Found,1998,,,
+Yamato 980070,36696,Valid,CM2,6.023,Found,1998,,,
+Yamato 980071,36697,Valid,CM2,1.357,Found,1998,,,
+Yamato 980072,36698,Valid,H3,11.55,Found,1998,,,
+Yamato 980073,36699,Valid,H3,72.34,Found,1998,,,
+Yamato 980074,36700,Valid,H3,17.625,Found,1998,,,
+Yamato 980075,36701,Valid,H3,12.572,Found,1998,,,
+Yamato 980078,36704,Valid,H3,21.346,Found,1998,,,
+Yamato 980079,36705,Valid,LL6,1840,Found,1998,,,
+Yamato 980085,36711,Valid,CM2,13.614,Found,1998,,,
+Yamato 980086,36712,Valid,CM2,8.424,Found,1998,,,
+Yamato 980087,36713,Valid,CM2,3.687,Found,1998,,,
+Yamato 981198,37820,Valid,H5,5.03,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980088,36714,Valid,CM2,6.513,Found,1998,,,
+Yamato 980090,36716,Valid,CM2,0.967,Found,1998,,,
+Yamato 980091,36717,Valid,CM2,5.375,Found,1998,,,
+Yamato 980092,36718,Valid,CM2,1.218,Found,1998,,,
+Yamato 980093,36719,Valid,CM2,29.645,Found,1998,,,
+Yamato 980094,36720,Valid,CM2,10.106,Found,1998,,,
+Yamato 980095,36721,Valid,CM2,4.129,Found,1998,,,
+Yamato 980096,36722,Valid,CM2,19.052,Found,1998,,,
+Yamato 980097,36723,Valid,CM2,2.517,Found,1998,,,
+Yamato 980098,36724,Valid,CM2,0.885,Found,1998,,,
+Yamato 981200,37822,Valid,H4,12.23,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980131,36757,Valid,L6,17.295,Found,1998,,,
+Yamato 980132,36758,Valid,L6,383.46,Found,1998,,,
+Yamato 980133,36759,Valid,H4,9.47,Found,1998,,,
+Yamato 980134,36760,Valid,CI1,12.206,Found,1998,,,
+Yamato 980135,36761,Valid,H3,182.8,Found,1998,,,
+Yamato 980136,36762,Valid,L6,18.82,Found,1998,,,
+Yamato 980139,36765,Valid,LL3,207.184,Found,1998,,,
+Yamato 980140,36766,Valid,LL4,387.21,Found,1998,,,
+Yamato 980142,36768,Valid,H4,44.762,Found,1998,,,
+Yamato 980143,36769,Valid,H3,48.79,Found,1998,,,
+Yamato 980144,36770,Valid,L6,39.179,Found,1998,,,
+Yamato 980145,36771,Valid,CV3,74.85,Found,1998,,,
+Yamato 980146,36772,Valid,CV3,78.13,Found,1998,,,
+Yamato 980147,36773,Valid,CV3,7.653,Found,1998,,,
+Yamato 980148,36774,Valid,CV3,2.953,Found,1998,,,
+Yamato 980149,36775,Valid,CV3,1.252,Found,1998,,,
+Yamato 980150,36776,Valid,CV3,0.557,Found,1998,,,
+Yamato 980153,36779,Valid,H6,17.453,Found,1998,,,
+Yamato 980155,36781,Valid,LL6,60.09,Found,1998,,,
+Yamato 980156,36782,Valid,L6,105.35,Found,1998,,,
+Yamato 980157,36783,Valid,LL6,844.88,Found,1998,,,
+Yamato 980159,36785,Valid,R6,8.247,Found,1998,,,
+Yamato 980160,36786,Valid,H5,110.32,Found,1998,,,
+Yamato 980161,36787,Valid,H6,6.491,Found,1998,,,
+Yamato 980162,36788,Valid,H6,7.431,Found,1998,,,
+Yamato 980163,36789,Valid,LL4,145.87,Found,1998,,,
+Yamato 980164,36790,Valid,LL4,115.28,Found,1998,,,
+Yamato 981202,37824,Valid,L6,95.46,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980165,36791,Valid,CO3,16.985,Found,1998,,,
+Yamato 980166,36792,Valid,LL4,10.135,Found,1998,,,
+Yamato 980169,36795,Valid,LL3,651.58,Found,1998,,,
+Yamato 980170,36796,Valid,L6,6.888,Found,1998,,,
+Yamato 980171,36797,Valid,L6,717.77,Found,1998,,,
+Yamato 980172,36798,Valid,L6,480.63,Found,1998,,,
+Yamato 980173,36799,Valid,H6,9.441,Found,1998,,,
+Yamato 980174,36800,Valid,H4,16.267,Found,1998,,,
+Yamato 980175,36801,Valid,CV3,4.822,Found,1998,,,
+Yamato 980178,36804,Valid,H3,7.289,Found,1998,,,
+Yamato 980179,36805,Valid,L3,43.969,Found,1998,,,
+Yamato 980180,36806,Valid,L3,23.621,Found,1998,,,
+Yamato 980181,36807,Valid,L3,9.126,Found,1998,,,
+Yamato 980182,36808,Valid,H4,21.927,Found,1998,,,
+Yamato 980183,36809,Valid,CM2,9.507,Found,1998,,,
+Yamato 980186,36812,Valid,L6,8.672,Found,1998,,,
+Yamato 980191,36817,Valid,L6,17.133,Found,1998,,,
+Yamato 980192,36818,Valid,H4,10.956,Found,1998,,,
+Yamato 980193,36819,Valid,L6,9.947,Found,1998,,,
+Yamato 980194,36820,Valid,H6,322.68,Found,1998,,,
+Yamato 980196,36822,Valid,L6,13.054,Found,1998,,,
+Yamato 980201,36827,Valid,L6,5.316,Found,1998,,,
+Yamato 980202,36828,Valid,L6,7.143,Found,1998,,,
+Yamato 980204,36830,Valid,L6,7.117,Found,1998,,,
+Yamato 980208,36834,Valid,L6,98.88,Found,1998,,,
+Yamato 980209,36835,Valid,LL3,16.43,Found,1998,,,
+Yamato 980211,36837,Valid,EH6,36.923,Found,1998,,,
+Yamato 981204,37826,Valid,L6,7.75,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980214,36840,Valid,L5,106.61,Found,1998,,,
+Yamato 980215,36841,Valid,H5,10.527,Found,1998,,,
+Yamato 980219,36845,Valid,H5,34.599,Found,1998,,,
+Yamato 980220,36846,Valid,L6,27.419,Found,1998,,,
+Yamato 980223,36849,Valid,EH6,116.21,Found,1998,,,
+Yamato 980227,36853,Valid,L6,20.521,Found,1998,,,
+Yamato 980230,36856,Valid,H5,5.054,Found,1998,,,
+Yamato 980231,36857,Valid,H5,6.755,Found,1998,,,
+Yamato 980232,36858,Valid,L6,6.883,Found,1998,,,
+Yamato 980235,36861,Valid,H4,7.83,Found,1998,,,
+Yamato 980237,36863,Valid,L6,7.233,Found,1998,,,
+Yamato 980239,36865,Valid,CM2,8.206,Found,1998,,,
+Yamato 980242,36868,Valid,L6,6.72,Found,1998,,,
+Yamato 980245,36871,Valid,L6,7.059,Found,1998,,,
+Yamato 980246,36872,Valid,L6,129.64,Found,1998,,,
+Yamato 980247,36873,Valid,L6,16.041,Found,1998,,,
+Yamato 980250,36876,Valid,L6,31.237,Found,1998,,,
+Yamato 980252,36878,Valid,H6,25.891,Found,1998,,,
+Yamato 980253,36879,Valid,L6,13.061,Found,1998,,,
+Yamato 980254,36880,Valid,L6,7.984,Found,1998,,,
+Yamato 980255,36881,Valid,Eucrite,100.69,Found,1998,,,
+Yamato 980258,36884,Valid,L6,5.528,Found,1998,,,
+Yamato 980259,36885,Valid,L6,15.79,Found,1998,,,
+Yamato 980263,36889,Valid,L6,7.06,Found,1998,,,
+Yamato 980269,36895,Valid,L6,22.296,Found,1998,,,
+Yamato 980270,36896,Valid,H6,137.91,Found,1998,,,
+Yamato 980272,36898,Valid,L6,8.02,Found,1998,,,
+Yamato 981207,37829,Valid,L4,5.8,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980275,36901,Valid,H5,114.25,Found,1998,,,
+Yamato 980276,36902,Valid,L6,31.036,Found,1998,,,
+Yamato 980278,36904,Valid,L6,15.178,Found,1998,,,
+Yamato 980279,36905,Valid,L6,13.939,Found,1998,,,
+Yamato 980281,36907,Valid,L6,8.433,Found,1998,,,
+Yamato 980282,36908,Valid,H4,17.72,Found,1998,,,
+Yamato 980283,36909,Valid,L6,370.6,Found,1998,,,
+Yamato 980284,36910,Valid,L6,80.84,Found,1998,,,
+Yamato 980287,36913,Valid,L6,5.756,Found,1998,,,
+Yamato 980293,36919,Valid,L6,9.091,Found,1998,,,
+Yamato 980296,36922,Valid,L6,11.155,Found,1998,,,
+Yamato 980297,36923,Valid,L6,61.5,Found,1998,,,
+Yamato 980298,36924,Valid,H4,21.981,Found,1998,,,
+Yamato 980299,36925,Valid,L6,14.664,Found,1998,,,
+Yamato 980301,36927,Valid,L6,5.802,Found,1998,,,
+Yamato 980302,36928,Valid,L6,6.139,Found,1998,,,
+Yamato 980305,36931,Valid,L6,149.08,Found,1998,,,
+Yamato 980307,36933,Valid,L6,60.94,Found,1998,,,
+Yamato 980308,36934,Valid,L6,137.13,Found,1998,,,
+Yamato 980310,36936,Valid,Eucrite,17.185,Found,1998,,,
+Yamato 980316,36942,Valid,H6,30.277,Found,1998,,,
+Yamato 980318,30340,Valid,Eucrite-cm,166.81,Found,1998,-71.5,35.66667,"(-71.5, 35.66667)"
+Yamato 980319,36944,Valid,H3,77.74,Found,1998,,,
+Yamato 980320,36945,Valid,LL3,19.027,Found,1998,,,
+Yamato 980321,36946,Valid,LL6,65.14,Found,1998,,,
+Yamato 980324,36949,Valid,L,14.484,Found,1998,,,
+Yamato 980325,36950,Valid,LL3,19.951,Found,1998,,,
+Yamato 980326,36951,Valid,Eucrite,4.455,Found,1998,,,
+Yamato 980327,36952,Valid,L4,9.918,Found,1998,,,
+Yamato 980328,36953,Valid,L4,12.311,Found,1998,,,
+Yamato 980330,36955,Valid,L3,65.97,Found,1998,,,
+Yamato 980331,36956,Valid,L3,39.245,Found,1998,,,
+Yamato 980338,36963,Valid,LL6,11.753,Found,1998,,,
+Yamato 980340,36965,Valid,L6,54.186,Found,1998,,,
+Yamato 980341,36966,Valid,L6,27.364,Found,1998,,,
+Yamato 980342,36967,Valid,L6,10.267,Found,1998,,,
+Yamato 980348,36973,Valid,LL6,21.004,Found,1998,,,
+Yamato 980350,36975,Valid,H6,46.427,Found,1998,,,
+Yamato 980352,36977,Valid,L6,69.25,Found,1998,,,
+Yamato 980353,36978,Valid,L6,151.27,Found,1998,,,
+Yamato 980354,36979,Valid,L4,5.712,Found,1998,,,
+Yamato 980355,36980,Valid,L6,9.132,Found,1998,,,
+Yamato 980356,36981,Valid,Eucrite,40.298,Found,1998,,,
+Yamato 980357,36982,Valid,Eucrite,13.845,Found,1998,,,
+Yamato 980358,36983,Valid,H6,15.018,Found,1998,,,
+Yamato 980359,36984,Valid,LL6,84.34,Found,1998,,,
+Yamato 980360,36985,Valid,H4,75.69,Found,1998,,,
+Yamato 980362,36987,Valid,L6,103.45,Found,1998,,,
+Yamato 980364,36989,Valid,LL6,13.372,Found,1998,,,
+Yamato 980365,36990,Valid,H6,5.344,Found,1998,,,
+Yamato 980368,36993,Valid,H4,21.942,Found,1998,,,
+Yamato 980370,36995,Valid,H4,10.168,Found,1998,,,
+Yamato 980371,36996,Valid,L6,23.13,Found,1998,,,
+Yamato 980376,37001,Valid,LL6,68.76,Found,1998,,,
+Yamato 980379,37004,Valid,H3,27.701,Found,1998,,,
+Yamato 981208,37830,Valid,CV3,24.32,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980385,37010,Valid,L6,10.352,Found,1998,,,
+Yamato 980387,37012,Valid,L3,18.029,Found,1998,,,
+Yamato 980388,37013,Valid,L3,10.651,Found,1998,,,
+Yamato 980389,37014,Valid,L3,22.446,Found,1998,,,
+Yamato 980391,37016,Valid,H4,18.512,Found,1998,,,
+Yamato 980394,37019,Valid,H4,558.52,Found,1998,,,
+Yamato 980395,37020,Valid,L6,20.833,Found,1998,,,
+Yamato 980397,37022,Valid,H5,5.079,Found,1998,,,
+Yamato 980398,37023,Valid,H5,14.107,Found,1998,,,
+Yamato 980399,37024,Valid,CM2,5.335,Found,1998,,,
+Yamato 980400,37025,Valid,L3,35.995,Found,1998,,,
+Yamato 980401,37026,Valid,L6,15.005,Found,1998,,,
+Yamato 980402,37027,Valid,H5,716.83,Found,1998,,,
+Yamato 980403,37028,Valid,H5,31.322,Found,1998,,,
+Yamato 980404,37029,Valid,H5,10.181,Found,1998,,,
+Yamato 980405,37030,Valid,H5,8.486,Found,1998,,,
+Yamato 980406,37031,Valid,H5,4.975,Found,1998,,,
+Yamato 980407,37032,Valid,H6,25.618,Found,1998,,,
+Yamato 980408,37033,Valid,H4,16.43,Found,1998,,,
+Yamato 980409,37034,Valid,LL6,13.997,Found,1998,,,
+Yamato 980412,37037,Valid,H6,200.94,Found,1998,,,
+Yamato 980413,37038,Valid,LL3,108.57,Found,1998,,,
+Yamato 980414,37039,Valid,LL3,21.05,Found,1998,,,
+Yamato 980415,37040,Valid,LL3,6.228,Found,1998,,,
+Yamato 980416,37041,Valid,LL3,2.701,Found,1998,,,
+Yamato 980417,37042,Valid,LL3,0.33,Found,1998,,,
+Yamato 980422,37047,Valid,L3,13.786,Found,1998,,,
+Yamato 980423,37048,Valid,L3,32.267,Found,1998,,,
+Yamato 980424,37049,Valid,L3,71.23,Found,1998,,,
+Yamato 980425,37050,Valid,L6,8.752,Found,1998,,,
+Yamato 980429,37054,Valid,L3,10.04,Found,1998,,,
+Yamato 980430,37055,Valid,LL6,17.005,Found,1998,,,
+Yamato 980432,37057,Valid,LL6,786.54,Found,1998,,,
+Yamato 980433,32788,Valid,Eucrite,1497.5,Found,1998,,,
+Yamato 980436,37060,Valid,H4,11.948,Found,1998,,,
+Yamato 980438,37062,Valid,L6,508.12,Found,1998,,,
+Yamato 980439,37063,Valid,L3,22.249,Found,1998,,,
+Yamato 980440,37064,Valid,L3,27.443,Found,1998,,,
+Yamato 980446,37070,Valid,L3,24.842,Found,1998,,,
+Yamato 980448,37072,Valid,L3,125.88,Found,1998,,,
+Yamato 980449,37073,Valid,L3,12.49,Found,1998,,,
+Yamato 980451,37075,Valid,LL6,8.444,Found,1998,,,
+Yamato 980452,37076,Valid,L3,5.168,Found,1998,,,
+Yamato 980453,37077,Valid,L3,13.026,Found,1998,,,
+Yamato 980456,37080,Valid,LL6,14.778,Found,1998,,,
+Yamato 980457,37081,Valid,L3,55.017,Found,1998,,,
+Yamato 980459,30341,Valid,Martian (shergottite),82.46,Found,1998,-72.09802,35.24265,"(-72.09802, 35.24265)"
+Yamato 980460,37083,Valid,LL6,252.11,Found,1998,,,
+Yamato 980461,37084,Valid,LL6,56.096,Found,1998,,,
+Yamato 980462,37085,Valid,H6,635.98,Found,1998,,,
+Yamato 980463,37086,Valid,L6,102.38,Found,1998,,,
+Yamato 980464,37087,Valid,H5,20.805,Found,1998,,,
+Yamato 980465,37088,Valid,H3,37.837,Found,1998,,,
+Yamato 980466,37089,Valid,L6,694.57,Found,1998,,,
+Yamato 980468,37091,Valid,H6,6.086,Found,1998,,,
+Yamato 980469,37092,Valid,L4,108.06,Found,1998,,,
+Yamato 980470,37093,Valid,H5,11.822,Found,1998,,,
+Yamato 980472,37095,Valid,H3,130.14,Found,1998,,,
+Yamato 980473,37096,Valid,LL6,547.36,Found,1998,,,
+Yamato 980474,37097,Valid,L3,7.613,Found,1998,,,
+Yamato 980475,37098,Valid,H5,41.129,Found,1998,,,
+Yamato 980477,37100,Valid,L6,6.311,Found,1998,,,
+Yamato 980478,37101,Valid,H6,1413.8,Found,1998,,,
+Yamato 980479,37102,Valid,H6,7.38,Found,1998,,,
+Yamato 980480,37103,Valid,L3,8.099,Found,1998,,,
+Yamato 980481,37104,Valid,LL6,63.95,Found,1998,,,
+Yamato 980484,37107,Valid,L3,6.145,Found,1998,,,
+Yamato 980488,37111,Valid,LL6,12.499,Found,1998,,,
+Yamato 980490,37113,Valid,L3,21.232,Found,1998,,,
+Yamato 980497,37120,Valid,Martian (shergottite),8.713,Found,1998,,,
+Yamato 980502,37125,Valid,H3,22.102,Found,1998,,,
+Yamato 980505,37128,Valid,L3,41.11,Found,1998,,,
+Yamato 980513,37136,Valid,H4,32.861,Found,1998,,,
+Yamato 980520,37143,Valid,L4,6.004,Found,1998,,,
+Yamato 980523,37146,Valid,L6,136.93,Found,1998,,,
+Yamato 980524,37147,Valid,EL6,24.301,Found,1998,,,
+Yamato 980526,37149,Valid,L6,10.831,Found,1998,,,
+Yamato 980527,37150,Valid,H4,10.353,Found,1998,,,
+Yamato 980528,37151,Valid,Eucrite,12.636,Found,1998,,,
+Yamato 980529,37152,Valid,H6,5.749,Found,1998,,,
+Yamato 980531,37154,Valid,H4,6.784,Found,1998,,,
+Yamato 980532,37155,Valid,H6,19.592,Found,1998,,,
+Yamato 980533,37156,Valid,H4,5.803,Found,1998,,,
+Yamato 981209,37831,Valid,L6,16.58,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980537,37160,Valid,H6,12.35,Found,1998,,,
+Yamato 980540,37163,Valid,LL6,16.766,Found,1998,,,
+Yamato 980541,37164,Valid,H5,18.474,Found,1998,,,
+Yamato 980542,37165,Valid,L6,15.19,Found,1998,,,
+Yamato 980543,37166,Valid,L6,12.55,Found,1998,,,
+Yamato 980544,37167,Valid,H3,35.574,Found,1998,,,
+Yamato 980545,37168,Valid,H4,5.035,Found,1998,,,
+Yamato 980555,37178,Valid,H6,5.86,Found,1998,,,
+Yamato 980559,37182,Valid,LL3,51.752,Found,1998,,,
+Yamato 980560,37183,Valid,LL3,14.043,Found,1998,,,
+Yamato 980563,37186,Valid,H4,6.633,Found,1998,,,
+Yamato 980564,37187,Valid,H4,10.076,Found,1998,,,
+Yamato 980565,37188,Valid,H5,17.977,Found,1998,,,
+Yamato 980567,37190,Valid,L6,5.942,Found,1998,,,
+Yamato 980568,37191,Valid,H4,30.212,Found,1998,,,
+Yamato 980571,37194,Valid,H4,15.911,Found,1998,,,
+Yamato 980572,37195,Valid,LL4,16.355,Found,1998,,,
+Yamato 980573,37196,Valid,H6,8.338,Found,1998,,,
+Yamato 980575,37198,Valid,H4,10.168,Found,1998,,,
+Yamato 980576,37199,Valid,H3,57.25,Found,1998,,,
+Yamato 980577,37200,Valid,H3,16.499,Found,1998,,,
+Yamato 980579,37202,Valid,H4,12.549,Found,1998,,,
+Yamato 980580,37203,Valid,H4,14.633,Found,1998,,,
+Yamato 980582,37205,Valid,H4,9.105,Found,1998,,,
+Yamato 980585,37208,Valid,LL3,15.76,Found,1998,,,
+Yamato 980586,37209,Valid,LL3,13.517,Found,1998,,,
+Yamato 980588,37211,Valid,L3,43.365,Found,1998,,,
+Yamato 981210,37832,Valid,H5,26.57,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980589,37212,Valid,H5,17.551,Found,1998,,,
+Yamato 980591,37214,Valid,LL6,15.517,Found,1998,,,
+Yamato 980592,37215,Valid,L6,79.24,Found,1998,,,
+Yamato 980593,37216,Valid,L3,10.913,Found,1998,,,
+Yamato 980595,37218,Valid,L3,17.8,Found,1998,,,
+Yamato 980596,37219,Valid,L6,5.919,Found,1998,,,
+Yamato 980597,37220,Valid,L3,53.273,Found,1998,,,
+Yamato 980618,37241,Valid,H4,9.201,Found,1998,,,
+Yamato 980619,37242,Valid,L4,21.515,Found,1998,,,
+Yamato 980623,37246,Valid,H4,5.094,Found,1998,,,
+Yamato 980625,37248,Valid,H4,17.055,Found,1998,,,
+Yamato 980627,37250,Valid,H4,57.246,Found,1998,,,
+Yamato 980630,37253,Valid,L6,50.904,Found,1998,,,
+Yamato 980631,37254,Valid,L5,45.029,Found,1998,,,
+Yamato 980639,37262,Valid,H4,20.616,Found,1998,,,
+Yamato 980640,37263,Valid,H4,39.364,Found,1998,,,
+Yamato 980642,37265,Valid,H5,7.564,Found,1998,,,
+Yamato 980646,37269,Valid,L6,559.7,Found,1998,,,
+Yamato 980647,37270,Valid,L6,165.75,Found,1998,,,
+Yamato 980649,37272,Valid,L6,20.392,Found,1998,,,
+Yamato 980654,37277,Valid,L6,23.119,Found,1998,,,
+Yamato 980656,37279,Valid,H4,10.145,Found,1998,,,
+Yamato 980657,37280,Valid,L6,16.683,Found,1998,,,
+Yamato 980658,37281,Valid,H5,11.148,Found,1998,,,
+Yamato 980660,37283,Valid,H3,12.397,Found,1998,,,
+Yamato 980662,37285,Valid,H4,54,Found,1998,,,
+Yamato 980663,37286,Valid,H5,119.4,Found,1998,,,
+Yamato 980664,37287,Valid,H5,73.82,Found,1998,,,
+Yamato 980665,37288,Valid,H5,74.77,Found,1998,,,
+Yamato 980673,37296,Valid,H5,7.859,Found,1998,,,
+Yamato 980674,37297,Valid,H5,44.732,Found,1998,,,
+Yamato 980675,37298,Valid,H5,7.191,Found,1998,,,
+Yamato 980680,37303,Valid,H4,7.123,Found,1998,,,
+Yamato 980681,37304,Valid,H,5.629,Found,1998,,,
+Yamato 980682,37305,Valid,H,7.942,Found,1998,,,
+Yamato 980684,37307,Valid,H6,5.765,Found,1998,,,
+Yamato 980687,37310,Valid,H4,11.451,Found,1998,,,
+Yamato 980688,37311,Valid,L6,6.899,Found,1998,,,
+Yamato 980690,37313,Valid,H5,10.701,Found,1998,,,
+Yamato 980700,37323,Valid,L6,21.251,Found,1998,,,
+Yamato 980701,37324,Valid,H4,18.402,Found,1998,,,
+Yamato 980702,37325,Valid,R6,92.99,Found,1998,,,
+Yamato 980703,37326,Valid,R6,30.59,Found,1998,,,
+Yamato 980705,37328,Valid,R6,5.793,Found,1998,,,
+Yamato 980706,37329,Valid,L6,14.459,Found,1998,,,
+Yamato 980708,37331,Valid,H5,5.046,Found,1998,,,
+Yamato 980711,37334,Valid,H5,5.638,Found,1998,,,
+Yamato 980712,37335,Valid,H4,22.972,Found,1998,,,
+Yamato 980713,37336,Valid,H4,5.576,Found,1998,,,
+Yamato 980723,37346,Valid,H5,26.494,Found,1998,,,
+Yamato 980729,37352,Valid,H5,9.191,Found,1998,,,
+Yamato 980730,37353,Valid,H6,11.624,Found,1998,,,
+Yamato 980731,37354,Valid,H4,6.039,Found,1998,,,
+Yamato 980738,37361,Valid,H4,68.99,Found,1998,,,
+Yamato 980739,37362,Valid,H4,40.705,Found,1998,,,
+Yamato 981214,37836,Valid,LL6,17.82,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980740,37363,Valid,H3,44.827,Found,1998,,,
+Yamato 980741,37364,Valid,H4,16.807,Found,1998,,,
+Yamato 980742,37365,Valid,H6,6.371,Found,1998,,,
+Yamato 980744,37367,Valid,L6,72.98,Found,1998,,,
+Yamato 980745,37368,Valid,L6,20.476,Found,1998,,,
+Yamato 980747,37370,Valid,H6,55.352,Found,1998,,,
+Yamato 980752,37375,Valid,H6,12.148,Found,1998,,,
+Yamato 980756,37379,Valid,H6,34.357,Found,1998,,,
+Yamato 980758,37381,Valid,H5,35.532,Found,1998,,,
+Yamato 980759,37382,Valid,H5,8.661,Found,1998,,,
+Yamato 980762,37385,Valid,H4,17.667,Found,1998,,,
+Yamato 980763,37386,Valid,L6,5.876,Found,1998,,,
+Yamato 980768,37391,Valid,L3,6.408,Found,1998,,,
+Yamato 980771,37394,Valid,H6,42.763,Found,1998,,,
+Yamato 980782,37405,Valid,L5,39.007,Found,1998,,,
+Yamato 980784,37407,Valid,H5,6.902,Found,1998,,,
+Yamato 980787,37410,Valid,H5,5.553,Found,1998,,,
+Yamato 980789,37412,Valid,H5,5.136,Found,1998,,,
+Yamato 980791,37414,Valid,H5,18.196,Found,1998,,,
+Yamato 980792,37415,Valid,H5,20.483,Found,1998,,,
+Yamato 980796,37419,Valid,H4,6.935,Found,1998,,,
+Yamato 980799,37422,Valid,H5,29.114,Found,1998,,,
+Yamato 980800,37423,Valid,L6,8.82,Found,1998,,,
+Yamato 980802,37425,Valid,H4,8.609,Found,1998,,,
+Yamato 980804,37427,Valid,L5,5.508,Found,1998,,,
+Yamato 980805,37428,Valid,L6,59.17,Found,1998,,,
+Yamato 980806,37429,Valid,L6,13.341,Found,1998,,,
+Yamato 981215,37837,Valid,H5,5.75,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 980807,37430,Valid,H4,29.59,Found,1998,,,
+Yamato 980808,37431,Valid,L6,10.505,Found,1998,,,
+Yamato 980809,37432,Valid,L6,18.365,Found,1998,,,
+Yamato 980810,37433,Valid,L6,27.467,Found,1998,,,
+Yamato 980811,37434,Valid,L5,227.01,Found,1998,,,
+Yamato 980814,37437,Valid,H6,12.976,Found,1998,,,
+Yamato 980815,37438,Valid,L6,25.932,Found,1998,,,
+Yamato 980816,37439,Valid,H4,8.789,Found,1998,,,
+Yamato 980817,37440,Valid,L6,151.07,Found,1998,,,
+Yamato 980821,37444,Valid,L6,8.121,Found,1998,,,
+Yamato 980823,37446,Valid,L6,19.108,Found,1998,,,
+Yamato 980824,37447,Valid,L6,14.218,Found,1998,,,
+Yamato 980834,37457,Valid,H6,5.796,Found,1998,,,
+Yamato 980836,37459,Valid,H4,9.184,Found,1998,,,
+Yamato 980839,37462,Valid,CM2,21.002,Found,1998,,,
+Yamato 980841,37464,Valid,H6,44.861,Found,1998,,,
+Yamato 980844,37467,Valid,L3,39.569,Found,1998,,,
+Yamato 980847,37470,Valid,L3,10.439,Found,1998,,,
+Yamato 980850,37473,Valid,L3,7.851,Found,1998,,,
+Yamato 980852,37475,Valid,L6,196.91,Found,1998,,,
+Yamato 980853,37476,Valid,H4,130.31,Found,1998,,,
+Yamato 980855,37478,Valid,H3,6.936,Found,1998,,,
+Yamato 980860,37483,Valid,H6,25.854,Found,1998,,,
+Yamato 980861,37484,Valid,L6,109.82,Found,1998,,,
+Yamato 980866,37489,Valid,L5,17.663,Found,1998,,,
+Yamato 980873,37496,Valid,L6,81.29,Found,1998,,,
+Yamato 980875,37498,Valid,H,7.335,Found,1998,,,
+Yamato 980876,37499,Valid,H,13.429,Found,1998,,,
+Yamato 980877,37500,Valid,H,10.153,Found,1998,,,
+Yamato 980878,37501,Valid,H5,8.207,Found,1998,,,
+Yamato 980879,37502,Valid,H4,9.033,Found,1998,,,
+Yamato 980881,37504,Valid,H4,9.04,Found,1998,,,
+Yamato 980883,37506,Valid,LL6,6.71,Found,1998,,,
+Yamato 980885,37508,Valid,L6,12.753,Found,1998,,,
+Yamato 980887,37510,Valid,H6,8.899,Found,1998,,,
+Yamato 980889,37512,Valid,H6,6.472,Found,1998,,,
+Yamato 980891,37514,Valid,LL6,15.97,Found,1998,,,
+Yamato 980893,37516,Valid,LL6,8.971,Found,1998,,,
+Yamato 980903,37526,Valid,H4,180.74,Found,1998,,,
+Yamato 980904,37527,Valid,H4,5.852,Found,1998,,,
+Yamato 980917,37540,Valid,H4,81.01,Found,1998,,,
+Yamato 980918,37541,Valid,L6,24.696,Found,1998,,,
+Yamato 980922,37545,Valid,H5,11.563,Found,1998,,,
+Yamato 980924,37547,Valid,H4,10.063,Found,1998,,,
+Yamato 980926,37549,Valid,H4,8.956,Found,1998,,,
+Yamato 980927,37550,Valid,H4,70.82,Found,1998,,,
+Yamato 980934,37557,Valid,H5,6.384,Found,1998,,,
+Yamato 980943,37566,Valid,H5,32.618,Found,1998,,,
+Yamato 980947,37570,Valid,H5,10.289,Found,1998,,,
+Yamato 980948,37571,Valid,H5,110.32,Found,1998,,,
+Yamato 980968,37591,Valid,H4,10.156,Found,1998,,,
+Yamato 980975,37598,Valid,H4,7.789,Found,1998,,,
+Yamato 980976,37599,Valid,H5,7.78,Found,1998,,,
+Yamato 980977,37600,Valid,H5,6.677,Found,1998,,,
+Yamato 980997,37620,Valid,H4,12.985,Found,1998,,,
+Yamato 980998,37621,Valid,H4,5.435,Found,1998,,,
+Yamato 981006,37629,Valid,H5,203.15,Found,1998,,,
+Yamato 981007,37630,Valid,H5,7.832,Found,1998,,,
+Yamato 981009,37632,Valid,H3,11.929,Found,1998,,,
+Yamato 981014,37637,Valid,H,20.565,Found,1998,,,
+Yamato 981015,37638,Valid,H5,7.984,Found,1998,,,
+Yamato 981020,37643,Valid,H5,7.556,Found,1998,,,
+Yamato 981021,37644,Valid,H5,186.32,Found,1998,,,
+Yamato 981022,37645,Valid,H5,21.686,Found,1998,,,
+Yamato 981023,37646,Valid,H4,72.92,Found,1998,,,
+Yamato 981024,37647,Valid,H4,40.177,Found,1998,,,
+Yamato 981025,37648,Valid,H5,22.233,Found,1998,,,
+Yamato 981026,37649,Valid,H4,8.203,Found,1998,,,
+Yamato 981027,37650,Valid,H4,5.647,Found,1998,,,
+Yamato 981031,30342,Valid,Lunar (anorth),185.8,Found,1998,-71.54694,35.40194,"(-71.54694, 35.40194)"
+Yamato 981032,37654,Valid,H5,9.899,Found,1998,,,
+Yamato 981033,37655,Valid,L6,168.1,Found,1998,,,
+Yamato 981036,37658,Valid,H5,237.87,Found,1998,,,
+Yamato 981037,37659,Valid,H4,6.843,Found,1998,,,
+Yamato 981040,37662,Valid,H5,6.412,Found,1998,,,
+Yamato 981042,37664,Valid,H5,66.13,Found,1998,,,
+Yamato 981044,37666,Valid,H6,5.076,Found,1998,,,
+Yamato 981045,37667,Valid,H4,9.011,Found,1998,,,
+Yamato 981058,37680,Valid,H5,9.11,Found,1998,,,
+Yamato 981067,37689,Valid,H5,8.677,Found,1998,,,
+Yamato 981069,37691,Valid,H5,24.232,Found,1998,,,
+Yamato 981070,37692,Valid,H4,8.017,Found,1998,,,
+Yamato 981078,37700,Valid,H5,36.06,Found,1998,,,
+Yamato 981080,37702,Valid,H5,10.288,Found,1998,,,
+Yamato 981081,37703,Valid,H5,9.144,Found,1998,,,
+Yamato 981082,37704,Valid,H5,5.035,Found,1998,,,
+Yamato 981086,37708,Valid,H4,5.227,Found,1998,,,
+Yamato 981090,37712,Valid,H4,8.682,Found,1998,,,
+Yamato 981115,37737,Valid,H4,12.59,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981116,37738,Valid,H4,13.47,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981120,37742,Valid,H4,14.79,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981121,37743,Valid,H3,13.53,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981123,37745,Valid,H4,6.26,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981130,37752,Valid,H5,15.41,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981132,37754,Valid,L6,23.61,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981133,37755,Valid,H6,46.87,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981134,37756,Valid,H5,13.93,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981135,37757,Valid,H5,10.53,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981139,37761,Valid,H3,12.34,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981140,37762,Valid,H3,29.57,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981143,37765,Valid,H5,5.51,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981144,37766,Valid,H5,6.15,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981148,37770,Valid,H6,25.36,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981149,37771,Valid,L6,8.64,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981150,37772,Valid,H4,7.75,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981159,37781,Valid,H4,8.85,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981162,37784,Valid,H5,53.72,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981163,37785,Valid,H6,40.18,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981164,37786,Valid,L6,23.15,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981165,37787,Valid,Eucrite,49.79,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981166,37788,Valid,H5,46.35,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981167,37789,Valid,H4,31.29,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981169,37791,Valid,H4,8.34,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981173,37795,Valid,H4,8.92,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981174,37796,Valid,L6,43.91,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981175,37797,Valid,H3,8.28,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981176,37798,Valid,H5,11.13,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981186,37808,Valid,H3,26.95,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981188,37810,Valid,H6,24.9,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981189,37811,Valid,H5,17.3,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981195,37817,Valid,H5,6.77,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981218,37840,Valid,L4,7.12,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981219,37841,Valid,H4,23.65,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981221,37843,Valid,H3,29.56,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981222,37844,Valid,H4,12.62,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981223,37845,Valid,H4,25.82,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981224,37846,Valid,H4,27.15,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981225,37847,Valid,H5,5.71,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981229,37851,Valid,H4,46.09,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981232,37854,Valid,H3,6.57,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981233,37855,Valid,H5,25.3,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981234,37856,Valid,H6,17.25,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981235,37857,Valid,H6,28.6,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981236,37858,Valid,H5,10.59,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981237,37859,Valid,L6,18.83,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981238,37860,Valid,H5,15.7,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981245,37867,Valid,H4,29.08,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981246,37868,Valid,H5,14.38,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981247,37869,Valid,Diogenite,5.57,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981252,37874,Valid,H4,11.51,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981253,37875,Valid,H5,131.12,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981256,37878,Valid,H6,9.61,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981266,37888,Valid,CM2,11.8,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981268,37890,Valid,CM2,6.63,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981271,37893,Valid,CM2,12.13,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981274,37896,Valid,L3,478.69,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981275,37897,Valid,L3,65.73,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981277,37899,Valid,L3,52.07,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981278,37900,Valid,L3,146.41,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981280,37902,Valid,H5,6.17,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981282,37904,Valid,H6,34.09,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981283,37905,Valid,L3,17.15,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981285,37907,Valid,L3,16.37,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981286,37908,Valid,CM2,19.3,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981288,37910,Valid,CM2,6.72,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981290,37912,Valid,CM2,6.36,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981299,37921,Valid,H4,31.16,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981301,37923,Valid,L3,126.4,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981302,37924,Valid,L3,147.96,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981303,37925,Valid,L3,43.89,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981304,37926,Valid,L3,102.79,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981305,37927,Valid,L3,228.72,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981307,37929,Valid,H4,68.91,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981308,37930,Valid,H5,86.92,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981309,37931,Valid,H4,5.34,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981318,37940,Valid,H5,5.81,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981319,37941,Valid,H4,7.73,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981321,37943,Valid,H4,12.73,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981326,37948,Valid,L6,15,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981327,37949,Valid,L3,42.04,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981333,37955,Valid,H4,133.65,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981337,37959,Valid,L6,59.39,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981338,37960,Valid,L6,7.15,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981346,37968,Valid,H6,21.89,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981350,37972,Valid,L6,18.34,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981351,37973,Valid,L5,13.22,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981359,37981,Valid,H5,5.5,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981361,37983,Valid,H4,13.42,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981366,37988,Valid,L6,8.02,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981369,37991,Valid,L6,5.96,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981380,38002,Valid,L3,5.15,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981381,38003,Valid,H4,5.59,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981393,38015,Valid,H5,5.03,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981398,38020,Valid,L5,6.92,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981399,38021,Valid,H3,24.57,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981405,38027,Valid,L6,18.58,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981412,38034,Valid,H6,7.68,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981413,38035,Valid,L6,40.86,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981414,38036,Valid,L6,11.53,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981415,38037,Valid,L6,10.3,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981416,38038,Valid,L6,33.65,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981417,38039,Valid,L6,8.26,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981418,38040,Valid,H4,6.67,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981419,38041,Valid,L6,187.79,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981420,38042,Valid,L6,25.49,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981425,38047,Valid,H4,15.19,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981428,38050,Valid,H3,5,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981436,38058,Valid,H4,26.42,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981437,38059,Valid,H4,5.15,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981438,38060,Valid,H4,370.88,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981441,38063,Valid,L6,5.49,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981442,38064,Valid,L6,5.33,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981449,38071,Valid,H5,15.3,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981453,38075,Valid,H4,8.76,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981455,38077,Valid,H4,7.25,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981456,38078,Valid,H4,11.58,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981457,38079,Valid,H4,17.46,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981460,38082,Valid,H5,7.92,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981463,38085,Valid,L6,61.79,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981469,38091,Valid,L5,5.02,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981471,38093,Valid,L6,5.11,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981474,38096,Valid,L6,6.68,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981475,38097,Valid,L6,5.47,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981480,38102,Valid,L5,9.17,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981489,38111,Valid,H6,7.08,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981490,38112,Valid,L3,183.99,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981493,38115,Valid,H5,19.76,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981494,38116,Valid,L6,13.45,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981495,38117,Valid,L6,9.8,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981496,38118,Valid,L6,24.58,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981497,38119,Valid,H5,22.93,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981498,38120,Valid,H4,9.92,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981499,38121,Valid,L6,139.14,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981501,38124,Valid,L6,31.89,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981502,38125,Valid,H6,15.56,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981503,38126,Valid,H4,6.49,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981504,38127,Valid,L3,6.89,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981505,38128,Valid,Acapulcoite,56.95,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981507,38130,Valid,H5,10.81,Found,1998,0,0,"(0.0, 0.0)"
+Yamato 981510,38133,Valid,H4,9.08,Found,1998,0,0,"(0.0, 0.0)"

@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--our-->
+<head>
+    <!-- Load P5 -->
+    <script src="libraries/p5.js"></script>
+    <script src="libraires/p5.sound.min.js"></script>
+
+    <!-- Load d3.js -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="libraries/d3.v4.js"></script>
+    <script src="libraries/d3si.js"></script>
+
+    <!-- Load d3.js and the geo projection plugin -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+    <script src="ridgeline_chart.js"></script>
+    <script src="scriptmap2.js"></script>
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!--meta tags-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--Style of the tab-->
+    <title>Meteorites drawing our world</title>
+    <link rel="icon" href="img/comet_2604-fe0f.png">
+
+    <!-- google font-->    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@200;400;700&family=Rubik:ital,wght@0,400;0,500;0,700;0,800;1,400&display=swap" rel="stylesheet">
+
+
+    <!-- this section here is to write the description that goes on Google  -->
+    <meta name="description" content="write here the descrpition that you will read on Google search">
+</head>
+
+<body>
+<div class="container">
+    <header>
+        <div class="topnav">
+            <a class="logo" href="#index"><img src="img/C.png"> </a>
+            <a href="#contact">Contact</a>
+            <a href="#title">Visualisation</a>
+            <a href="#data">Data</a>
+          </div>
+	</header>
+
+    <div>
+        <!--p5 need a main to work-->
+        <main></main>
+        <div class="p5visualisation">
+            <script src="sketch-p5vis.js"></script>
+        <!--Abstract generative illustration based on the whole dataset-->
+        <div class="down-arrow"></div>
+        </div>
+
+        <div id="title" class="title">
+                <h1>Landed meteorites on earth</h1>
+                <h2>A snapshot of the most prevalent compositions </br> during the last 600 years</h2>    
+        </div>
+
+        <div class="intro">
+                <p>Each click represents 100 years starting in 1400 and ending today.
+                </br>The number of sides in the polygons increases every centenary.
+                </br>The size of the figures indicates the total mass of meteorites 
+                </br>The color of the polygons represents the composition.
+                </p>
+         </div>
+
+        <div class="polygons">
+            <ul>
+                <li><img src="img/polygon-02.png">1400-1499</li>
+                <li><img src="img/polygon-03.png">1500-1599</li>
+                <li><img src="img/polygon-04.png">1600-1699</li>
+                <li><img src="img/polygon-05.png">1700-1799</li>
+                <li><img src="img/polygon-06.png">1800-1899</li>
+                <li><img src="img/polygon-07.png">1900-1999</li>
+                <li><img src="img/polygon-08.png">2000-2100</li>
+              </ul>
+        </div>
+        
+        <div class="colours">
+                    <div class="colourA">
+                    <img src="img/C.png"> 
+                    <p id="C">Chrondrites</p>
+                    <p id="C">L6 | L5 | L4 | L3 | CM2 | CM1 | CM4 | EH3 | EH4 | EH5</p>
+                    <p>Stony Meteorites that have not been modified, by either melting or differentiation of the parent body.</br>They are formed when various types of dust and small grains in the early Solar System accreted to form primitive asteroids.</p>
+                    </div>
+                    <div class="colourB">
+                    <img src="img/A.png"> 
+                    <p id="C">Achondrites</p>
+                    <p id="C">IIIAB | IIAB | IAB-MG | IVA </p>
+                    <p>Meteorites consisting of materials from asteroids, Mars and the Moon that does not contain chondrules.</br>They are igneous, meaning at some point they were melted into magma. Most of all are irony, some are stony and others are mixed.</p>
+                    </div>
+        </div>  
+
+        <!--THIS ARE NOT WORKING... WE NEED TO WORK MORE ON THAT-->
+        <div class="d3-container">
+                <h2>More than 600 years of landing meteorites</h2>
+                <p>NASA's data from 1400 to 2013</p>
+                <div class="buttons">
+                    <button class="buttonR" onclick="regionClick('All')">All</button>
+                    <button class="buttonR" onclick="regionClick('Asia')">Asia</button>
+                    <button class="buttonR" onclick="regionClick('Europe')">Europe</button>
+                    <button class="buttonR" onclick="regionClick('North America')">North America</button> 
+                    <button class="buttonR" onclick="regionClick('Africa')">Africa</button>  
+                    <button class="buttonR" onclick="regionClick('Antartica')">Antartica</button> 
+                    <button class="buttonR" onclick="regionClick('South America')">South America</button> 
+                    <button class="buttonR" onclick="regionClick('Oceania')">Oceania</button> 
+                </div>
+        
+                <!--Define the regionClick() function-->
+                <script>
+                    var dispatch = d3.dispatch('redraw')
+                    function regionClick(d) {
+                        console.log(d)
+                        if (dispatch !== undefined)
+                            dispatch.call("redraw", this, d)
+                    }
+
+            </script>
+
+                <!--Bubble map, with different map projection-->
+            <div class="bubblemap">
+                <h5>Total OF METEORITES LANDED in each country</h5>
+                
+                <div id="my0"></div>
+                    <!--Create an element where the map will take place-->
+                    <script class="bubble">
+                    //drawing the grid
+                    var margin = {top: 20, right: 30, bottom: 20, left:20},
+                        width = 500 - margin.left - margin.right,
+                        height = 500 - margin.top - margin.bottom;
+                    
+                    function geoGraticule10() {
+                    return d3.geoGraticule()();
+                    }
+                    
+                    // The svg
+                    var svgmap = d3.select("#my0")
+                    //append here
+                    .append("svg")
+                    .attr("width", width)
+                    .attr("height", height)
+                    //width = +svg.attr("width"),
+                    //height = +svg.attr("height");
+                    var projection = d3.geoGringortenQuincuncial()
+                        .center([0,20])                // GPS of location to zoom on
+                        .scale(130)                       // This is like the zoom
+                        .translate([ width/2, height/2  ])
+
+
+                /*CODE TO CREATE THE GRATICULE BUT IT IS NOT WORKING --> SEE OTHER FOLDER FOR THE PROGRESS
+                // Create and configure a path generator
+                var pathGenerator = d3.geoPath()
+                .projection(projection);
+                // Create and configure the graticule generator (one line every 20 degrees)
+                var graticule = d3.geoGraticule()
+                //.step([1, 1]);
+                // Graticule lines (behind the land)
+                var lines = svgmap.selectAll('path.graticule').data([graticule()]);
+                    lines.enter().append('path').classed('graticule', true);
+                    lines.attr('d', pathGenerator);
+                    lines.exit().remove();
+                    // Map and projection
+               
+                    var context = d3.select('#content canvas')
+                    .node()
+                    .getContext('2d');
+                    var graticule = d3.geoGraticule();
+                    context.beginPath();
+                    context.strokeStyle = '#ccc';
+                    geoGenerator(graticule());
+                    context.stroke();*/
+
+                    d3.queue()
+                    .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson")  // World shape
+                    .defer(d3.csv, "data/meteorites-landing-cleaned-map.csv") // Position of circles
+                    //"ready" should be a function to draw ??
+                    .await(ready);
+                    </script>
+             <p>El Salvador is the country with the largest number of landed meterorites between 1400 and 2013. Followed by Lithuania, Serbia and the United States of America. 
+             </p>
+            </div>
+
+            <!--Inverted Ridgeline Chart-->
+            <div class="ridgelinechart">
+                <h5>sum of the meteorites mass with the same chemical composition</h5>
+            
+                
+                <!--why is it cut?!-->
+                <div id="my_dataviz"></div>
+                    <script class="ridge">
+                    // set the dimensions and margins of the graph
+                    var margin = {top: 50, right: 30, bottom: 20, left:110},
+                        width = 460 - margin.left - margin.right,
+                        height = 400 - margin.top - margin.bottom;
+
+                    // append the svg object to the body of the page
+                    var svgridge = d3.select("#my_dataviz")
+                    .append("svg")
+                        .attr("width", width + margin.left + margin.right)
+                        .attr("height", height + margin.top + margin.bottom)
+                    .append("g")
+                        .attr("transform",
+                            "translate(" + margin.left + "," + margin.top + ")");
+                    </script>
+                    
+                    <p>IIIAB and IAB-MG, both achondrites, are considerably the material compositions with the heavier total weight.
+                    </p>
+            </div>
+
+
+    </div>
+
+    <div id="data" class="data">
+        <h2>About the information </h2>
+            <p>The data we used for the visualisation comes from one dataset accessible in the NASA’s Open Data Portal. <a href="https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/data)">The Meteorite Landings</a> is comprehensive data set from The Meteoritical Society that contains information on all of the known meteorite landings. We accessed it on Wednesday 1st June 2022. 
+            </br>The selection of data took into account landing meteorites from the year 1400 since the data set only included one meteorite landing in 921 and one in 861. We also deleted 289 meteorite fields that had no year. 
+            </br>To complete the preparation and data cleaning we used the free version of <a href="https://opencagedata.com/">OpenCage Geocoding API</a> which allowed us to convert coordinates into locations. 
+            27, 695 meteorites were not located either because the dataset included no coordinates or the API responded without information.
+            We used the country names to sum the landing meteorites of the same country and the continent names to differentiate them with colours (D3 map). We wanted to use the continent name for changing the region of the D3 diagrams, this is still in process. 
+            </br>To further develop our data analysis and narrative creation we needed to learn more about meteorites. Therefore we accessed the following pages: <a href="https://en.wikipedia.org/wiki/Meteorite_classification">Meteorites Classification</a> and <a href="https://cse.umn.edu/mgs/meteorites">Meteorites</a>.
+            </br>
+            </br>If you want to have access to the whole dataset or if you want to have further information please get in touch with us, we will be happy to give you all the information
+        </p>
+    </div>
+
+        <div class="clear"></div>
+    </div>
+    
+
+
+    <footer>   
+        <h4>SAY HI TO US, WE LOVE DATA</h4>
+    <!--Id ont know why there is a - in the middle of the buttons -->
+        <div id= "contact" class="buttoscontainer">
+            <a href="mailto:carlafdz@gmail.com"><div class="pill-button">Carla Brócoli</div></a>
+            <a href="mailto:giampaolozirone@gmail.com"><div class="pill-button">Giampaola Zirone</div></a> 
+        </div>
+        
+        <div class="clear"> 
+        </div> 
+        <p>
+            All images on this site are Copyright © 2022 Carla Broccoli & Giampaolo Zirone or their respective copyright holders. Do not use without permission.
+        </p>
+    </footer>
+</div>
+</body>
+</html>
