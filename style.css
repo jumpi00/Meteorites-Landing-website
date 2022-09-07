@@ -427,15 +427,6 @@ main {
         cursor: url('img/p5cursor.ico'), default;
 }
 
-/*Responsive-->NEED TO FURTHER DEVELOP IT*/
-@media all and (max-width: 768px){
-    .p5visualisation{
-        width: 600px;
-        margin: 0;
-    }
-}
-
-
 
 .tooltip {
     position: absolute;
@@ -447,4 +438,32 @@ main {
 circle:hover{
     stroke: black;
     stroke-width: 4px;  
+}
+
+
+/*Responsive-->NEED TO FURTHER DEVELOP IT*/
+/*size 01*/
+@media all and (max-width: 1200px){
+}
+/*size 02*/
+@media all and (max-width: 1024px){
+}
+/*size 03*/
+@media all and (max-width: 768px){
+    .p5visualisation{
+        width: 600px;
+        margin: 0;
+    }
+}
+/*size 04*/
+@media all and (max-width: 480px){
+}
+/*size 05*/
+@media all and (max-width: 425px){
+}
+/*size 06*/
+@media all and (max-width: 375px){
+}
+/*size 07*/
+@media all and (max-width: 325px){
 }
