@@ -162,7 +162,7 @@ header {
 }
 .data p{
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     text-align: center;
     color: #396AA4;
@@ -190,7 +190,7 @@ header {
     float: left;
     margin-right: 20px;
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     text-align: center;
     color: #2B507B;
@@ -217,7 +217,7 @@ header {
 
 .colours p{
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     text-align: center;
     color: #396AA4;
@@ -226,7 +226,7 @@ header {
 
 #C {
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     text-align: center;
     text-transform: uppercase;
@@ -265,7 +265,7 @@ header {
 
 .buttonR {
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     text-align: center;
     text-decoration: none;
@@ -297,7 +297,7 @@ header {
 
 .bubblemap p, .ridgelinechart p {
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     text-align: center;
     color: #396AA4;
@@ -307,7 +307,7 @@ header {
 .bubblemap h5, .ridgelinechart h5 {
     font-family: 'Rubik', sans-serif;
     text-transform: uppercase;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     text-align: center;
     color: #2B507B;
@@ -378,7 +378,7 @@ header {
 
 .pill-button {
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     text-align: center;
     text-decoration: none;
@@ -407,7 +407,7 @@ footer p{
 	text-align: center;
     margin: 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 9px;
+    font-size: 10px;
     font-weight: 200;
     padding-top: 30px;
     color: #2B507B;
@@ -417,7 +417,7 @@ footer h4{
 	text-align: center;
     margin: 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     color: #2B507B;
 
@@ -442,8 +442,35 @@ circle:hover{
 
 
 /*Responsive-->NEED TO FURTHER DEVELOP IT*/
+
 /*size 01*/
 @media all and (max-width: 1200px){
+    
+    .data {
+        margin: auto;
+        width: 740px;
+    }
+
+    .buttonR{
+        padding: 12px 20px;
+    }
+
+    .title h1{
+        font-size: 48px;
+    }
+
+    .d3-container{
+        width: 85%;
+    }
+
+    .bubblemap {
+        width: 40%;
+    }
+
+    .ridgelinechart {
+        width: 40%;
+    }
+
 }
 /*size 02*/
 @media all and (max-width: 1024px){

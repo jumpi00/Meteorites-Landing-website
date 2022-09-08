@@ -68,7 +68,7 @@ console.log(data)
       .style("top", (my+10) + "px")
   }
   var mouseleave = function(d) {
-    Tooltip.style("opacity", 0)
+    Tooltip.style("opacity", 1)
   }
 
 
