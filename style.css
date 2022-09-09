@@ -35,6 +35,10 @@ header {
     float: left;
   }
 
+  .topnav .logotype {
+    float: left;
+    letter-spacing: 1px;
+  }
 .topnav img {
     width: 50px;
   }
@@ -117,7 +121,7 @@ header {
 
 .title h1 {
     font-family: 'Noto Sans Mono', monospace;
-    font-size: 50px;
+    font-size: 47px;
     font-weight:200;
     color: #2B507B;
     text-align: center;
@@ -424,7 +428,7 @@ footer h4{
 }
 
 main {
-        cursor: url('img/p5cursor.ico'), default;
+        cursor: url('img/click.ico'), default;
 }
 
 
