@@ -619,6 +619,45 @@ circle:hover{
     .bubblemap, .ridgelinechart {
         float: none;
     }
+
+    .p5visualisation{
+        width: 600px;
+        margin: 0;
+    }
+
+    .data {
+        margin: auto;
+        width: 650px;
+    }
+
+    .d3-container{
+        width: 85%;
+    }
+
+    .bubblemap {
+        width: 40%;
+    }
+
+    .ridgelinechart {
+        width: 40%;
+    }
+
+    .colours {
+        width: 800px;
+    }
+
+    .intro{
+        width: 540px;
+    }
+
+    .colourA, .colourB {
+        width: 45%;
+    }
+
+    .polygons {
+        width: 750px;
+    }
+
 }
 /*size 05*/
 @media all and (max-width: 425px){
