@@ -471,9 +471,55 @@ circle:hover{
         width: 40%;
     }
 
+    .colours {
+        width: 800px;
+    }
+
 }
 /*size 02*/
 @media all and (max-width: 1024px){
+
+    .data {
+        margin: auto;
+        width: 740px;
+    }
+
+    .buttonR{
+        padding: 12px 14px;
+    }
+
+    .title h1{
+        font-size: 48px;
+    }
+
+    .d3-container{
+        width: 85%;
+    }
+
+    .bubblemap {
+        width: 40%;
+    }
+
+    .ridgelinechart {
+        width: 40%;
+    }
+
+    .colours {
+        width: 800px;
+    }
+
+    .colours p {
+        font-size: 15px;
+    }
+
+    .intro{
+        width: 540px;
+    }
+
+    .intro p {
+        font-size: 16px;
+    }
+
 }
 /*size 03*/
 @media all and (max-width: 768px){
@@ -481,9 +527,98 @@ circle:hover{
         width: 600px;
         margin: 0;
     }
+
+    .data {
+        margin: auto;
+        width: 650px;
+    }
+
+    .buttonR{
+        padding: 12px 12px;
+        white-space: nowrap;
+
+    }
+
+    .title h1{
+        font-size: 48px;
+    }
+
+    .d3-container{
+        width: 85%;
+    }
+
+    .bubblemap {
+        width: 40%;
+    }
+
+    .ridgelinechart {
+        width: 40%;
+    }
+
+    .colours {
+        width: 800px;
+    }
+
+    .colours p {
+        font-size: 16px;
+    }
+
+    .intro{
+        width: 540px;
+    }
+
+    .intro p {
+        font-size: 16px;
+    }
+
+    title h1 {
+        font-size: 46px;
+    }
+
+    .colourA, .colourB {
+        width: 45%;
+    }
+
+    .bubblemap p, .ridgelinechart p {
+        font-size: 15px;
+    }
+
+    .data p{
+        font-size: 16px;
+    }
+
+    .polygons {
+        width: 750px;
+    }
+
+    .polygons ul li {
+    font-size: 15px;
+    line-height: 18px;
+    }
+
+    footer h4 {
+        font-size: 15px;
+    }
+
+    .pill-button{
+        font-size: 15px;
+    }
+
+    .bubblemap h5, .ridgelinechart h5 {
+        font-size: 15px;
+    }
+
+    #C {
+        font-size: 15px;
+    }
+
 }
 /*size 04*/
 @media all and (max-width: 480px){
+
+    .bubblemap, .ridgelinechart {
+        float: none;
+    }
 }
 /*size 05*/
 @media all and (max-width: 425px){

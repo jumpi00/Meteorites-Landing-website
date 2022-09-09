@@ -45,6 +45,7 @@ console.log(data)
   .style("background-color", "white")
   .style("border", "solid")
   .style("border-width", "2px")
+  .style("border-color", "white")
   .style("border-radius", "5px")
   .style("padding", "5px")
 
