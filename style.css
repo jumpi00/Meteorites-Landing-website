@@ -166,7 +166,7 @@ header {
 }
 .data p{
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     text-align: center;
     color: #396AA4;
@@ -194,7 +194,7 @@ header {
     float: left;
     margin-right: 20px;
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     text-align: center;
     color: #2B507B;
@@ -221,7 +221,7 @@ header {
 
 .colours p{
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     text-align: center;
     color: #396AA4;
@@ -230,7 +230,7 @@ header {
 
 #C {
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     text-align: center;
     text-transform: uppercase;
@@ -269,7 +269,7 @@ header {
 
 .buttonR {
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     text-align: center;
     text-decoration: none;
@@ -301,7 +301,7 @@ header {
 
 .bubblemap p, .ridgelinechart p {
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     text-align: center;
     color: #396AA4;
@@ -311,7 +311,7 @@ header {
 .bubblemap h5, .ridgelinechart h5 {
     font-family: 'Rubik', sans-serif;
     text-transform: uppercase;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     text-align: center;
     color: #2B507B;
@@ -382,7 +382,7 @@ header {
 
 .pill-button {
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     text-align: center;
     text-decoration: none;
@@ -411,7 +411,7 @@ footer p{
 	text-align: center;
     margin: 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 9px;
+    font-size: 10px;
     font-weight: 200;
     padding-top: 30px;
     color: #2B507B;
@@ -421,7 +421,7 @@ footer h4{
 	text-align: center;
     margin: 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     color: #2B507B;
 
@@ -446,11 +446,84 @@ circle:hover{
 
 
 /*Responsive-->NEED TO FURTHER DEVELOP IT*/
+
 /*size 01*/
 @media all and (max-width: 1200px){
+    
+    .data {
+        margin: auto;
+        width: 740px;
+    }
+
+    .buttonR{
+        padding: 12px 20px;
+    }
+
+    .title h1{
+        font-size: 48px;
+    }
+
+    .d3-container{
+        width: 85%;
+    }
+
+    .bubblemap {
+        width: 40%;
+    }
+
+    .ridgelinechart {
+        width: 40%;
+    }
+
+    .colours {
+        width: 800px;
+    }
+
 }
 /*size 02*/
 @media all and (max-width: 1024px){
+
+    .data {
+        margin: auto;
+        width: 740px;
+    }
+
+    .buttonR{
+        padding: 12px 14px;
+    }
+
+    .title h1{
+        font-size: 48px;
+    }
+
+    .d3-container{
+        width: 85%;
+    }
+
+    .bubblemap {
+        width: 40%;
+    }
+
+    .ridgelinechart {
+        width: 40%;
+    }
+
+    .colours {
+        width: 800px;
+    }
+
+    .colours p {
+        font-size: 15px;
+    }
+
+    .intro{
+        width: 540px;
+    }
+
+    .intro p {
+        font-size: 16px;
+    }
+
 }
 /*size 03*/
 @media all and (max-width: 768px){
@@ -458,9 +531,98 @@ circle:hover{
         width: 600px;
         margin: 0;
     }
+
+    .data {
+        margin: auto;
+        width: 650px;
+    }
+
+    .buttonR{
+        padding: 12px 12px;
+        white-space: nowrap;
+
+    }
+
+    .title h1{
+        font-size: 48px;
+    }
+
+    .d3-container{
+        width: 85%;
+    }
+
+    .bubblemap {
+        width: 40%;
+    }
+
+    .ridgelinechart {
+        width: 40%;
+    }
+
+    .colours {
+        width: 800px;
+    }
+
+    .colours p {
+        font-size: 16px;
+    }
+
+    .intro{
+        width: 540px;
+    }
+
+    .intro p {
+        font-size: 16px;
+    }
+
+    title h1 {
+        font-size: 46px;
+    }
+
+    .colourA, .colourB {
+        width: 45%;
+    }
+
+    .bubblemap p, .ridgelinechart p {
+        font-size: 15px;
+    }
+
+    .data p{
+        font-size: 16px;
+    }
+
+    .polygons {
+        width: 750px;
+    }
+
+    .polygons ul li {
+    font-size: 15px;
+    line-height: 18px;
+    }
+
+    footer h4 {
+        font-size: 15px;
+    }
+
+    .pill-button{
+        font-size: 15px;
+    }
+
+    .bubblemap h5, .ridgelinechart h5 {
+        font-size: 15px;
+    }
+
+    #C {
+        font-size: 15px;
+    }
+
 }
 /*size 04*/
 @media all and (max-width: 480px){
+
+    .bubblemap, .ridgelinechart {
+        float: none;
+    }
 }
 /*size 05*/
 @media all and (max-width: 425px){
