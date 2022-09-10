@@ -622,18 +622,18 @@ circle:hover{
 /*size 04*/
 @media all and (max-width: 480px){
 
-    .bubblemap, .ridgelinechart {
+    .bubblemap, .ridgelinechart, .colourA, .colourB {
         float: none;
     }
 
     .p5visualisation{
-        width: 600px;
+        width: 90%;
         margin: 0;
     }
 
     .data {
         margin: auto;
-        width: 650px;
+        width: 90%;
     }
 
     .d3-container{
@@ -641,27 +641,27 @@ circle:hover{
     }
 
     .bubblemap {
-        width: 40%;
+        width: 90%;
     }
 
     .ridgelinechart {
-        width: 40%;
+        width: 90%;
     }
 
     .colours {
-        width: 800px;
+        width: 90%;
     }
 
     .intro{
-        width: 540px;
+        width: 90%;
     }
 
     .colourA, .colourB {
-        width: 45%;
+        width: 90%;
     }
 
     .polygons {
-        width: 750px;
+        width: 90%;
     }
 
 }

@@ -186,6 +186,26 @@
                     .defer(d3.csv, "data/meteorites-landing-cleaned-map.csv") // Position of circles
                     //"ready" should be a function to draw ??
                     .await(ready);
+
+                    //Media Queries with JavaScript
+
+                    function functionSize02(size02) {
+                    if (size02.matches) { // If media query matches
+                        document.body.style.backgroundColor = "yellow";
+                        console.log("max-width: 1024px")
+                        width = 100 - margin.left - margin.right,
+                        height = 100 - margin.top - margin.bottom;
+                        
+                    } else {
+                        document.body.style.backgroundColor = "pink";
+                    }
+                    }
+
+                    var size02 = window.matchMedia("(max-width: 1024px)")
+                    functionSize02(size02) // Call listener function at run time
+                    size02.addListener(functionSize02) // Attach listener function on state changes
+
+
                     </script>
              <p>El Salvador is the country with the largest number of landed meterorites between 1400 and 2013. Followed by Lithuania, Serbia and the United States of America. 
              </p>
