@@ -372,7 +372,7 @@ header {
 
 .data{
     margin: auto;
-    width: 670px;
+    width: 700px;
 
 }
 
@@ -411,7 +411,8 @@ footer p{
 	text-align: center;
     margin: 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 10px;
+    font-size: 11px;
+    letter-spacing: 0.3 rem;
     font-weight: 200;
     padding-top: 30px;
     color: #2B507B;
@@ -436,6 +437,7 @@ main {
     position: absolute;
     z-index: 1000;
     display: block;
+    font-family: "Rubik", "sans-serif";
   }
   
 

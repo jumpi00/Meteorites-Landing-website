@@ -16,6 +16,7 @@ console.log(data)
   var color = d3.scaleOrdinal()
     //.range(d3.schemePaired);
     .domain(allContinent)
+    //.range(["#FCAA67","#B0413E","#306B34", "#5A352A", "#FFCAB1", "#3BA99C", "#EDAFB8", "#DEC1FF"]);
     .range(["#b3e2cd", "#fdcdac", "#cbd5e8", "#f4cae4", "#e6f5c9", "#fff2ae", "#f1e2cc", "#cccccc"]);
 
 //n is the sum of meteroites of each country. 
@@ -37,17 +38,19 @@ console.log(data)
 
 
 
-  // create a tooltip
+  // create a tooltip and its attributes
   const Tooltip = d3.select("#my0")
   .append("div")
   .attr("class", "tooltip")
   .style("opacity", 1)
-  .style("background-color", "white")
+  .style("background-color", "#EBF0F9")
   .style("border", "solid")
-  .style("border-width", "2px")
-  .style("border-color", "white")
-  .style("border-radius", "5px")
-  .style("padding", "5px")
+  .style("border-width", "1px")
+  .style("border-color", "#c4bebc")
+  .style("padding-top", "12px")
+  .style("padding-bottom", "12px")
+  .style("padding-right", "20px")
+  .style("padding-left", "20px")
 
 
 
@@ -65,8 +68,10 @@ console.log(data)
     //console.log(mx,my)
     Tooltip
       .html(d.country + "<br>" + "long: " + d.n)
-      .style("left", (mx+10) + "px")
-      .style("top", (my+10) + "px")
+      //.style("left", (mx+10) + "px")
+      //.style("top", (my+10) + "px")
+      //.style("left", (widht+10) + "px")
+      //.style("top", (height+10) + "px")
   }
   var mouseleave = function(d) {
     Tooltip.style("opacity", 1)
