@@ -447,6 +447,7 @@ circle:hover{
 }
 
 
+
 /*Responsive-->NEED TO FURTHER DEVELOP IT*/
 
 /*size 01*/
@@ -534,9 +535,13 @@ circle:hover{
         margin: 0;
     }
 
+    .title{
+        width: 90%;
+    }
+
     .data {
         margin: auto;
-        width: 650px;
+        width: 80%;
     }
 
     .buttonR{
@@ -551,18 +556,22 @@ circle:hover{
 
     .d3-container{
         width: 85%;
+        margin-top: 100px;
+        margin-bottom: 100px;
     }
 
-    .bubblemap {
-        width: 40%;
-    }
-
-    .ridgelinechart {
-        width: 40%;
+    .bubblemap, .ridgelinechart {
+        float: none;
+        width: 70%;
+        margin: 0 auto;
     }
 
     .colours {
-        width: 800px;
+        width: 90%;
+    }
+
+    .colourA, .colourB{
+        float: none;
     }
 
     .colours p {
@@ -582,7 +591,8 @@ circle:hover{
     }
 
     .colourA, .colourB {
-        width: 45%;
+        width: 60%;
+        margin: 0 auto;
     }
 
     .bubblemap p, .ridgelinechart p {
@@ -598,8 +608,8 @@ circle:hover{
     }
 
     .polygons ul li {
-    font-size: 15px;
-    line-height: 18px;
+        font-size: 15px;
+        line-height: 18px;
     }
 
     footer h4 {
@@ -616,6 +626,12 @@ circle:hover{
 
     #C {
         font-size: 15px;
+    }
+
+    footer p{
+        width: 75%;
+        text-align: center;
+        margin: 0 auto;
     }
 
 }
@@ -667,6 +683,36 @@ circle:hover{
 }
 /*size 05*/
 @media all and (max-width: 425px){
+    .title h1{
+        font-size: 36px;
+        line-height: 2rem;
+        padding-bottom: 20px;
+    }
+
+    .intro p{
+        width: 85%;
+        margin: 0 auto;
+    }
+
+    .data p{
+        font-size: 18px;
+    }
+
+    .data{
+        width: 85%;
+    }
+
+    footer h4{
+        font-size: 18px;
+    }
+
+    .pill-button{
+        font-size: 16px;
+    }
+
+    footer p{
+        font-size: 12px;
+    }
 }
 /*size 06*/
 @media all and (max-width: 375px){
