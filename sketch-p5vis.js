@@ -21,7 +21,12 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   //print("setup")
   background('#BAE1F4')
+}
 
+//Function to resize the visualisation when it is resized
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+  background('#BAE1F4');
 }
 
   function draw() {
@@ -120,12 +125,12 @@ function setup() {
         //if (counter>=numRows-1) { //I changed this because it was not showing the 2000s meteorites
         background('#BAE1F4')
         counter = 0
-        currentYear =1399
+        currentYear = 1399
       }
 
       
       // IF FOR THE LABELS
-      if (t===2199){
+      if (t===2199) {
         //background(220);
         s=1400
         t=1499

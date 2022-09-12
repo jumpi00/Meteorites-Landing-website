@@ -547,7 +547,6 @@ circle:hover{
     .buttonR{
         padding: 12px 12px;
         white-space: nowrap;
-
     }
 
     .title h1{
@@ -632,6 +631,10 @@ circle:hover{
         width: 75%;
         text-align: center;
         margin: 0 auto;
+    }
+
+    .buttons{
+        display: block;
     }
 
 }
