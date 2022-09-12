@@ -23,11 +23,12 @@ function setup() {
   background('#BAE1F4')
 }
 
+/* It is deleting everything --> NOT LIKE
 //Function to resize the visualisation when it is resized
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
   background('#BAE1F4');
-}
+}*/
 
   function draw() {
     strokeWeight(2)

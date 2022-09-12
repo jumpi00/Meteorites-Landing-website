@@ -438,12 +438,15 @@ main {
     z-index: 1000;
     display: block;
     font-family: "Rubik", "sans-serif";
+    color: #396AA4;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
   }
   
 
 circle:hover{
-    stroke: black;
-    stroke-width: 4px;  
+    stroke-width: 2px;  
 }
 
 
