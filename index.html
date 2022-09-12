@@ -16,8 +16,9 @@
     <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
-    <script src="ridgeline_chart.js"></script>
-    <script src="scriptmap2.js"></script>
+    <!--<script src="ridgeline_chart.js"></script>-->
+    <script src="scriptmap.js"></script>
+    <script src="barchart.js"></script>
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="style.css">
@@ -193,12 +194,11 @@
              </p>
             </div>
 
-            <!--Inverted Ridgeline Chart-->
+            <!--Inverted Ridgeline Chart
             <div class="ridgelinechart">
                 <h5>sum of the meteorites mass with the same chemical composition</h5>
             
-                
-                <!--why is it cut?!-->
+                why is it cut?!
                 <div id="my_dataviz"></div>
                     <script class="ridge">
                     // set the dimensions and margins of the graph
@@ -216,6 +216,35 @@
                             "translate(" + margin.left + "," + margin.top + ")");
                     </script>
                     
+                    <p>IIIAB and IAB-MG, both achondrites, are considerably the material compositions with the heavier total weight.
+                    </p>
+            </div>-->
+
+            <!--Inverted Ridgeline Chart-->
+            <div class="ridgelinechart">
+                <h5>sum of the meteorites mass with the same chemical composition</h5>
+            
+                
+                <!--why is it cut?!-->
+                <div id="#my_dataviz"></div>
+                    
+                <!--Script to draw the charts-->
+                    <script>      
+                    // set the dimensions and margins of the graph
+                    var margin = {top: 20, right: 30, bottom: 40, left: 90},
+                        width = 460 - margin.left - margin.right,
+                        height = 400 - margin.top - margin.bottom;
+
+                    // append the svg object to the body of the page
+                    var svgbar = d3.select("#my_dataviz")
+                    .append("svg")
+                        .attr("width", width + margin.left + margin.right)
+                        .attr("height", height + margin.top + margin.bottom)
+                    .append("g")
+                        .attr("transform",
+                            "translate(" + margin.left + "," + margin.top + ")");
+                    </script>
+                                    
                     <p>IIIAB and IAB-MG, both achondrites, are considerably the material compositions with the heavier total weight.
                     </p>
             </div>

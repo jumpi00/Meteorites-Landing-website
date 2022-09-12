@@ -63,18 +63,18 @@ console.log(data)
   
     mx = d3.mouse(this)[0]
     my = d3.mouse(this)[1]
-    mx = 200
-    my = 300
+    mx = 95
+    my = 290
     //console.log(mx,my)
     Tooltip
       .html(d.n + " landed meteorites in " + d.country)
-      //.style("left", (mx+10) + "px")
-      //.style("top", (my+10) + "px")
+      .style("left", (mx+10) + "px")
+      .style("top", (my+10) + "px")
       //.style("left", (widht+10) + "px")
       //.style("top", (height+10) + "px")
   }
   var mouseleave = function(d) {
-    Tooltip.style("opacity", 1)
+    Tooltip.style("opacity", 0)
   }
 
 
