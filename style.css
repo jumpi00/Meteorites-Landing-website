@@ -342,6 +342,9 @@ header {
     margin: 0 auto;
 }
 
+#my_dataviz{
+    padding-top: 39px;
+}
 
 /*
 .button {

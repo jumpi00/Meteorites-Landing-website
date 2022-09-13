@@ -31,14 +31,16 @@ svg = svgbarstacked
   
     svg.append("g")
     .call(d3.axisLeft(y))
+    .call(d3.axisLeft(y).tickFormat(d3.format(".3s")))
     .selectAll("text")
         .style("fill", "#396AA4")
         .style("font-Family", "Rubik");
+    
 
   // color palette = one color per subgroup
   var color = d3.scaleOrdinal()
     .domain(subgroups)
-    .range(['#e41a1c'])
+    .range(["#b3e2cd", "#fdcdac", "#cbd5e8", "#f4cae4", "#e6f5c9", "#fff2ae", "#f1e2cc", "#cccccc"])
 
   //stack the data? --> stack per subgroup
   var stackedData = d3.stack()
@@ -59,5 +61,5 @@ svg = svgbarstacked
         .attr("x", function(d) { return x(d.data.reclass); })
         .attr("y", function(d) { return y(d[1]); })
         .attr("height", function(d) { return y(d[0]) - y(d[1]); })
-        .attr("width",x.bandwidth())
+        .attr("width",x.bandwidth());     
 })
