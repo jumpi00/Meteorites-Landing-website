@@ -32,7 +32,7 @@ svg = svgmap
         .attr("d", d3.geoPath()
             .projection(projection)
         )
-      .style("stroke", "#694629")
+      .style("stroke", "none")
       .style("opacity", .3)
 
 
@@ -42,9 +42,9 @@ svg = svgmap
   .append("div")
   .attr("class", "tooltip")
   .style("opacity", 1)
-  .style("background-color", "#EBF0F9")
+  .style("background-color", "none")
   .style("border", "solid")
-  .style("border-width", "1px")
+  .style("border-width", "0px")
   .style("border-color", "#c4bebc")
   .style("padding-top", "12px")
   .style("padding-bottom", "12px")

@@ -27,7 +27,7 @@ header {
     overflow: hidden;
     position: fixed;
     width: 90%; 
-    z-index: 9999;
+    z-index: 99990000000;
   }
 
 .top-nav .logotype {

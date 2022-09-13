@@ -7,12 +7,10 @@
     <script src="libraires/p5.sound.min.js"></script>
 
     <!-- Load d3.js -->
-    <script src="https://d3js.org/d3.v4.js"></script>
     <script src="libraries/d3.v4.js"></script>
     <script src="libraries/d3si.js"></script>
 
     <!-- Load d3.js and the geo projection plugin -->
-    <script src="https://d3js.org/d3.v4.js"></script>
     <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
@@ -45,14 +43,6 @@
 <body>
 <div class="container">
     <header>
-       
-       <!-- <div class="top-nav">
-             <a class="logo" href="#index"><img src="img/C.png"> </a>
-            <a class="logotype" href="#index">LANDED METEORITES ON EARTH</a>
-            <a href="#contact">Contact</a>
-            <a href="#title">Visualisation</a>
-            <a href="#data">Data</a>
-          </div>-->
 
           <section class="top-nav">
             <div>
@@ -68,7 +58,6 @@
               <li><a href="#data">Data</a></li>
             </ul>
           </section>
-
 
 	</header>
 
@@ -168,36 +157,10 @@
                     .append("svg")
                     .attr("width", width)
                     .attr("height", height)
-                    //width = +svg.attr("width"),
-                    //height = +svg.attr("height");
                     var projection = d3.geoGringortenQuincuncial()
                         .center([0,20])                // GPS of location to zoom on
                         .scale(130)                       // This is like the zoom
                         .translate([ width/2, height/2  ])
-
-
-                /*CODE TO CREATE THE GRATICULE BUT IT IS NOT WORKING --> SEE OTHER FOLDER FOR THE PROGRESS
-                // Create and configure a path generator
-                var pathGenerator = d3.geoPath()
-                .projection(projection);
-                // Create and configure the graticule generator (one line every 20 degrees)
-                var graticule = d3.geoGraticule()
-                //.step([1, 1]);
-                // Graticule lines (behind the land)
-                var lines = svgmap.selectAll('path.graticule').data([graticule()]);
-                    lines.enter().append('path').classed('graticule', true);
-                    lines.attr('d', pathGenerator);
-                    lines.exit().remove();
-                    // Map and projection
-               
-                    var context = d3.select('#content canvas')
-                    .node()
-                    .getContext('2d');
-                    var graticule = d3.geoGraticule();
-                    context.beginPath();
-                    context.strokeStyle = '#ccc';
-                    geoGenerator(graticule());
-                    context.stroke();*/
 
                     d3.queue()
                     .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson")  // World shape
@@ -211,31 +174,6 @@
              </p>
             </div>
 
-            <!--Inverted Ridgeline Chart
-            <div class="ridgelinechart">
-                <h5>sum of the meteorites mass with the same chemical composition</h5>
-            
-                why is it cut?!
-                <div id="my_dataviz"></div>
-                    <script class="ridge">
-                    // set the dimensions and margins of the graph
-                    var margin = {top: 50, right: 30, bottom: 20, left:110},
-                        width = 460 - margin.left - margin.right,
-                        height = 400 - margin.top - margin.bottom;
-
-                    // append the svg object to the body of the page
-                    var svgridge = d3.select("#my_dataviz")
-                    .append("svg")
-                        .attr("width", width + margin.left + margin.right)
-                        .attr("height", height + margin.top + margin.bottom)
-                    .append("g")
-                        .attr("transform",
-                            "translate(" + margin.left + "," + margin.top + ")");
-                    </script>
-                    
-                    <p>IIIAB and IAB-MG, both achondrites, are considerably the material compositions with the heavier total weight.
-                    </p>
-            </div>-->
 
             <!--Bar Chart-->
             <div class="ridgelinechart">

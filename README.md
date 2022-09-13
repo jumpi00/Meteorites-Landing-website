@@ -1,28 +1,3 @@
-> Questions:
-
-X [COMPLETED] The P5 visualisation works well with the data, but the loop stops working after two rounds. We don't know why.
-
-X [COMPLETED] The D3 diagrams are cut. We don't know if it’s because of the div or something we need to do with the D3 code. 
-
-X [COMPLETED] We wanted to integrate a little interaction with the continent-regions buttons. So the map and the ridgeline only show that information.
-
-The second chart too should interact with the buttons.
-
-Adding the graticule for the map. We manage to create the paths but the lines looked strange
-
-Delete the libraries we don't need
-
-Add a transition to the buttons filtering
- 
-> In addition, we are going to try to do this:
-
-Change the colour of the map
-
-Add a tooltip to the map. Hover to show the country name --> strange effect https://d3-graph-gallery.com/graph/bubblemap_tooltip.html
-
-
-_______________
-[] Hamburger menu
-[] P5 and Resizing
-[] SVG Resizing
-[] Barchart not showing
+A visual summary of the fallen meteorites on Earth from 1400 until 2013. The website is composed using different Javascript libraries to have a creative and classic approach to data.
+Firstly, an abstract generative illustration based on mass, composition and landing date of 17,732 meteorites was created using P5. The size of figures indicates the total mass of meteorites, the colour represents the composition, either chrondrites or achondrites, and the polygon’s number of sides increases every century. Each time the user clicks on the screen, 100 years of landed meteorites are visualised. 
+Next, using the D3 library, a selection of two graphs were picked to represent the total number of meteorites landed in each country and the sum of meteorites with the same chemical composition. The reader can differentiate the number of landed meteorites and the sum of their compositions by regions. Finally, a section of the page is dedicated to the data. We explain how data was selected, cleaned, manipulated and displayed. 
