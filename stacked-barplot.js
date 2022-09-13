@@ -16,13 +16,16 @@ svg = svgbarstacked
       .padding([0.2])
   
     svg.append("g")
+
     .attr("transform", "translate(0," + (barHeight-margin.bottom) + ")")
     .call(d3.axisBottom(x).tickSizeOuter(0))
+
     .selectAll("text")
         .attr("transform", "translate(-10,0)rotate(-45)")
         .style("text-anchor", "end")
         .style("fill", "#396AA4")
         .style("font-Family", "Rubik");
+  
 
   // Add Y axis
   var y = d3.scaleLinear()
@@ -38,8 +41,8 @@ svg = svgbarstacked
   // color palette = one color per subgroup
   var color = d3.scaleOrdinal()
     .domain(subgroups)
-    .range(['#e41a1c'])
-
+    .range(["#b3e2cd", "#fdcdac", "#cbd5e8", "#f4cae4", "#e6f5c9", "#fff2ae", "#f1e2cc", "#cccccc"]);
+    
   //stack the data? --> stack per subgroup
   var stackedData = d3.stack()
     .keys(subgroups)
