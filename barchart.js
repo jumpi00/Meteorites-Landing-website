@@ -1,5 +1,5 @@
 // Parse the Data
-d3.csv("data/meteorites-landing-mass-composition-barchart.csv", function(data) {
+d3.csv("data/meteorites-barchart.csv", function(data) {
 
 svg = svgbar
 
@@ -43,4 +43,22 @@ svg = svgbar
     // .attr("height", function(d) { return height - y(d.Value); })
     // .attr("fill", "#69b3a2")
 
+    // Create an event listener, waiting to be notified that the button has been clicked
+    dispatch.on('redraw', function (filterValue) {
+      console.log("dispatch called")
+      for (let i = 0; i < data.length; i++) {
+        if (data[i].homecontinent == filterValue || filterValue == "All") {
+          //data[i].visible = "visible"
+          data[i].n = data[i].savedn
+        }
+        else {
+          //data[i].visible = "hidden"
+          data[i].n = 0
+        }
+      }
+      console.log(data)
+      update()
+    })
+
 })
+

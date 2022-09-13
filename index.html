@@ -18,7 +18,7 @@
 
     <!--<script src="ridgeline_chart.js"></script>-->
     <script src="scriptmap.js"></script>
-    <script src="barchart.js"></script>
+    <script src="stacked-barplot.js"></script>
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="style.css">
@@ -144,8 +144,7 @@
                         if (dispatch !== undefined)
                             dispatch.call("redraw", this, d)
                     }
-
-            </script>
+                </script>
 
                 <!--Bubble map, with different map projection-->
             <div class="bubblemap">
@@ -246,7 +245,7 @@
                     <script class="ridge">      
                     barWidth = document.getElementById("my_dataviz").clientWidth
                     
-                    divHeight= 400 //document.getElementById("my_dataviz").clientHeight
+                    divHeight= 420 //document.getElementById("my_dataviz").clientHeight
                     // set the dimensions and margins of the graph
                     var margin = {top: 20, right: 30, bottom: 40, left: 90},
                     barWidth = barWidth - margin.left - margin.right,
@@ -256,15 +255,14 @@
                     //var svgbar = d3.select("#my_dataviz")
                     
                     
-                    var svgbar = d3.select("#my_dataviz")
+                    var svgbarstacked = d3.select("#my_dataviz")
                     .append("svg")
                         .attr("width", barWidth + margin.left + margin.right)
                         .attr("height", divHeight)
                     .append("g")
                         .attr("transform",
                             "translate(" + margin.left + "," + margin.top + ")");
-                            console.log("THERE!!!!!!!!!!!!!!!!!!!!")
-                    console.log(svgbar)
+
                     
                     </script>
                                     
