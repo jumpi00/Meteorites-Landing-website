@@ -9,7 +9,6 @@ svg = svgmap
   data[i]["savedn"] = data[i]["n"]
 }
 
-console.log(data)
 
   // Create a color scale
   var allContinent = d3.map(data, function (d) { return (d.homecontinent) }).keys()
@@ -61,11 +60,10 @@ console.log(data)
   }
   var mousemove = function(d) {
   
-    mx = d3.mouse(this)[0]
-    my = d3.mouse(this)[1]
+    //mx = d3.mouse(this)[0]
+    //my = d3.mouse(this)[1]
     mx = 95
     my = 290
-    //console.log(mx,my)
     Tooltip
       .html(d.n + " landed meteorites in " + d.country)
       .style("left", (mx+10) + "px")
@@ -87,8 +85,6 @@ console.log(data)
     var size = d3.scaleSqrt()
       .domain(valueExtent)  // What's in the data
       .range([1, 80])  // Size in pixel
-
-    console.log("hello")
 
   // Add circles:
    selection = svg
@@ -119,7 +115,7 @@ console.log(data)
 
   // Create an event listener, waiting to be notified that the button has been clicked
   dispatch.on('redraw', function (filterValue) {
-    console.log("dispatch called")
+    //console.log("dispatch called")
     for (let i = 0; i < data.length; i++) {
       if (data[i].homecontinent == filterValue || filterValue == "All") {
         //data[i].visible = "visible"
@@ -130,7 +126,7 @@ console.log(data)
         data[i].n = 0
       }
     }
-    console.log(data)
+    //console.log(data)
     update()
   })
 

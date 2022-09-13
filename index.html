@@ -238,29 +238,34 @@
                     </p>
             </div>-->
 
-            <!--Inverted Ridgeline Chart-->
+            <!--Bar Chart-->
             <div class="ridgelinechart">
                 <h5>sum of the meteorites mass with the same chemical composition</h5>
             
-                
-                <!--why is it cut?!-->
-                <div id="#my_dataviz"></div>
+                <div id="my_dataviz" width="50%"></div>
+                    <script class="ridge">      
+                    barWidth = document.getElementById("my_dataviz").clientWidth
                     
-                <!--Script to draw the charts-->
-                    <script>      
+                    divHeight= 400 //document.getElementById("my_dataviz").clientHeight
                     // set the dimensions and margins of the graph
                     var margin = {top: 20, right: 30, bottom: 40, left: 90},
-                        width = 460 - margin.left - margin.right,
-                        height = 400 - margin.top - margin.bottom;
+                    barWidth = barWidth - margin.left - margin.right,
+                    barHeight = divHeight - margin.top - margin.bottom;
 
                     // append the svg object to the body of the page
+                    //var svgbar = d3.select("#my_dataviz")
+                    
+                    
                     var svgbar = d3.select("#my_dataviz")
                     .append("svg")
-                        .attr("width", width + margin.left + margin.right)
-                        .attr("height", height + margin.top + margin.bottom)
+                        .attr("width", barWidth + margin.left + margin.right)
+                        .attr("height", divHeight)
                     .append("g")
                         .attr("transform",
                             "translate(" + margin.left + "," + margin.top + ")");
+                            console.log("THERE!!!!!!!!!!!!!!!!!!!!")
+                    console.log(svgbar)
+                    
                     </script>
                                     
                     <p>IIIAB and IAB-MG, both achondrites, are considerably the material compositions with the heavier total weight.

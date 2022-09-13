@@ -1,0 +1,54 @@
+name,id,nametype,recclass,mass (g),fall,year,lat,lng,GeoLocation
+La Ciénega,51052,Valid,H6,7632,Found,2007,30.20186,-111.93587,"(30.20186, -111.93587)"
+Lucerne Valley 089,52460,Valid,L5,2.6,Found,2007,34.48972,-116.98128,"(34.48972, -116.98128)"
+Lucerne Valley 090,52461,Valid,L5,30.7,Found,2007,34.48823,-116.97797,"(34.48823, -116.97797)"
+Lucerne Valley 091,52462,Valid,H4,12.7,Found,2007,34.48075,-116.9788,"(34.48075, -116.9788)"
+Lucerne Valley 092,52463,Valid,H5,0.6,Found,2007,34.48148,-116.95325,"(34.48148, -116.95325)"
+Lucerne Valley 093,52464,Valid,L6,3.93,Found,2007,34.4887,-116.9788,"(34.4887, -116.9788)"
+Majuba 007,54684,Valid,H4,1823.3,Found,2007,40.61667,-118.38472,"(40.61667, -118.38472)"
+Miller Range 07023,51086,Valid,L5,2085,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07024,51087,Valid,L6,747.4,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07025,51088,Valid,H5,1072.7,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07026,51089,Valid,L5,879.3,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07027,51090,Valid,L5,1041.1,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07028,53191,Valid,EH3,1158.9,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07001,47641,Valid,Diogenite-olivine,924.2,Found,2007,,,
+Miller Range 07002,47642,Valid,CV3,758.4,Found,2007,,,
+Miller Range 07003,47643,Valid,Diogenite,291.9,Found,2007,,,
+Miller Range 07004,47644,Valid,Eucrite-br,703.2,Found,2007,,,
+Miller Range 07005,47645,Valid,LL6,75,Found,2007,,,
+Miller Range 07006,47646,Valid,Lunar (feldsp. breccia),1.4,Found,2007,,,
+Miller Range 07007,47647,Valid,Howardite,29.4,Found,2007,,,
+Miller Range 07008,47648,Valid,Aubrite,31.9,Found,2007,,,
+Miller Range 07009,47649,Valid,Howardite,12.3,Found,2007,,,
+Miller Range 07010,47650,Valid,L-melt rock,1528.8,Found,2007,,,
+Miller Range 07011,51075,Valid,L5,7120,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07012,51076,Valid,LL6,2604.4,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07013,51077,Valid,L5,1491.3,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07014,51078,Valid,H6,710.4,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07015,51079,Valid,H5,472.4,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07016,48888,Valid,Eucrite-br,302.4,Found,2007,,,
+Miller Range 07017,51080,Valid,H5,3094.4,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07018,51081,Valid,LL6,1665.7,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07019,51082,Valid,L5,1669.2,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07020,51083,Valid,L5,930,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07021,51084,Valid,H5,746.7,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07022,51085,Valid,L6,1126.9,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07029,51091,Valid,H6,991.1,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07030,51092,Valid,H5,592.8,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07031,51093,Valid,H6,930,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07032,51094,Valid,L6,194.7,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07033,51095,Valid,L6,349.4,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07034,51096,Valid,L6,240,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07035,51097,Valid,H6,270.1,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07036,51098,Valid,H5,234.1,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07037,51099,Valid,L6,362.4,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07038,51100,Valid,L6,431.9,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07039,51101,Valid,L5,258.9,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07040,51102,Valid,H5,413,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07041,51103,Valid,L6,257.3,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07042,51104,Valid,H5,184.8,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07043,51105,Valid,H5,288,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07044,51106,Valid,H5,460.7,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07045,51107,Valid,L5,308.7,Found,2007,0,0,"(0.0, 0.0)"
+Miller Range 07046,51108,Valid,H5,441.8,Found,2007,0,0,"(0.0, 0.0)"

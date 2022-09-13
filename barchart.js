@@ -1,12 +1,3 @@
-    // append the svg object to the body of the page
-    var svg = d3.select("#my_dataviz")
-      .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-      .append("g")
-        .attr("transform",
-              "translate(" + margin.left + "," + margin.top + ")");
-
 // Parse the Data
 d3.csv("data/meteorites-landing-mass-composition-barchart.csv", function(data) {
 
@@ -14,10 +5,12 @@ svg = svgbar
 
   // Add X axis
   var x = d3.scaleLinear()
-    .domain([0, 13000])
-    .range([ 0, width]);
+    .domain([0, 107309420.2])
+    .range([ 0, barWidth]);
+
+   
   svg.append("g")
-    .attr("transform", "translate(0," + height + ")")
+    .attr("transform", "translate(0," + (barHeight-margin.top) + ")")
     .call(d3.axisBottom(x))
     .selectAll("text")
       .attr("transform", "translate(-10,0)rotate(-45)")
@@ -25,19 +18,20 @@ svg = svgbar
 
   // Y axis
   var y = d3.scaleBand()
-    .range([ 0, height ])
-    .domain(data.map(function(d) { return d.reclass; }))
+    .range([ margin.top, barHeight-margin.top ])
+    .domain(data.map(function(d) { return d.recclass; }))
     .padding(.1);
+    
   svg.append("g")
     .call(d3.axisLeft(y))
 
   //Bars
-  svg.selectAll("myRect")
+  svg.selectAll("rect")
     .data(data)
     .enter()
     .append("rect")
     .attr("x", x(0) )
-    .attr("y", function(d) { return y(d.reclass); })
+    .attr("y", function(d) { return y(d.recclass); })
     .attr("width", function(d) { return x(d.mass); })
     .attr("height", y.bandwidth() )
     .attr("fill", "#69b3a2")
