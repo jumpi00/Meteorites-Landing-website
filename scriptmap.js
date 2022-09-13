@@ -131,65 +131,6 @@ svg = svgmap
   })
 
   
-  
-  /*MAYBE WE DO NOT NEED THIS ONE
-  // Add title and explanation
-  svg
-    .append("text")
-      .attr("text-anchor", "end")
-      .style("fill", "black")
-      .attr("x", width - 10)
-      .attr("y", height - 30)
-      .attr("width", 90)
-      .html("WHERE DO METHEORITES FALL")
-      .style("font-size", 14)
-  */
-
-
-  // --------------- //
-  // ADD LEGEND //
-  // --------------- //
-
-  /* WE NEED TO WORK MORE ON THE LEGEND
-  // Add legend: circles
-  var valuesToShow = [10,500,1000]
-  var xCircle = 40
-  var xLabel = 120
-  svg
-    .selectAll("legend")
-    .data(valuesToShow)
-    .enter()
-    .append("circle")
-      .attr("cx", xCircle)
-      .attr("cy", function(d){ return height - size(d) } )
-      .attr("r", function(d){ return size(d) })
-      .style("fill", "none")
-      .attr("stroke", "#694629")
-
-  // Add legend: segments
-  svg
-    .selectAll("legend")
-    .data(valuesToShow)
-    .enter()
-    .append("line")
-      .attr('x1', function(d){ return xCircle + size(d) } )
-      .attr('x2', xLabel)
-      .attr('y1', function(d){ return height - size(d) } )
-      .attr('y2', function(d){ return height - size(d) } )
-      .attr('stroke', '#694629')
-      .style('stroke-dasharray', ('2,2'))
-
-  // Add legend: labels
-  svg
-    .selectAll("legend")
-    .data(valuesToShow)
-    .enter()
-    .append("text")
-      .attr('x', xLabel)
-      .attr('y', function(d){ return height - size(d) } )
-      .text( function(d){ return d } )
-      .style("font-size", 10)
-      .attr('alignment-baseline', 'middle')*/
 }
 
 

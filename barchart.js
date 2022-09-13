@@ -34,7 +34,7 @@ svg = svgbar
     .attr("y", function(d) { return y(d.recclass); })
     .attr("width", function(d) { return x(d.mass); })
     .attr("height", y.bandwidth() )
-    .attr("fill", "#69b3a2")
+    .attr("fill", "black")
 
 
     // .attr("x", function(d) { return x(d.Country); })
