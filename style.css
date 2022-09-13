@@ -586,6 +586,9 @@ circle:hover{
     stroke-width: 2px;  
 }
 
+path.domain, line {
+    stroke: #396aa6;
+  }
 /*hambuerger menu css*/
 * {
   box-sizing: border-box;
