@@ -263,7 +263,7 @@ header {
     margin-top: 40px;
 }
 
-.buttonR {
+.buttonRAll {
     font-family: 'Rubik', sans-serif;
     font-size: 14px;
     font-weight: 500;
@@ -280,10 +280,171 @@ header {
     border: 1px solid #396AA4;
   }
   
-  .buttonR:hover {
+  .buttonRAll:hover {
     background-color: #D9F701;
     color: #396AA4;
     border: #D9F701;
+  }
+
+  .buttonRAsia {
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #396AA4;
+    padding: 12px 26px;
+    display: inline-block;
+    margin: 4px 5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #EBF0F9; 
+    border: 1px solid #396AA4;
+  }
+  
+  .buttonRAsia:hover {
+    background-color: rgba(179, 226, 205, 0.5);
+    color: #396AA4;
+    border: rgba(179, 226, 205, 0.5);
+  }
+
+  .buttonREurope {
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #396AA4;
+    padding: 12px 26px;
+    display: inline-block;
+    margin: 4px 5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #EBF0F9; 
+    border: 1px solid #396AA4;
+  }
+  
+  .buttonREurope:hover {
+    background-color: rgba(230, 245, 201, 0.7);
+    color: #396AA4;
+    border: rgba(230, 245, 201, 0.7);
+  }
+
+  .buttonRNorth {
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #396AA4;
+    padding: 12px 26px;
+    display: inline-block;
+    margin: 4px 5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #EBF0F9; 
+    border: 1px solid #396AA4;
+  }
+  
+  .buttonRNorth:hover {
+    background-color: rgba(255, 242, 174, 0.7);
+    color: #396AA4;
+    border: rgba(255, 242, 174, 0.7);
+  }
+
+  .buttonRAfrica {
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #396AA4;
+    padding: 12px 26px;
+    display: inline-block;
+    margin: 4px 5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #EBF0F9; 
+    border: 1px solid #396AA4;
+  }
+  
+  .buttonRAfrica:hover {
+    background-color: rgba(253, 205, 172, 0.7);
+    color: #396AA4;
+    border: rgba(253, 205, 172, 0.7);
+  }
+
+  .buttonRAntartica {
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #396AA4;
+    padding: 12px 26px;
+    display: inline-block;
+    margin: 4px 5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #EBF0F9; 
+    border: 1px solid #396AA4;
+  }
+  
+  .buttonRAntartica:hover {
+    background-color: rgba(241, 226, 204, 0.7);
+    color: #396AA4;
+    border: rgba(241, 226, 204, 0.7);
+  }
+
+  .buttonRSouth{
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #396AA4;
+    padding: 12px 26px;
+    display: inline-block;
+    margin: 4px 5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #EBF0F9; 
+    border: 1px solid #396AA4;
+  }
+  
+  .buttonRSouth:hover {
+    background-color: rgba(203, 213, 232, 0.7);
+    color: #396AA4;
+    border:rgba(203, 213, 232, 0.7);
+  }
+
+  .buttonROceania {
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #396AA4;
+    padding: 12px 26px;
+    display: inline-block;
+    margin: 4px 5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #EBF0F9; 
+    border: 1px solid #396AA4;
+  }
+  
+  .buttonROceania:hover {
+    background-color: rgba(244, 202, 228, 0.7);
+    color: #396AA4;
+    border: rgba(244, 202, 228, 0.7);
   }
 
 .bubblemap {
@@ -345,27 +506,6 @@ header {
 #my_dataviz{
     padding-top: 39px;
 }
-
-/*
-.button {
-    z-index: 10;
-    padding: 4px 17px;
-    text-transform: uppercase;
-    border: 1px solid transparent;
-    box-shadow: 2px 2px 4px var(--page-dark, #cdcdcd), -2px -2px 4px var(--page-light, #ffffff);
-    text-align: center;
-    line-height: 2.5;
-    width: auto;
-    display:inline-block;
-    margin:0 4px;
-    font-size: 12px;
-}
-*/
-
-/*.pill {
-    border-radius: 9999px;
-}
-*/
 
 .data{
     margin: auto;

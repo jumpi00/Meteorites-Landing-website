@@ -25,6 +25,8 @@ svg = svgbarstacked
         .style("text-anchor", "end")
         .style("fill", "#396AA4")
         .style("font-Family", "Rubik");
+    
+
   
 
   // Add Y axis
@@ -38,8 +40,6 @@ svg = svgbarstacked
     .selectAll("text")
         .style("fill", "#396AA4")
         .style("font-Family", "Rubik")
-    .selectAll(".x.axis line")
-        .style("stroke","gray");
     
 
   // color palette = one color per subgroup

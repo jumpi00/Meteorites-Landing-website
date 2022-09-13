@@ -15,7 +15,6 @@ svg = svgmap
   var color = d3.scaleOrdinal()
     //.range(d3.schemePaired);
     .domain(allContinent)
-    //.range(["#FCAA67","#B0413E","#306B34", "#5A352A", "#FFCAB1", "#3BA99C", "#EDAFB8", "#DEC1FF"]);
     .range(["#b3e2cd", "#fdcdac", "#cbd5e8", "#f4cae4", "#e6f5c9", "#fff2ae", "#f1e2cc", "#cccccc"]);
 
 //n is the sum of meteroites of each country. 
