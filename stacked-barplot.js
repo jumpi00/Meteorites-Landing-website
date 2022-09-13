@@ -25,6 +25,8 @@ svg = svgbarstacked
         .style("text-anchor", "end")
         .style("fill", "#396AA4")
         .style("font-Family", "Rubik");
+    
+
   
 
   // Add Y axis
@@ -38,7 +40,8 @@ svg = svgbarstacked
     .selectAll("text")
         .style("fill", "#396AA4")
         .style("font-Family", "Rubik");
-    
+
+
 
   // color palette = one color per subgroup
   var color = d3.scaleOrdinal()
