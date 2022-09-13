@@ -37,7 +37,9 @@ svg = svgbarstacked
     .call(d3.axisLeft(y).tickFormat(d3.format(".3s")))
     .selectAll("text")
         .style("fill", "#396AA4")
-        .style("font-Family", "Rubik");
+        .style("font-Family", "Rubik")
+    .selectAll(".x.axis line")
+        .style("stroke","gray");
     
 
   // color palette = one color per subgroup
