@@ -944,6 +944,14 @@ path.domain, line {
         width: 90%;
     }
 
+    .down-arrow{
+        visibility: hidden;
+    }
+
+    html body{
+        overflow-x: hidden;
+    }
+
 }
 /*size 05*/
 @media all and (max-width: 425px){
