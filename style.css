@@ -456,7 +456,7 @@ header {
     /*background: orange;*/
 }
 
-.bubblemap p, .ridgelinechart p {
+.bubblemap p, .barchart p {
     font-family: 'Rubik', sans-serif;
     font-size: 14px;
     font-weight: 300;
@@ -465,7 +465,7 @@ header {
     line-height: 18px;
 }
 
-.bubblemap h5, .ridgelinechart h5 {
+.bubblemap h5, .barchart h5 {
     font-family: 'Rubik', sans-serif;
     text-transform: uppercase;
     font-size: 14px;
@@ -488,7 +488,7 @@ header {
     text-align: center;
 }
 
-.ridgelinechart {
+.barchart {
     width: 48%; 
     height:auto; 
     margin:0px;
@@ -589,6 +589,7 @@ circle:hover{
 path.domain, line {
     stroke: #396aa6;
   }
+
 /*hambuerger menu css*/
 * {
   box-sizing: border-box;
@@ -721,7 +722,7 @@ path.domain, line {
         width: 740px;
     }
 
-    .buttonR{
+    .buttonRAll, .buttonRAsia, .buttonREurope, .buttonRNorth, .buttonRAfrica, .buttonRAntartica, .buttonRSouth, .buttonROceania{
         padding: 12px 20px;
     }
 
@@ -733,12 +734,8 @@ path.domain, line {
         width: 85%;
     }
 
-    .bubblemap {
-        width: 40%;
-    }
-
-    .ridgelinechart {
-        width: 40%;
+    .bubblemap, .barchart {
+        width: 45%;
     }
 
     .colours {
@@ -754,7 +751,7 @@ path.domain, line {
         width: 740px;
     }
 
-    .buttonR{
+    .buttonRAll, .buttonRAsia, .buttonREurope, .buttonRNorth, .buttonRAfrica, .buttonRAntartica, .buttonRSouth, .buttonROceania{
         padding: 12px 14px;
     }
 
@@ -770,7 +767,7 @@ path.domain, line {
         width: 40%;
     }
 
-    .ridgelinechart {
+    .barchart {
         width: 40%;
     }
 
@@ -807,7 +804,7 @@ path.domain, line {
         width: 80%;
     }
 
-    .buttonR{
+    .buttonRAll, .buttonRAsia, .buttonREurope, .buttonRNorth, .buttonRAfrica, .buttonRAntartica, .buttonRSouth, .buttonROceania{
         padding: 12px 12px;
         white-space: nowrap;
     }
@@ -822,7 +819,7 @@ path.domain, line {
         margin-bottom: 100px;
     }
 
-    .bubblemap, .ridgelinechart {
+    .bubblemap, .barchart {
         float: none;
         width: 70%;
         margin: 0 auto;
@@ -857,7 +854,7 @@ path.domain, line {
         margin: 0 auto;
     }
 
-    .bubblemap p, .ridgelinechart p {
+    .bubblemap p, .barchart p {
         font-size: 15px;
     }
 
@@ -882,7 +879,7 @@ path.domain, line {
         font-size: 15px;
     }
 
-    .bubblemap h5, .ridgelinechart h5 {
+    .bubblemap h5, .barchart h5 {
         font-size: 15px;
     }
 
@@ -904,7 +901,7 @@ path.domain, line {
 /*size 04*/
 @media all and (max-width: 480px){
 
-    .bubblemap, .ridgelinechart, .colourA, .colourB {
+    .bubblemap, .barchart, .colourA, .colourB {
         float: none;
     }
 
@@ -926,12 +923,13 @@ path.domain, line {
         width: 90%;
     }
 
-    .ridgelinechart {
+    .barchart {
         width: 90%;
     }
 
     .colours {
         width: 90%;
+        padding-top: 260px;
     }
 
     .intro{
@@ -982,7 +980,17 @@ path.domain, line {
 }
 /*size 06*/
 @media all and (max-width: 375px){
+    .title h1{
+        line-height: 2.8rem;
+    }
+
+    #C{
+        line-height: 1.5rem;
+    }
 }
 /*size 07*/
 @media all and (max-width: 325px){
+    .colours {
+        padding-top: 360px;
+    }
 }

@@ -143,7 +143,7 @@ function windowResized() {
     function mousePressed() {
     currentYear += yearBatch
     s += 100
-    t += 100
+    t += 100  
     loop()
     }
 
