@@ -674,7 +674,7 @@ path.domain, line {
     display: flex;
   }
   .menu {
-    position: absolute;
+    position: fixed;
     top: 0;
     margin-top: 50px;
     left: 0;
@@ -710,6 +710,11 @@ path.domain, line {
   }
 }
 /*END*/
+
+.menu {
+    position: fixed, !important;
+    z-index: 99999;
+}
 
 
 /*Responsive-->NEED TO FURTHER DEVELOP IT*/
