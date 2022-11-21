@@ -715,68 +715,6 @@ path.domain, line {
     z-index: 99999;
 }
 
-#messageOverlay {
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    height: 100%;
-    background-color: #EBF0F9;
-    z-index: 9999;
-    display: none;
-}
-
-.overlayContent{
-    width: 350px;
-    margin: 240px auto;
-}
-
-.overlayLogo {
-    padding-bottom: 10px;
-    border-bottom: 2px solid #2B507B;
-    font-family: 'Noto Sans Mono', monospace;
-    font-size: 18px;
-    font-weight:500;
-    color: #2B507B;
-    text-align: center;
-}
-
-.overlayText {
-    font-family: 'Rubik', sans-serif;
-    font-size: 18px;
-    font-weight: 500;
-    text-align: center;
-    color: #2B507B;
-    line-height: 1.5rem;
-}
-
-.overlayFooter h4 {
-	text-align: center;
-    margin: 0;
-    font-family: 'Rubik', sans-serif;
-    font-size: 14px;
-    font-weight: 500;
-    color: #2B507B;
-}
-
-.overlayFooter p {
-    text-align: center;
-    margin: 0;
-    font-family: 'Rubik', sans-serif;
-    font-size: 11px;
-    letter-spacing: 0.3 rem;
-    font-weight: 200;
-    padding-top: 20px;
-    color: #2B507B;
-}
-
-.overlayFooter{
-    padding-top: 100px;
-}
-
-
-
-
 
 /*Responsive-->NEED TO FURTHER DEVELOP IT*/
 
@@ -812,16 +750,7 @@ path.domain, line {
 /*size 02*/
 @media all and (max-width: 1024px){
 
-    .messageOverlay {
-       display: block;
-   }
-    .container {
-        display: none;
-   }  
-   
-  
-
-    /*.data {
+    .data {
         margin: auto;
         width: 740px;
     }
@@ -860,22 +789,12 @@ path.domain, line {
 
     .intro p {
         font-size: 16px;
-    }*/
+    }
 
 }
 /*size 03*/
 @media all and (max-width: 768px){
-    
-    .container {
-        display: none;
-   }  
-   
-   #messageOverlay {
-       display: block;
-   }
-
-
-    /*.p5visualisation{
+    .p5visualisation{
         width: 600px;
         margin: 0;
     }
@@ -980,21 +899,13 @@ path.domain, line {
 
     .buttons{
         display: block;
-    }*/
+    }
 
 }
 /*size 04*/
 @media all and (max-width: 480px){
 
-        .container {
-             display: none;
-        }  
-        
-        #messageOverlay {
-            display: block;
-        }
-
-    /*.bubblemap, .barchart, .colourA, .colourB {
+    .bubblemap, .barchart, .colourA, .colourB {
         float: none;
     }
 
@@ -1043,14 +954,12 @@ path.domain, line {
 
     html body{
         overflow-x: hidden;
-    }*/
+    }
 
 }
 /*size 05*/
 @media all and (max-width: 425px){
-    
-    
-    /*.title h1{
+    .title h1{
         font-size: 36px;
         line-height: 2rem;
         padding-bottom: 20px;
@@ -1079,20 +988,21 @@ path.domain, line {
 
     footer p{
         font-size: 12px;
-    }*/
+    }
 }
 /*size 06*/
 @media all and (max-width: 375px){
-    /*.title h1{
+    .title h1{
         line-height: 2.8rem;
     }
 
     #C{
         line-height: 1.5rem;
-    }*/
+    }
 }
 /*size 07*/
 @media all and (max-width: 325px){
-    /*.colours {
-     */
+    .colours {
+        padding-top: 360px;
+    }
 }
