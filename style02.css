@@ -812,7 +812,16 @@ path.domain, line {
 /*size 02*/
 @media all and (max-width: 1024px){
 
-    .data {
+    .messageOverlay {
+       display: block;
+   }
+    .container {
+        display: none;
+   }  
+   
+  
+
+    /*.data {
         margin: auto;
         width: 740px;
     }
@@ -851,12 +860,22 @@ path.domain, line {
 
     .intro p {
         font-size: 16px;
-    }
+    }*/
 
 }
 /*size 03*/
 @media all and (max-width: 768px){
-    .p5visualisation{
+    
+    .container {
+        display: none;
+   }  
+   
+   #messageOverlay {
+       display: block;
+   }
+
+
+    /*.p5visualisation{
         width: 600px;
         margin: 0;
     }
@@ -961,7 +980,7 @@ path.domain, line {
 
     .buttons{
         display: block;
-    }
+    }*/
 
 }
 /*size 04*/
