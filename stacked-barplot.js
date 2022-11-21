@@ -61,6 +61,9 @@ svg = svgbarstacked
     .enter().append("g")
       .attr("fill", function(d) { return color(d.key); })
       .attr("opacity", .7)
+      .attr('style', 'stroke:#396AA4;stroke-width:1')
+      .attr("opacity", .7)
+      
       .selectAll("rect")
       // enter a second time = loop subgroup per subgroup to add all rectangles
       .data(function(d) { return d; })

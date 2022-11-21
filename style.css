@@ -774,7 +774,9 @@ path.domain, line {
     padding-top: 80px;
 }
 
-
+rect{
+    border: 2px solid;
+}
 
 
 
