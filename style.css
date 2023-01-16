@@ -305,7 +305,7 @@ header {
   .buttonRAsia:hover {
     background-color: rgba(179, 226, 205, 0.5);
     color: #396AA4;
-    border: rgba(179, 226, 205, 0.5);
+border: 1px solid #396AA4;
   }
 
   .buttonREurope {
